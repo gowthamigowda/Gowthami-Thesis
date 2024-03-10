@@ -1,0 +1,1467 @@
+ {
+  "name": "root",
+  "children": [
+
+ 
+    {
+    "code": "1",
+    "name": "Suolo Consumato",
+    "UNITA DI MISURA": "Percentuale",
+    "DESCRIZIONE": "Percentuale di suolo consumato complessivamente sul totale del territorio comunale",
+    "NOTE": "Granularità comunale, anni 2016-2020-2021",
+    "SEGNO" : "-1",
+    "FONTE DATI": "ISPRA - https://www.isprambiente.gov.it/it/banche-dati/banche-dati-folder/suolo-e-territorio/uso-del-suolo"
+  },
+  {
+    "code": "2",
+    "name": "Densita del consumo del suolo",
+    "UNITA DI MISURA": "mq/ha",
+    "DESCRIZIONE": "Densità del suolo consumato sul territorio comunale in mq/ha",
+    "NOTE": "Granularità comunale, anni 2016-2020-2021",
+    "SEGNO" : "-1",
+    "FONTE DATI": "ISPRA, https://www.isprambiente.gov.it/it/banche-dati/banche-dati-folder/suolo-e-territorio/uso-del-suolo"
+  },
+  {
+    "code": "3",
+    "name": "Aree a rischio idraulico",
+    "UNITA DI MISURA": "Percentuale",
+    "DESCRIZIONE": "Percentuale di aree a rischio idraulico rispetto al territorio comunale",
+    "NOTE": "Granularità comunale, 2017-2021",
+    "SEGNO" : "-1",
+    "FONTE DATI": "ISPRA - https://www.isprambiente.gov.it/it/pubblicazioni/rapporti/dissesto-idrogeologico-in-italia-pericolosita-e-indicatori-di-rischio-edizione-2018; https://idrogeo.isprambiente.it/app/page/open-data (edizione 2021, dati 2020)"
+  },
+  {
+    "code": "4",
+    "name": "Copertura del suolo a verde (verde urbano)",
+    "UNITA DI MISURA": "Mq",
+      "DESCRIZIONE": "Metri quadri di aree verdi presenti sul territorio comunale",
+      "NOTE": "Granularità Comunale, anni 2016-2020",
+      "SEGNO" : "1",
+      "FONTE DATI": "Dossier Grandi Comuni"
+    },
+    {
+        "code": "5",
+        "name": "Densita del verde urbano",
+        "UNITA DI MISURA": "Percentuale",
+      "DESCRIZIONE": "Percentuale di verde urbano fruibile sul totale delle aree verdi comunali",
+      "NOTE": "Granularità comunale, anni 2016-2020",
+      "SEGNO" : "1",
+      "FONTE DATI": "Dossier Grandi Comuni"
+    },
+    {
+        "code": "6",
+        "name": "Disponibilita di verde urbano",
+        "UNITA DI MISURA": "mq/abitanti",
+      "DESCRIZIONE": "Superficie totale in metri quadri di aree verdi per abitante",
+      "NOTE": "Granularità Comunale, anni 2016-2020",
+      "SEGNO" : "1",
+      "FONTE DATI": "Dossier Grandi Comuni"
+    },
+    {
+        "code": "7",
+        "name":  "Giorni di allerta rossa",
+        "UNITA DI MISURA": "n.",
+          "DESCRIZIONE": "Numero di giornate in allerta rossa all’anno",
+          "NOTE": "Granularità comunale, anni 2018-2021",
+          "SEGNO" : "-1",
+          "FONTE DATI": "Protezione Civile Nazionale, Bollettino di Criticità Nazionale della Protezione Civile https://mappe.protezionecivile.gov.it/it/mappe-rischi/piattaforma-radar\nDati completi estratti e messi a disposizione dal Colonnello Marco Porrega (rif. Marco.Porrega@protezionecivile.it)"
+        },
+        {
+            "code": "8",
+            "name": "Popolazione esposta al rischio alluvioni",
+            "UNITA DI MISURA": "Percentuale",
+          "DESCRIZIONE": "Percentuale di popolazione residente in aree con pericolosità elevata rispetto alla popolazione totale",
+          "NOTE": "Granuarità comunale, anni 2017 e 2020 (metodo di calcolo: 100*Popolazione residente in aree con pericolosità elevata+media/popolazione totale)",
+          "SEGNO" : "-1",
+          "FONTE DATI": "ISPRA - https://www.isprambiente.gov.it/it/pubblicazioni/rapporti/dissesto-idrogeologico-in-italia-pericolosita-e-indicatori-di-rischio-edizione-2018; https://idrogeo.isprambiente.it/app/page/open-data (edizione 2021, dati 2020) (Nota: il dato non viene rilevato ogni anno in quanto è ritenuta sufficiente una rilevazione ogni 3-5 anni)"
+        },
+        {
+            "code": "9",
+            "name":"Popolazione esposta al rischio frane",
+            "UNITA DI MISURA": "Percentuale",
+          "DESCRIZIONE": "Percentuale di popolazione residente in aree con pericolosità elevata + molto elevata/popolazione totale",
+          "NOTE": "Granularità comunale, anni 2017 e 2020 (metodo di calcolo: 100*Popolazione residente in aree con pericolosità elevata + molto elevata/totale popolazione)",
+          "SEGNO" : "-1",
+          "FONTE DATI": "ISTAT - https://www.isprambiente.gov.it/it/pubblicazioni/rapporti/dissesto-idrogeologico-in-italia-pericolosita-e-indicatori-di-rischio-edizione-2018; https://idrogeo.isprambiente.it/app/page/open-data (edizione 2021, dati 2020) (Nota: il dato non viene rilevato ogni anno in quanto è ritenuta sufficiente una rilevazione ogni 3-5 anni)"
+        },
+       {
+        "code": "10",
+        "name": "Ondate di calore",
+        "UNITA DI MISURA": "n.",
+          "DESCRIZIONE": "Numero di giornate annuali di emergenza per ondate di calore",
+          "NOTE": "Granularità Comunale, anni 2017-2022",
+          "SEGNO" : "-1",
+          "FONTE DATI": "Ministero della Salute, Bollettino delle ondate di Calore (*), https://www.salute.gov.it/portale/caldo/archivioPubblicazioniCaldo.jsp\nDirezione dott. Pasqualino Rossi 06 59943636 Capoprogetto Ondate di Calore, p.rossi@sanita.it\nRif. Paola Michelozzi, p.michelozzi@deplazio.it, Dipartimento di Epidemiologia del S.S.R Lazio"
+        },
+        { "code": "11",
+        "name": "Produzione di energia",
+        "UNITA DI MISURA": "GWh totale/anno",
+            "DESCRIZIONE": "Energia totale prodotta annualmente in Gigavattora",
+            "NOTE": "Granularità provinciale anni 2016-2021",
+            "SEGNO" : "1",
+            "FONTE DATI": "Terna (*)\n(*) https://app.powerbi.com/view?r=eyJrIjoiZGUzY2U3NTgtZWRmZS00MjM2LTgwZGItYTgwZGI1YmQ0MWY1IiwidCI6ImVjY2Q3MzRlLTcwMjItNDcwOS1hYmE1LWE1ZGQ3NzkyOWUyNyIsImMiOjh9&pageName=ReportSection"
+          },
+          {
+            "code": "12",
+            "name": "Potenza impianti fotovoltaici",
+            "UNITA DI MISURA": "kW per impianto",
+            "DESCRIZIONE": "Potenza media per impianto delle installazioni fotovoltaiche per proprietà dell'impianto nei comuni capoluogo di provincia/città metropolitana",
+            "NOTE": "Granularità comunale, anni 2016-2020\nMonitorare da anno 2020 ad oggi mancante. (metodo di calcolo: Potenza media per impianto delle installazioni fotovoltaiche per proprietà dell'impianto nei comuni capoluogo di provincia/città metropolitana)",
+            "SEGNO" : "1",
+            "FONTE DATI": "ISTAT Ambiente Urbano https://www.istat.it/it/archivio/254037"
+          },
+          {
+            "code": "13",
+            "name": "Produzione di energia da fonti rinnovabili",
+            "UNITA DI MISURA": "Percentuale",
+            "DESCRIZIONE": "Percentuale produzione di energia elettrica da fonti rinnovabili calcolata sul totale dei consumi interni lordi di energia elettrica",
+            "NOTE": "Granularità provinciale, anni 2016-2020\n(Verificare anche su APP Powerbi di TERNA per recuperare dato digitale).",
+            "SEGNO" : "1",
+            "FONTE DATI": "BES - ISTAT https://www.istat.it/it/archivio/260716"
+          },
+          {
+            "code": "14",
+            "name": "Consumo di energia elettrica",
+            "UNITA DI MISURA": "GWh per abitante",
+            "DESCRIZIONE": "Consumo di energia elettrica in GWh per abitante",
+            "NOTE": "Granularità comunale, anni 2016-2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "Dossier Grandi Comuni, Tavola 4"
+          },
+          {
+            "code": "15",
+            "name":"Consumo di gas metano",
+            "UNITA DI MISURA": "metri cubi / abitante",
+            "DESCRIZIONE": "Gas metano in metri cubi consumato per abitante servito dalla rete",
+            "NOTE": "Granularità comunale, 2016-2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "Dossier Grandi Comuni, Tavola 5"
+          },
+          {
+            "code": "16",
+            "name": "Consumo di carburante",
+            "UNITA DI MISURA": "Percentuale",
+            "DESCRIZIONE": "Variazione percentuale annua delle vendite di carburante (Benzina senza Piombo, Gasolio e GPL)",
+            "NOTE": "Granularità regionale, anni 2018 - 2021",
+            "SEGNO" : "-1",
+            "FONTE DATI": "ACI Annuario statistico: https://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/annuario-statistico/annuario-statistico-2021.html, vedere tavola B.1-2"
+          },
+          {
+            "code": "17",
+            "name": "Consumo di energia elettrica per uso industriale",
+            "UNITA DI MISURA": "GWh per abitante",
+            "DESCRIZIONE": "Consumo di energia elettrica per uso industriale in GWh per abitante",
+            "NOTE": "Granularità comunale, anni 2016-2021",
+            "SEGNO" : "-1",
+            "FONTE DATI": "TERNA www.terna.it/it/sistema-elettrico/statistiche/pubblicazioni-statistiche"
+          },
+          {
+            "code": "18",
+            "name": "Concentrazione di PM10",
+            "UNITA DI MISURA": "n.",
+            "DESCRIZIONE": "Numero di giorni di superamento del limite per la protezione della salute umana previsto per il PM10",
+            "NOTE": "Granularità comunale, anni 2016-2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "ISTAT, Ambiente Urbano, tav.1.1"
+          },
+          {
+            "code": "19",
+            "name": "Concentrazione di PM2,5",
+            "UNITA DI MISURA": "N.",
+            "DESCRIZIONE": "Numero di giorni di superamento del limite per la protezione della salute umana previsto per il PM2,5",
+            "NOTE": "Granularità Comunale, anni 2016-2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "ISTAT, Ambiente urbano, Dati ambientali, Aria https://www.istat.it/it/archivio/ambiente+urbano"
+          },
+          {
+            "code": "20",
+            "name": "Esposizione a NO2",
+            "UNITA DI MISURA": "Microgrammi/metro cubo",
+            "DESCRIZIONE": "Emissione media annua su tutte le centraline in microgrammi/m3 di Bossido di Azoto",
+            "NOTE": "Granularità: comunale, anni 2016-2019",
+            "SEGNO" : "-1",
+            "FONTE DATI": "SNPA media annua di microgrammi/m3, Emissione media su tutte le centraline https://www.snpambiente.it/temi/biossido-di-azoto/"
+          },
+          {
+            "code": "21",
+            "name": "Inquinamento da fonti elettromagnetiche",
+            "UNITA DI MISURA": "n.",
+            "DESCRIZIONE": "Numero superamenti dei valori di riferimento rilevati nell’anno (RTV Impianti Radio Televisivi e SRB Stazioni Radio Base)",
+            "NOTE": "Granularità comunale, anni 2016-2018",
+            "SEGNO" : "-1",
+            "FONTE DATI": "SNPA http://www.snpambiente.it/2020/09/10/xv-rapporto-sulla-qualita-dellambiente-urbano-edizione-2019"
+          },
+          {
+            "code": "22",
+            "name": "Inquinamento acustico",
+            "UNITA DI MISURA": "Percentuale",
+            "DESCRIZIONE": "Percentuale di popolazione esposta al rumore complessivo rispetto alla popolazione residente.",
+            "NOTE": "Granularità regionale, anno 2018",
+            "SEGNO" : "-1",
+            "FONTE DATI": "SNPA http://www.snpambiente.it/2020/09/10/xv-rapporto-sulla-qualita-dellambiente-urbano-edizione-2019/"
+          },
+          {"code": "23",
+          "name": "Acque balneabili",
+          "UNITA DI MISURA": "Percentuale",
+            "DESCRIZIONE": "Percentuale di acque balneabili Buone+ Eccellenti sul totale",
+            "NOTE": "Granularità regionale, anni 2018 e 2020",
+            "SEGNO" : "1",
+            "FONTE DATI": "SNPA http://www.snpambiente.it/2020/09/10/xv-rapporto-sulla-qualita-dellambiente-urbano-edizione-2019/"
+          },
+          {
+            "code": "24",
+            "name": "Consumo medio pro capite di acqua",
+            "UNITA DI MISURA": "L/ab",
+            "DESCRIZIONE": "Consumo medio Litri di acqua per abitante fatturata per uso civile domestico",
+            "NOTE": "Granularità comunale, anno 2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "ISTAT DATI AMBIENTALI \"ACQUA\" https://www.istat.it/it/archivio/ambiente+urbano"
+          },
+          {
+            "code": "25",
+            "name": "Perdite idriche totali",
+            "UNITA DI MISURA": "Percentuale",
+            "DESCRIZIONE": "Percentuale di perdite idriche sul totale dell'acqua potabile immessa nella rete",
+            "NOTE": "Granularità comunale, anni 2018 e 2020",
+            "SEGNO" : "-1",
+            "FONTE DATI": "Dossier Grandi Comuni"
+          },
+          {
+            "code": "26",
+            "name": "Produzione di rifiuti pro capite",
+            "UNITA DI MISURA": "Kg /ab",
+              "DESCRIZIONE": "Quantità in Kg di rifiuti urbani raccolti per abitante",
+              "NOTE": "Granularità comunale, anni 2016-2020",
+              "SEGNO" : "-1",
+              "FONTE DATI": "Dossier Grandi Comuni"
+            },
+            {
+                "code": "27",
+                "name": "Riciclo da raccolta differenziata",
+                "UNITA DI MISURA": "Percentuale",
+              "DESCRIZIONE": "Percentuale di raccolta differenziata sul totale rifiuti urbani raccolti",
+              "NOTE": "Granularità comunale, 2016-2020",
+              "SEGNO" : "1",
+              "FONTE DATI": "Dossier Grandi Comuni"
+            },
+            {
+                "code": "28",
+                "name": "Consumo di materiale interno",
+                "UNITA DI MISURA": "t\\ab",
+              "DESCRIZIONE": "Tonnellate di materiali trasformati in emissione rifiuti e nuovi stock per abitante",
+              "NOTE": "Granularità regionale, anni 2016-2018",
+              "SEGNO" : "1",
+              "FONTE DATI": "BES - ISTAT https://www.istat.it/it/benessere-e-sostenibilit%C3%A0/obiettivi-di-sviluppo-sostenibile/gli-indicatori-istat GOAL 12 - Gli indicatori dell’Istat per gli obiettivi di sviluppo sostenibile"
+            },
+            {
+                "code": "29",
+                "name": "Costo individuale dei rifiuti",
+                "UNITA DI MISURA": "€/ab",
+              "DESCRIZIONE": "Costo individuale in eurocent pro-capite dei rifiuti",
+              "NOTE": "Granularità comunale, anni 2016-2019",
+              "SEGNO" : "-1",
+              "FONTE DATI": "ISPRA (costo individuale dei rifiuti in eurocent) https://www.catasto-rifiuti.isprambiente.it/index.php?pg=costicomunechilo&aa=2018®id=NORD&regid2=07&reg1=Liguria&p=1&width=1536&height=864&advice=si"
+            },
+            {
+                "code": "30",
+                "name": "Alloggi in nuovi edifici residenziali",
+                "UNITA DI MISURA": "n.",
+                "DESCRIZIONE": "Numero di abitazioni in fabbricati residenziali nuovi per classi di superficie utile abitabile e provincia",
+                "NOTE": "Granularità provinciale, anni 2016-2019",
+                "SEGNO" : "1",
+                "FONTE DATI": "ISTAT Statistiche sui permessi di costruire https://www.istat.it/it/archivio/250187"
+              
+              },
+              {
+                "code": "31",
+                "name": "Rigenerazione patrimonio residenziale",
+                "UNITA DI MISURA": "metri quadri",
+                "DESCRIZIONE": "Ampliamenti annui in mq di fabbricati residenziali in città",
+                "NOTE": "Granularità provinciale, anni 2016-2021",
+                "SEGNO" : "1",
+                "FONTE DATI": "ISTAT Statistiche sui permessi di costruire, Prendere la superficie totale tav, 1,2,3 https://www.istat.it/it/archivio/permessi+di+costruire?page=3"
+              },
+                
+              {
+                "code": "32",
+                "name": "Compravendite immobiliari",
+                "UNITA DI MISURA": "Percentuale",
+                "DESCRIZIONE": "Variazione percentuale compravendite immobiliari a destinazione residenziali rispetto all'anno precedente",
+                "NOTE": "Granularità comunale, anni 2016-2021",
+                "SEGNO" : "1",
+                "FONTE DATI": "Dossier Grandi Comuni Tav. 15 - Economia"
+              },
+              {
+                "code": "33",
+                "name": "Nuovi edifici non residenziali",
+                "UNITA DI MISURA": "n. per abitante",
+                  "DESCRIZIONE": "Numero di nuovi fabbricati ad uso non residenziale",
+                  "NOTE": "Granularità provinciale, anno 2016-2019 e 2021",
+                  "SEGNO" : "1",
+                  "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/250187 Tavola 2.03"
+                  
+                },
+                {
+                    "code": "34",
+                    "name": "Rigenerazione dell'edilizia non residenziale",
+                    "UNITA DI MISURA": "Volume",
+                  "DESCRIZIONE": "Volume in metri cubi degli ampliamenti di fabbricati non residenziali per provincia",
+                  "NOTE": "Granularità provinciale, anno 2016-2019 e 2021",
+                  "SEGNO" : "1",
+                  "FONTE DATI": "ISTAT Statistiche sui permessi di costruire https://www.istat.it/it/archivio/250187 tav. 2.18"
+                  
+                },
+                {
+                    "code": "35",
+                    "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                    "UNITA DI MISURA": "Numero per 100.000 abitanti",
+                  "DESCRIZIONE": "Musei e biblioteche, per 100.000 abitanti",
+                  "NOTE": "Granularità comunale, anni 2019-2020",
+                  "SEGNO" : "1",
+                  "Metodo di calcolo": "(100.000*numero/abitanti medi)",
+                  "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/264586"
+                  
+                },
+                {
+                    "code": "36",
+                    "name":"Rete di trasmissione elettrica",
+                    "UNITA DI MISURA": "Km",
+                    "DESCRIZIONE": "Km di rete elettrica a 220 e a 380 Kv per 1.000 kmq di superficie territoriale",
+                    "NOTE": "Granularità regionale, anni 2016-2018",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISTAT, Atlante statistico territoriale delle infrastrutture -  http://asti.istat.it/asti/"
+                  },
+                  {
+                    "code": "37",
+                    "name": "Rete di distribuzione gas",
+                    "UNITA DI MISURA": "km/superficie",
+                    "DESCRIZIONE": "Estensione della rete gas sul territorio (Lunghezza in Km/superficie kmq)",
+                    "NOTE": "Granularità comunale, 2012",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ARERA - Autorità di Regolazione per Energia e Ambiente - https://www.mise.gov.it/index.php/it/energia/gas-naturale-e-petrolio/gas-naturale/distribuzione/elenco-ambiti-territorial"
+                  },
+                  
+                  {
+                    "code": "38",
+                    "name": "Penetrazione della Banda Ultralarga",
+                    "UNITA DI MISURA": "Percentuale",
+                    "DESCRIZIONE": "Percentuale di abbonamenti in banda ultra-larga sulla popolazione residente",
+                    "NOTE": "Granularità provinciale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISTAT- https://www.istat.it/it/archivio/16777 tabella: 429P"
+                  },
+                  {
+                    "code": "39",
+                    "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                    "UNITA DI MISURA": "Percentuale",
+                    "DESCRIZIONE": "Percentuale delle famiglie raggiunte da tecnologia FTTP (Fibra a Casa)",
+                    "NOTE": "Granularità provinciale, anno 2020-2021",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Sito Agcom Relazioni Annuali https://www.agcom.it/relazioni-annuali provinciale"
+                  },
+                  {
+                    "code": "40",
+                    "name": "Broadband, Famiglie servite da tecnologia FWA",
+                    "UNITA DI MISURA": "Percentuale",
+                    "DESCRIZIONE": "Percentuale delle famiglie raggiunte da tecnologia ibrida FWA, fibra+onde radio per la connessione internet broadband in luoghi scarsamente accessibili.",
+                    "NOTE": "Granularità provinciale, anno 2020-2021",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Sito Agcom Relazioni Annuali https://www.agcom.it/relazioni-annuali provinciale"
+                    
+                  },
+                  {
+                    "code": "41",
+                    "name": "Stazioni Radio Base, impianti attivi",
+                    "UNITA DI MISURA": "n.",
+                    "DESCRIZIONE": "Numero di impianti di telecomunicazione attivi rispetto all'estensione comunale",
+                    "NOTE": "Granularità comunale, anni 2016-2018",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISPRA https://geodati.gov.it/resource/id/agcom:000001:20200706:103351"
+                  },
+                  {
+                    "code": "42",
+                    "name": "Stazioni Radio Base, servizi attivi",
+                    "UNITA DI MISURA": "n.",
+                    "DESCRIZIONE": "Numero di servizi attivi rispetto all'estensione comunale",
+                    "NOTE": "Granularità comunale, anni 2016-2018",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISPRA Dataset: Indicatori di copertura-statistiche provinciali per anno 2018 tav.9.1.3, per 2017 tav 9.1.3, per 2016 tav 9.1"
+                  },
+                  {
+                    "code": "43",
+                    "name": "Densita piste ciclabili",
+                    "UNITA DI MISURA": "Percentuale rispetto 100 kmq",
+                    "DESCRIZIONE": "Percentuale di km di lunghezza delle piste ciclabili rispetto a 100 kmq di superficie comunale",
+                    "NOTE": "Granularità comunale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "Metodo di calcolo": "km per 100 kmq di superficie comunale",
+                    "FONTE DATI": "Dossier Grandi Comuni"
+                  },
+                  {
+                    "code": "44",
+                    "name": "Disponibilita dei percorsi pedonali",
+                    "UNITA DI MISURA": "Mq per 100 abitanti",
+                    "DESCRIZIONE": "Superficie delle aree pedonali in metri quadri per 100 abitanti nei comuni capoluogo di provincia",
+                    "NOTE": "Granularità comunale, anni 2016-2019",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISTAT Tavole Ambiente Urbano, Tavola 21.1 - Superficie delle aree pedonali nei comuni capoluogo di provincia/città metropolitana, per comune, ripartizione geografica e tipo di capoluogo - Anni 2013-2019 https://www.istat.it/it/archivio/258691"
+                  },
+                  {
+                    "code": "45",
+                    "name": "Punti di ricarica auto elettriche",
+                    "UNITA DI MISURA": "n.",
+                    "DESCRIZIONE": "Numero di colonnine di ricarica per veicoli elettrici",
+                    "NOTE": "Granularità comunale, anni 2017-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Dossier Grandi Comuni"
+                  },
+                  {
+                    "code": "46",
+                    "name": "Car Sharing",
+                    "UNITA DI MISURA": "Numero per 10.000 abitanti",
+                    "DESCRIZIONE": "Numero dei servizi di car sharing nel Comune per 10.000 abitanti",
+                    "NOTE": "Granularità comunale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Dossier Grandi Comuni"
+                  },
+                  {
+                    "code": "47",
+                    "name": "Autobus a basse emissioni",
+                    "UNITA DI MISURA": "numero",
+                    "DESCRIZIONE": "Numero di autobus a basse emissioni circolanti",
+                    "NOTE": "Granularità provinciale, 2016-2020",
+                    "SEGNO" : "-1",
+                    "FONTE DATI": "ISTAT, TAVOLE AMBIENTE URBANO https://www.istat.it/it/archivio/244648 Tavola 7.2 "
+                
+                  },
+                  {
+                    "code": "48",
+                    "name": "Domanda di trasporto pubblico locale",
+                    "UNITA DI MISURA": "n/abitante",
+                    "DESCRIZIONE": "Numero di passeggeri annui del trasporto pubblico in rapporto agli abitanti",
+                    "NOTE": "Granularità comunale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Dossier Grandi Comuni"
+                  },
+                  {
+                    "code": "49",
+                    "name": "Densita delle reti di tram, metropolitane e filobus",
+                    "UNITA DI MISURA": "Km per 100 Kmq di superficie",
+                    "DESCRIZIONE": "Lunghezza in Km delle reti di tram metropolitane e filobus in rapporto a 100 Kmq di superficie territoriale",
+                    "NOTE": "Granularità comunale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "ISTAT, TAVOLE AMBIENTE URBANO  https://www.istat.it/it/archivio/244648 Densità delle reti di tram, metropolitana e filobus nei comuni capoluogo di provincia/città metropolitana, per comune, ripartizione geografica e tipo di capoluogo."
+                    
+                  },
+                  {
+                    "code": "50",
+                    "name": "Licenze di Taxi attive",
+                    "UNITA DI MISURA": "n. per 10.000 abitanti",
+                    "DESCRIZIONE": "Numero di licenze di taxi attive ogni 10.000 abitanti",
+                    "NOTE": "Granularità comunale, anni 2016-2020",
+                    "SEGNO" : "1",
+                    "FONTE DATI": "Dossier Grandi Comuni"
+                  },
+                  {
+                    "code": "51",
+                    "name": "Lunghezza rete stradale principale",
+                    "UNITA DI MISURA": "Km/Kmq",
+                      "DESCRIZIONE": "Lunghezza in Km della rete stradale rapportata all'estensione territoriale in kmq",
+                      "NOTE": "Granularità regionale, anno 2011",
+                      "SEGNO" : "1",
+                      "FONTE DATI": "Dossier ACI (*): Dotazione di infrastrutture stradali sulterritorio italiano; Tab. pag. 4  https://www.aci.it/fileadmin/documenti/studi_e_ricerche/dati_statistiche/Infrastrutture_stradali_in_Italia/Dotazione_di_infrastrutture_stradali_in_Italia.pdf"
+                    },
+                    {
+                        "code": "52",
+                        "name": "Tasso di motorizzazione",
+                        "UNITA DI MISURA": "n./abitante",
+                      "DESCRIZIONE": "Numero di autovetture circolanti ogni 1000 abitanti",
+                      "NOTE": "Granularità comunale, anni 2016-2021",
+                      "SEGNO" : "1",
+                      "FONTE DATI": "Dossier Grandi Comuni"
+                    },
+                    {
+                        "code": "53",
+                        "name": "Trasporto marittimo. Movimento passeggeri",
+                        "UNITA DI MISURA": "Numero (migliaia)",
+                        "DESCRIZIONE": "Numero di passeggeri annui che fruiscono dei servizi portuali",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT Statistiche Istat http://dati.istat.it/Index.aspx?QueryId=25765; (fonte alternativa Dataset Autorità portuale  https://www.portsofgenoa.com/it/chi-siamo/porto-numeri/dati-di-traffico.html)"
+                      },
+                      {
+                        "code": "54",
+                        "name": "Trasporto marittimo. Movimentazione merci",
+                        "UNITA DI MISURA": "Tonnellate (migliaia)",
+                        "DESCRIZIONE": "Migliaia di tonnellate annue di merce movimentata nel porto",
+                        "NOTE": "Granularità Comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "I ISTAT Statistiche Istat http://dati.istat.it/Index.aspx?QueryId=25765; (fonte alternativa Dataset Autorità portuale https://www.portsofgenoa.com/it/chi-siamo/porto-numeri/dati-di-traffico.html)"
+                      },
+                      {
+                        "code": "55",
+                        "name":"Trasporto Aereo. Movimento passeggeri",
+                        "UNITA DI MISURA": "Numero",
+                        "DESCRIZIONE": "Passeggeri annui che fruiscono dei servizi aeroportuali",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT: http://dati.istat.it/Index.aspx?DataSetCode=DCSC_INDTRAEREO#; https://www.istat.it/it/files/2020/05/Trasporto-aereo.pdf (il dato Istat deriva i dati da Assaeroporti) Nota: i dati per aeroporti Milano sommano Malpensa e Linate"
+                      },
+                      {"code": "56",
+                      "name": "Trasporto Aereo. Movimentazione merci",
+                      "UNITA DI MISURA": "Tonnellate",
+                        "DESCRIZIONE": "Tonnellate annue di merce movimentata in aeroporto",
+                        "NOTE": "Granularità Comunale (Aeroporto di Genova), anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT: http://dati.istat.it/Index.aspx?DataSetCode=DCSC_INDTRAEREO#; https://www.istat.it/it/files/2020/05/Trasporto-aereo.pdf (il dato Istat deriva i dati da Assaeroporti); i dati per aeroporti Milano sommano Malpensa e Linate"
+                      },
+                      {
+                        "code": "57",
+                        "name": "Reddito medio pro capite",
+                        "UNITA DI MISURA": "€",
+                      "DESCRIZIONE": "Reddito medio  pro capite",
+                      "NOTE": "Granularità comunale, anni 2016-2020.",
+                      "SEGNO" : "1",
+                      "FONTE DATI": "Dossier Grandi Comuni"
+                    },
+                    
+                      {
+                        "code": "58",
+                        "name": "Variazione reddito pro-capite",
+                        "UNITA DI MISURA": "Percentuale",
+                      "DESCRIZIONE": "Variazione del reddito annuale pro capite in euro annuale",
+                      "NOTE": "Granularità comunale, anni 2016-2020",
+                      "SEGNO" : "1",
+                      "FONTE DATI": "Dossier Grandi Comuni"
+                    },
+                    
+                      {
+                        "code": "59",
+                        "name": "Retribuzione media",
+                        "UNITA DI MISURA": "Media",
+                      "DESCRIZIONE": "Retribuzione media in euro dei lavoratori dipendenti",
+                      "NOTE": "Granularità provinciale, anni 2016-2020",
+                      "SEGNO" : "1",
+                      "FONTE DATI": "ISTAT BES DEI TERRITORI https://www.istat.it/it/archivio/retribuzioni BES https://www.istat.it/it/archivio/259970"
+                    },
+                    {
+                        "code": "60",
+                        "name": "Numero pensionati con basso reddito",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Pensionati con pensione inferiore a 500 euro al mese",
+                        "NOTE": "Granularità provinciale, anni 2016-20220",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT BES https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "61",
+                        "name": "Sofferenza prestiti alle famiglie",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di prestiti bancari insolventi erogati alle famiglie",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT BES https://www.istat.it/it/archivio/260716  ISTAT calcola il dato come rapporto percentuale tra le consistenze delle nuove sofferenze nell'anno (prestiti a soggetti dichiarati insolventi o difficili da recuperare nel corso dell'anno) e lo stock dei prestiti non in sofferenza nell'anno"
+                      },
+                      
+                        {
+                        "code": "62",
+                        "name": "Famiglie per capacità di arrivare a fine mese",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di famiglie con reddito che arrivano a fine mese con grande difficoltà",
+                        "NOTE": "Granularità regionale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT BES richiedere ad ISTAT sono disponibili i dati per classi di comuni, ma tratti da indagine campionaria; quindi, il dato non è rilevante se aggregato per comune"
+                    
+                      },
+                      {
+                        "code": "63",
+                        "name": "Tasso di occupazione",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di occupati nella forza lavoro del Comune, su totale forza lavoro",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni Dati che saranno ricalcolati a seguito del censimento permanente e nuova metodologia disponibile"
+                        
+                      },
+                      {
+                        "code": "64",
+                        "name": "Disoccupazione",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Tasso di disoccupazione della forza lavoro del Comune, su totale forza lavoro",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Dossier Grandi Comuni Dati che saranno ricalcolati a seguito del censimento permanente e nuova metodologia disponibile"
+                        
+                      },
+                      {
+                        "code": "65",
+                        "name":"Disoccupazione giovanile",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Tasso di disoccupazione giovanile 15-34 anni (il dato relativo al 2016 e 2017 si riferisce alla fascia d'età 15-29 anni",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Dossier Grandi Comuni Dati che saranno ricalcolati a seguito del censimento permanente e nuova metodologia disponibile"
+                        
+                      },
+                      
+                        {
+                            "code": "66",
+                            "name":"Disoccupazione femminile",
+                            "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Tasso di disoccupazione femminile 15 anni e più",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Dossier Grandi Comuni Dati che saranno ricalcolati a seguito del censimento permanente e nuova metodologia disponibile"
+                        
+                      },
+                      {
+                        "code": "67",
+                        "name": "Solidita patrimoniale",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Capacità dell’impresa di autofinanziare investimenti durevoli senza finanziamenti esterni",
+                        "NOTE": "Granularità comunale, 2016-2021\nIndice di copertura delle immobilizzazioni (patrimoniale) = TOTALE IMMOB. MATERIALI / TOTALE PATRIMONIO NETTO",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      },
+                      {
+                        "code": "68",
+                        "name": "Solidita finanziaria",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Rapporto tra il capitale proprio e i finanziamenti esterni",
+                        "NOTE": "Granularità comunale, 2016-2021\nIndice di indipendenza finanziaria = TOTALE PATRIMONIO NETTO / TOTALE DEBITI",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      },
+                      {
+                        "code": "69",
+                        "name": "Solidita commerciale",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Il tasso di rotazione del magazzino indica la capacità dell’impresa di minimizzare le giacenze e velocizzare il time to market delle vendite",
+                        "NOTE": "Granularità comunale, 2016-2021\nIndice di rotazione del CCL = Ricavi vendite e prestazioni / ATTIVO CIRCOLANTE",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      } ,   
+                      {
+                        "code": "70",
+                        "name":"Redditivita",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "ROI (Return on Investment) descrive la capacità dell’impresa di generare valore economico grazie alle sue attività.",
+                        "NOTE": "Granularità comunale, 2016-2021\n(Risultato operativo/totale attivo)",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      },
+                      {
+                        "code": "71",
+                        "name": "Dimensione aziendale",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di imprese con 50 o più addetti sul totale delle imprese",
+                        "NOTE": "Granularità provinciale, anni 2016-2020\nFONTE DATI ISTAT, http://dati.istat.it/Index.aspx?DataSetCode=DICA_ASIAUE1P",
+                        "SEGNO" : "1",
+                        "FONTE DATI":"ISTAT, http://dati.istat.it/Index.aspx?DataSetCode=DICA_ASIAUE1P"
+                        
+                      },
+                      {
+                        "code": "72",
+                        "name": "Produttivita",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Capacità dell’impresa di generare valore con l’impiego ottimale delle proprie risorse (valore aggiunto per addetto)",
+                        "NOTE": "Granularità comunale, 2016-2021\nFONTE DATI Database AIDA (dato fornito Unige)",
+                        "SEGNO" : "1",
+                        "FONTE DATI":"Database AIDA (dato fornito Unige)"
+                        
+                      },   
+                      {
+                        "code": "73",
+                        "name": "Capitale intellettuale aziendale",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Gli investimenti in immobilizzazioni immateriali rispetto al totale dell’attivo patrimoniale sono considerati un indicatore di innovazione",
+                        "NOTE": "Granularità comunale, anni 2016-2021\nMetodo di calcolo: Immobilizzazioni immateriali / Totale attivo",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      },
+                      {
+                        "code": "74",
+                        "name": "Propensione agli investimenti",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "La propensione agli investimenti, calcolata come variazione degli investimenti rispetto al periodo precedente, è un indicatore di innovazione",
+                        "NOTE": "Granularità comunale, anni 2016-2021\nMetodo di calcolo: Totale Immobilizzazioni anno x /Totale Immobilizzazioni anno x-1",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Database AIDA (dato fornito Unige)"
+                      },
+                      {
+                        "code": "75",
+                        "name": "Addetti del settore ICT",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Incidenza degli addetti al settore Information & Comunication Technology che utilizzano computer connessi ad Internet almeno una volta la settimana",
+                        "NOTE": "Granularità regionale, anni 2017-2021\nMetodo di calcolo: numero dipendenti delle imprese nei settori ATECO informatici",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?DataSetCode=DCSP_ICT#"
+                      },
+                      {
+                        "code": "76",
+                        "name": "Imprenditorialita attiva",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di imprese attive iscritte alla camera di commercio",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                      {
+                        "code": "77",
+                        "name": "Imprenditorialita giovanile",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di imprenditori under30 su totale",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Camera di Commercio"
+                      },
+                      {
+                        "code": "78",
+                        "name": "Imprenditorialita femminile",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Imprenditrici su totale imprenditori",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Camera di commercio"
+                      },
+                      {
+                        "code": "79",
+                        "name": "Servizi bancari",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di Servizi bancari sul territorio",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                      {
+                        "code": "80",
+                        "name": "Rischiosita finanziaria",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Flusso sofferenze/impieghi (Tasso di decadimento dei finanziamenti per cassa)",
+                        "NOTE": "Granularità Provinciale, anni 2016-2018\nMetodo di calcolo: Flusso sofferenze / Impieghi",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT, Banca dati indicatori territoriali per le politiche di sviluppo, https://www.istat.it/it/archivio/16777 Tabella Indicatore 162 Rischio dei finanziamenti"
+                      },
+                      {
+                        "code": "81",
+                        "name":"Imprese che hanno svolto attivita di R&S",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di imprese che hanno svolto attività di Ricerca e Sviluppo utilizzando infrastrutture di ricerca e altri servizi",
+                        "NOTE": "Granularità Regionale, 2016-2020\nFONTE DATI ISTAT, Banca dati indicatori territoriali per le politiche di sviluppo, https://www.istat.it/it/archivio/16777 bisogna prendere 'Indicatori per Obiettivi Tematici dell’Accordo di Partenariato 2014–2020', obiettivo1 OT1 regionale (nel provinciale ci sono solo brevetti) sceglier foglio Ind 432 (2016-2019)",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT, Banca dati indicatori territoriali per le politiche di sviluppo, https://www.istat.it/it/archivio/16777 bisogna prendere Indicatori per Obiettivi Tematici dell’Accordo di Partenariato 2014–2020, obiettivo1 OT1 regionale (nel provinciale ci sono solo brevetti) sceglier foglio Ind 432 (2016-2019)"
+                      },
+                      {
+                        "code": "82",
+                        "name": "Addetti nelle nuove imprese",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di dipendenti per le aziende costituite nell’anno",
+                        "NOTE": "Granularità comunale, anno 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "AIDA"
+                      },
+                      {
+                        "code": "83",
+                        "name": "Turisticita",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Giornate di turismo per abitante: rappresenta l’attrattività turistica della città, considerata come potenzialità economico",
+                        "NOTE": "Granularità Provinciale, anni 2016-2020\nFONTE DATI ISTAT, Banca dati indicatori territoriali per le politiche di sviluppo, https://www.istat.it/it/archivio/16777 Tabella Turismo provinciale Indicatore 105",
+                        "SEGNO" : "1",
+                        "FONTE DATI" : "ISTAT, Banca dati indicatori territoriali per le politiche di sviluppo, https://www.istat.it/it/archivio/16777 Tabella Turismo provinciale Indicatore 105"
+                      },
+                      {
+                        "code": "84",
+                        "name": "Tasso di iscrizione netto sul registro delle imprese",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di imprese iscritte meno imprese cessate sul totale delle imprese registrate nell'anno precedente",
+                        "NOTE": "Granularità provinciale, anni 2016-2020\nFONTE DATI ISTAT, (*) Tabella Demografia di impresa indicatore n. 242",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT, (*) Tabella Demografia di impresa indicatore n. 242"
+                      
+                      },
+                      {
+                        "code": "85",
+                        "name": "Intensita brevettuale",
+                        "UNITA DI MISURA": "n. per 1.000.000 abitanti",
+                        "DESCRIZIONE": "Numero totale di domande di brevetto presentate all'Ufficio Europeo dei Brevetti (Epo) per milione di abitanti",
+                        "NOTE": "Granularità provinciale, anni 2016-2019\n1000000 * nBrevetti registrati allo European Patent Office (EPO) / abitanti media",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT, BES https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "86",
+                        "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Capacità delle imprese di esportare in settori a domanda mondiale dinamica; è un indice della capacità delle imprese di muoversi e competere nel contesto internazionale e nei settori produttivi più promettenti",
+                        "NOTE": "Granularità provinciale, anni 2016-2019\nFONTE DATI ISTAT, Internazionalizzazione tav 168",
+                        "SEGNO" : "1",
+                        "FONTE DATI":"ISTAT, Internazionalizzazione tav 168"
+                        
+                      },
+                      {
+                        "code": "87",
+                        "name": "Innovazione d'impresa",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale numero di PMI innovative presenti sul territorio, sul totale delle imprese",
+                        "NOTE": "Granularità comunale, 2016-2020\nFONTE DATI AIDA",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "AIDA"
+                        
+                      },
+                      {
+                        "code": "88",
+                        "name": "Tasso di abbandono scolastico prematuro",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di studenti che abbandonano gli studi prima di ottenere il diploma sul totale degli studenti",
+                        "NOTE": "Granularità regionale, anni 2016-2020",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT, formazione e istruzione - http://dati.istat.it/Index.aspx"
+                      },
+                      {
+                        "code": "89",
+                        "name": "Neet, giovani che non studiano/lavorano",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di Neet, ovvero giovani che non studiano né lavorano su popolazione 15-29 anni",
+                        "NOTE": "Granularità provinciale, anni 2018-2020",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT BES - https://www.istat.it/it/archivio/260716\nhttp://dati.istat.it/Index?DataSetCode=DCCV_NEET1"
+                      },
+                       {
+                        "code": "90",
+                        "name": "Competenza alfabetica non adeguata",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di studenti delle classi III della scuola secondaria di primo grado che non raggiungono un livello sufficiente (Livello I + Livello II di 5 livelli) di competenza alfabetica )",
+                        "NOTE": "Granularità provinciale, anni 2018-2019",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT BES - https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "92",
+                        "name": "Diplomati",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Diplomati rispetto al totale della popolazione",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT BES - https://www.istat.it/it/archivio/260716"
+                      },
+                       {
+                        "code": "93",
+                        "name": "Laureati",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Laureati rispetto al totale della popolazione",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT BES - https://www.istat.it/it/archivio/260716"
+                      },
+                       {
+                        "code": "94",
+                        "name": "Partecipazione alla formazione continua",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Persone tra 25 e 64 anni che hanno partecipato ad attività di formazione continua.",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT BES - https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "95",
+                        "name": "Speranza di vita alla nascita",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero medio di anni che una persona si aspetta di vivere",
+                        "NOTE": "Granularità provinciale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT – BES - https://www.istat.it/it/archivio/260716"
+                      },
+                       {
+                        "code": "96",
+                        "name": "Mortalita evitabile",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Decessi la cui causa di morte è identificata come trattabile tra 0 e 74 anni.",
+                        "NOTE": "Granularità provinciale, anni 2016-2019",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT – BES - https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "97",
+                        "name": "Mortalita per tumore",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Mortalità per tumore tra 20 e 64 anni, incidenza su 10.000 abitanti.",
+                        "NOTE": "Granularità provinciale, anni 2016-2019",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT – BES - https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "98",
+                        "name":"Abitanti per farmacie e parafarmacie",
+                        "UNITA DI MISURA": "n. ogni 100,000 abitanti",
+                        "DESCRIZIONE": "Disponibilità di farmacie rapportata al numero di abitanti",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Ministero della salute, open data (*) - https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=5"
+                      },
+                      {
+                        "code": "99",
+                        "name": "Posti letto in ospedale",
+                        "UNITA DI MISURA": "n. ogni 100,000 abitanti",
+                        "DESCRIZIONE": "Posti letto in ospedale per numero di abitanti",
+                        "NOTE": "Granularità provinciale, anni 2016-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT, BES dei Territori: Strutture sanitarie: Indice di dotazione infrastrutturale - http://dati.istat.it/Index.aspx?QueryId=31481, https://www.istat.it/it/archivio/260716"
+                      },
+                       {
+                        "code": "100",
+                        "name": "Posti letto ad elevata assistenza",
+                        "UNITA DI MISURA": "n. ogni 100,000 abitanti",
+                        "DESCRIZIONE": "Posti letto in ospedale ad elevata assistenza per numero di abitanti",
+                        "NOTE": "Granularità provinciale, anni 2017-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Istat BES - https://www.istat.it/it/archivio/260716"
+                      },
+                       {
+                        "code": "101",
+                        "name": "Emigrazione ospedaliera",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Dimissioni ospedaliere in regioni diverse da quella di residenza",
+                        "NOTE": "Granularità provinciale, anni 2016-2020",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Istat BES - https://www.istat.it/it/archivio/260716"
+                      },
+                      {
+                        "code": "102",
+                        "name": "Numero di case sovraffollate",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Numero di componenti della famiglia per metro quadro, in percentuale",
+                        "NOTE": "Granularità regionale (momentaneamente), anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "ISTAT - http://dati.istat.it/Index.aspx?DataSetCode=DCCV_ABITAFFOLL#"
+                      },
+                     {
+                        "code": "103",
+                        "name": "Sfratti eseguiti",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di sfratti annui eseguiti sul totale della popolazione residente",
+                        "NOTE": "Granularità comunale, anni 2018-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                       {
+                        "code": "104",
+                        "name":"Case di proprieta",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di abitazioni di proprietà con persone residenti, su totale popolazione residente",
+                        "NOTE": "Granularità regionale anni 2016-2021\nDato non significativo a granularità più fine in quanto derivato da indagine a campione",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT - Dato regionale, dati dal 2016 al 2020."
+                      },
+                      {
+                        "code": "105",
+                        "name":"Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                        "UNITA DI MISURA": "Media in minuti",
+                        "DESCRIZIONE": "Tempo medio in minuti di percorrenza del tragitto tra casa e la sede del lavoro",
+                        "NOTE": "Granularità comunale, anni 2019-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "MoovitApp (*) - https://moovitapp.com/insights/it/Analisi_Moovit_sull_indice_per_la_mobilit%C3%A0_pubblica-countries"
+                      },
+                       {
+                        "code": "106",
+                        "name":"Soddisfazione per il tempo libero",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale delle risposte 'Molto' alla domanda sulla soddisfazione per il tempo libero, per 100 persone",
+                        "NOTE": "Granularità regionale, anni 2016-2020\nISTAT rilascia il dato con granularità Comunale su richiesta del Comune",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT - https://www.istat.it/it/archivio/258079"
+                      },
+                      {
+                        "code": "107",
+                        "name":"Servizi per l'infanzia, nido",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di posti autorizzati nei nidi ogni 100 bambini tra 0 e 2 anni",
+                        "NOTE": "Granularità regionale, anni 2016-2019",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT - https://www.istat.it/it/archivio/263120"
+                      },
+                       {
+                        "code": "108",
+                        "name":"Strutture per assistenza agli anziani",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di posti letto per utenza over 65 rispetto alla popolazione over 65",
+                        "NOTE": "Granularità regionale, anni 2016-2018",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT (*) - http://dati.istat.it/Index.aspx?QueryId=21996 'Posti letto per tipo di utenza e tipo di residenzialità' e scegliere il dato 'Anziani 65 anni e più'"
+                      },
+                      {
+                        "code": "110",
+                        "name":"Saldo demografico naturale",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Bilancio annuale tra nati e morti. Percentuale del saldo demografico naturale rispetto alla popolazione media",
+                        "NOTE": "Granularità comunale, anni 2016-2021 Metodo di calcolo 100* saldo naturale / popolazione media",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                       
+                      {
+                        "code": "111",
+                        "name":"Residenti in eta lavorativa",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale residenti in età lavorativa (15-64) rispetto al totale della popolazione a fine anno",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                    {
+                        "code": "112",
+                        "name":"Incidenza degli abitanti immigrati",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale stranieri residenti nel Comune rispetto al totale della popolazione a fine anno",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                      {
+                        "code": "113",
+                        "name":"Densita di popolazione",
+                        "UNITA DI MISURA": "n. / kmq",
+                        "DESCRIZIONE": "Popolazione media rapportata alla superficie comunale disponibile",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT comunale, popolazione residente, tutti i comuni (cod. 19101)"
+                      },
+                      {
+                        "code": "114",
+                        "name":"Numero di famiglie mono composte",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di famiglie di un solo membro rispetto al totale famiglie",
+                        "NOTE": "Granularità comunale, anni 2018-2019",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT (cod. 19101)"
+                      },
+                       {
+                        "code": "115",
+                        "name":"Numero di famiglie numerose",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di famiglie con 5 membri o più rispetto al totale famiglie",
+                        "NOTE": "Granularità comunale, anni 2018-2019",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT (cod. 19101)  http://dati-censimentipermanenti.istat.it/?lang=it  https://ugeo.urbistat.com/AdminStat/it/it/demografia/popolazione/genova/10/3"
+                      },
+                      {
+                        "code": "116",
+                        "name":"Tasso di natalita",
+                        "UNITA DI MISURA": "Numero ogni 1000 abitanti",
+                        "DESCRIZIONE": "Nati ogni mille abitanti rispetto alla popolazione media",
+                        "NOTE": "Granularità comunale, anni 2016-2021 Metodo di calcolo: 1000* nati/popolazione media",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT Indicatori demografici https://dati.istat.it/index.aspx?datasetcode=dcis_inddemog1 "
+                        
+                      },
+                       {
+                        "code": "117",
+                        "name":"Incidenza degli abitanti over 65",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di residenti con una età pari o superiore ai 65 anni, su totale della popolazione",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "-1",
+                        "FONTE DATI": "Dossier Grandi Comuni; ISTAT, http://demo.istat.it/popres/index.php?anno=2019&lingua=it"
+                        
+                      },
+                       {
+                        "code": "118",
+                        "name":"Saldo demografico migratorio",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale del saldo migratorio rispetto alla popolazione media",
+                        "NOTE": "Granularità comunale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                      {
+                        "code": "119",
+                        "name":"Dotazione di musei per abitante",
+                        "UNITA DI MISURA": "n. per 100.000 abitanti",
+                        "DESCRIZIONE": "Musei disponibili in rapporto agli abitanti",
+                        "NOTE": "Granularità comunale, anni 2017-1018 Metodo di calcolo: 100.000*n. musei nel Comune / abitanti medi",  
+                        "SEGNO" : "1",                                                                                   
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/167566"
+                      },
+                      {
+                        "code": "120",
+                        "name":"Dotazione di biblioteche per abitante",
+                        "UNITA DI MISURA": "n. per 100.000 abitanti",
+                        "DESCRIZIONE": "Numero di biblioteche per 100.000 abitanti rispetto agli abitanti medi" ,                                                                                                                                                            
+                        "NOTE": "Granularità comunale, 2019-2020 Metodo di calcolo: 100.000*n. biblioteche nel Comune / abitanti medi",
+                        "SEGNO" : "1",                                                                                                                                                                                                                                                                 
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/255738"
+                      },
+                       {
+                        "code": "121",
+                        "name":"Dotazione di teatri per abitante",
+                        "UNITA DI MISURA": "n. per 100.000 abitanti",
+                        "DESCRIZIONE": "Numero di teatri per 100.000 abitanti rispetto agli abitanti medi",
+                        "NOTE": "Granularità regionale, anni 2016-2020 Metodo di calcolo: 100.000*numero di teatri/abitanti medi",   
+                        "SEGNO" : "1",                                                                                  
+                        "FONTE DATI": "SIAE https://www.siae.it/it/chi-siamo/lo-spettacolo-cifre/losservatorio-dello-spettacolo"
+                      },
+                      {
+                        "code": "122",
+                        "name":"Dotazione di sale cinematografiche per abitante",
+                        "UNITA DI MISURA": "n. per 100.000 abitanti",
+                        "DESCRIZIONE": "Numero di sale cinematografiche per 100.000 abitanti rispetto agli abitanti medi",
+                        "NOTE": "Granularità regionale, anni 2016-2020  metodo di calcolo: 100.000*n. sale cinematografiche/abitante medi comparabilità con altre città scalabilità",                                                                                                                                                                           
+                        "SEGNO" : "1",
+                        "FONTE DATI": "SIAE (*)\nFonte alternativa ISTAT (*) https://www.siae.it/sites/default/files/SIAE_Annuario_dello_Spettacolo_2020.pdf"
+                      },
+                     {
+                        "code": "123",
+                        "name":"Verde storico",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di verde storico sul totale del Verde Urbano",
+                        "NOTE": "Granularità comunale, anni 2016-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni"
+                      },
+                      {
+                        "code": "124",
+                        "name":"Incidenza dei biglietti venduti nei circuiti museali",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale del numero di biglietti dei circuiti museali sul totale dei biglietti dei musei e degli istituti similari statali",
+                        "NOTE": "Granularità provinciale, anni 2016-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/16777, scaricare Cultura, xls Tav. 032_P. (si noti che per alcune città mancano i dati per tutti gli anni)"
+                      },
+                       {
+                        "code": "125",
+                        "name":"Utenti delle biblioteche pubbliche e private",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di cittadini che hanno fruito di almeno un servizio della biblioteca rispetto alla popolazione residente",
+                        "NOTE": "Granularità comunale, anni 2019-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/255738"
+                      },
+                       {
+                        "code": "126",
+                        "name":"Persone che sono andate a teatro",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di spettatori (ogni 100 persone) rispetto alla popolazione residente",
+                        "NOTE": "Granularità regionale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT: tabella cod. 22368"
+                      },
+                      {
+                        "code": "127",
+                        "name":"Persone che sono andate al cinema",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di spettatori (ogni 100 persone) rispetto alla popolazione residente",
+                        "NOTE": "Granularità regionale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT: tabella cod. 22368"
+                      },
+                      {
+                        "code": "128",
+                        "name":"Visitatori dei musei",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di visitatori dei musei (ogni 100 persone) rispetto alla popolazione media",
+                        "NOTE": "Granularità comunale, anni 2018-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT MICRODATI - INDAGINE SUI MUSEI E LE ISTITUZIONI SIMILARI: MICRODATI AD USO PUBBLICO - effettuare download relativo all'anno e all'interno cercare colonna TOTVISIT"
+                      },
+                      {
+                        "code": "129",
+                        "name":"Persone che hanno letto almeno un libro",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Percentuale di lettori ogni 100 persone",
+                        "NOTE": "Granularità regionale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT: http://dati.istat.it/#"
+                      },
+                      {
+                        "code": "130",
+                        "name":"Associazioni di volontariato",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Associazioni iscritte al Registro Nazionale del Terzo Settore 'RUNTS'",
+                        "NOTE": "Granularità comunale, 2022. Il registro è stato istituito nel 2021 e recepisce i dati a partire dal 2022, gli anni 2016-2021 sono stimati.",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Ministero del Lavoro e delle politiche sociali. Lista Enti lavoro.gov.it"
+                      },
+                       {
+                        "code": "131",
+                        "name":"Popolazione Attiva in Associazioni di volontariato",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Popolazione attiva in associazioni di volontariato",
+                        "NOTE": "Granularità regionale, anni 2016-2021",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?QueryId=24038# indagine multiscopo Istat : Istat/Vita quotidiana e opinione dei cittadini/associazionismo e pratica religiosa/associazionismo - regioni e tipo di comune"
+                      },
+                      {
+                        "code": "132",
+                        "name":"Istituzioni no profit orientate al disagio",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Istituzioni non profit orientate a supportare situazioni di disagio",
+                        "NOTE": "Granularità regionale, anno 2015. Istituzioni non profit per ripartizione territoriale, regione e orientamento al disagio/collettività in generale.",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/229719"
+                      },
+                      {
+                        "code": "133",
+                        "name":"Istituzioni no profit",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di cooperative sociali in rapporto agli abitanti",
+                        "NOTE": "Granularità regionale, anni 2016-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT https://www.istat.it/it/archivio/262507"
+                      },
+                       {
+                        "code": "134",
+                        "name":"Riunioni in associazioni",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Persone impegnate in associazioni sul totale abitanti",
+                        "NOTE": "Granularità regionale, anni 2016/2021. Indagine multiscopo, la granularità inferiore alla scala regionale non è ritenuta significativa. Metodo di calcolo: somma di 'Riunioni in associazioni ecologiche, per i diritti civili, per la pace' e 'Riunioni in associazioni culturali, ricreative o di altro tipo' e rapportata al numero abitanti",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Istat/Vita quotidiana e opinione dei cittadini/associazionismo e pratica religiosa/associazionismo - regioni e tipo di comune"
+                      },
+                       {
+                        "code": "135",
+                        "name":"Societa sportive",
+                        "UNITA DI MISURA": "n.",
+                        "DESCRIZIONE": "Numero di società sportive ogni 100.000 abitanti",
+                        "NOTE": "Granularità comunale, anni 2016-2020. Verificare se il dato viene raccolto anche successivamente. Metodo di calcolo: n./100 abitanti",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Dossier Grandi Comuni; (tenere in considerazione i dati elaborati fino al 2017 da Rete Iperbole Bologna, città a confronto, su dati CONI (http://inumeridibolognametropolitana.it/cittaconfronto/sport)"
+                      },
+                       {
+                        "code": "136",
+                        "name":"Persone che svolgono attivita sportiva",
+                        "UNITA DI MISURA": "Percentuale",
+                        "DESCRIZIONE": "Persone di 3 anni e più che svolgono attività fisica rapportate agli abitanti",
+                        "NOTE": "Granularità regionale, anni 2016-2021. Metodo di calcolo: n./100 abitanti",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "Istat indagine multiscopo: Istat/Vita quotidiana e opinioni dei cittadini/Sport e amici/Sport - regioni e tipo di comune"
+                      },
+                      {
+                        "code": "137",
+                        "name":"Capacita di spesa",                                                                                             
+                        "UNITA DI MISURA": "€",
+                        "DESCRIZIONE": "Capacità di gestione delle spese pubbliche espressa in euro",
+                        "NOTE": "Granularità comunale, anni 2016-2020",
+                        "SEGNO" : "1",
+                        "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?QueryId=16362"
+                            
+                          },
+                          {
+                            "code": "138",
+                            "name":"Capacita di riscossione",
+                            "UNITA DI MISURA": "€",
+                              "DESCRIZIONE": "Capacità di riscossione da parte della pubblica amministrazione espressa in euro",
+                              "NOTE": "Granularità comunale, anni 2016-2020",
+                              "SEGNO" : "1",
+                              "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?QueryId=16362"
+                            
+                          },
+                          {
+                            "code": "139",
+                            "name":"Grado di autonomia finanziaria",
+                            "UNITA DI MISURA": "Percentuale",
+                              "DESCRIZIONE": "Autonomia finanziaria della pubblica amministrazione",
+                              "NOTE": "Granularità comunale, anni 2016-2021",
+                              "SEGNO" : "1",
+                              "FONTE DATI": "https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                            },
+                          
+                          {
+                            "code": "140",
+                            "name":"Grado di autonomia impositiva",
+                            "UNITA DI MISURA": "Percentuale",
+                              "DESCRIZIONE": "Entrate correnti di natura tributaria, contributiva e perequativa rapportate alle entrate complessive",
+                              "NOTE": "Granularità comunale, anni 2016-2020",
+                              "SEGNO" : "1",
+                              "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?QueryId=16362"
+                            
+                          },
+                          {
+                            "code": "141",
+                            "name":"Rigidita della spesa",
+                            "UNITA DI MISURA": "Percentuale",
+                              "DESCRIZIONE": "Valori pro capite in euro della spesa corrente",
+                              "NOTE": "Granularità comunale, anni 2016-2020",
+                              "SEGNO" : "1",
+                              "FONTE DATI": "ISTAT http://dati.istat.it/Index.aspx?QueryId=16362"
+                            },
+                            {                                                                                                                                                                                                  
+                                "code": "142",
+                                "name":"Spesa per Diritti, politiche sociali e famiglia",
+                                "UNITA DI MISURA": "Percentuale",
+                                  "DESCRIZIONE": "Spese per i diritti, i servizi sociali, e la famiglia sostenute dalla pubblica amministrazione",
+                                  "NOTE": "Granularità comunale, anni 2016-2021",
+                                  "SEGNO" : "1",
+                                  "FONTE DATI": "OPEN BILANCI https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                                
+                              },
+                              {
+                                "code": "143",
+                                "name":"Spesa per Ordine pubblico e sicurezza",
+                                "UNITA DI MISURA": "Percentuale",
+                                  "DESCRIZIONE": "Spesa per l’ordine pubblico e la sicurezza sostenute dalla pubblica amministrazione",
+                                  "NOTE": "Granularità comunale, anni 2016-2021",
+                                  "SEGNO" : "1",
+                                  "FONTE DATI": "OPEN BILANCI https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                                
+                              },
+                              {
+                                "code": "144",
+                                "name":"Spesa per Istruzione e diritto allo studio",
+                                "UNITA DI MISURA": "Percentuale",
+                                  "DESCRIZIONE": "Spese per l’istruzione e il diritto allo studio sostenute dalla pubblica amministrazione",
+                                  "NOTE": "Granularità comunale, anni 2016-2021",
+                                  "SEGNO" : "1",
+                                  "FONTE DATI": "OPEN BILANCI https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                                
+                              },
+                              {
+                                "code": "145",
+                                "name":"Spesa per Tutela e valorizzazione dei Beni Culturali",
+                                "UNITA DI MISURA": "Percentuale",
+                                  "DESCRIZIONE": "Spese per la tutela e valorizzazione dei Beni e delle Attività culturali sostenute dalla pubblica amministrazione",
+                                  "NOTE": "Granularità comunale, anni 2016-2021",
+                                  "SEGNO" : "1",
+                                  "FONTE DATI": "OPEN BILANCI https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                                
+                              },
+                              {
+                                "code": "146",
+                                "name":"Spesa per le politiche giovanili",
+                                "UNITA DI MISURA": "Percentuale",
+                                  "DESCRIZIONE": "Spese per le politiche giovanili sostenute dalla pubblica amministrazione",
+                                  "NTE": "Granularità comunale, anni 2016-2021",
+                                  "SEGNO" : "1",
+                                  "FONTE DATI": "OPEN BILANCI https://openbilanci.it/armonizzati/bilanci/genova-comune-ge/spese/dettaglio?year=2016&type=consuntivo"
+                                },
+                                {
+                                    "code": "147",
+                                    "name":"Amministratori comunali under 40",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Percentuale di amministratori comunali under 40 sul totale",
+                                    "NOTE": "Granularità provinciale, anni 2004-2021",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "https://www.istat.it/it/archivio/216729"
+                                  },
+                                  {
+                                    "code": "148",
+                                    "name":"Amministratori comunali donne",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Donne elette negli organi comunali, in rapporto agli eletti totali",
+                                    "NOTE": "Granularità provinciale, anni 2004-2021",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "https://www.istat.it/it/archivio/216729"
+                                  },
+                                  {
+                                    "code": "149",
+                                    "name":"Affluenza alle urne",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Affluenza media ai seggi elettorali sul totale degli aventi diritto",
+                                    "NOTE": "Granularità provinciale, anni 2004-2009-2014-2019",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "https://www.istat.it/it/archivio/216729"
+                                  },
+                                  {
+                                    "code": "150",
+                                    "name":"Partecipazione alle elezioni regionali",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Percentuale di persone che hanno partecipato al voto alle elezioni dei Consigli regionali sul totale degli aventi diritto",
+                                    "NOTE": "Granularità provinciale, anni 2004-2020",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "https://www.istat.it/it/archivio/216729"
+                                  },
+                                  {
+                                    "code": "151",
+                                    "name":"Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Cittadini che ritengono che gran parte della gente sia degna di fiducia",
+                                    "NOTE": "Granularità regionale, anni 2016-2021",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "http://dati.istat.it/Index.aspx?QueryId=24729"
+                                  },
+                                  {
+                                    "code": "152",
+                                    "name":"Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Cittadini che ripongono molta fiducia negli appartenenti alle forze dell’ordine, somma % risposte da 6 a 10 per 100 persone",
+                                    "NOTE": "Granularità regionale, anni 2016-2021",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "http://dati.istat.it/Index.aspx?QueryId=24729"
+                                  },
+                                  {
+                                    "code": "153",
+                                    "name":"Grado di soddisfazione per la vita nel complesso",
+                                    "UNITA DI MISURA": "Punteggio (1 - 10)",
+                                    "DESCRIZIONE": "Cittadini che manifestano un grado di soddisfazione medio-alto per la vita",
+                                
+                                    "NOTE": "Granularità regionale, anni 2016-2021 Metodo di calcolo: Rispetto all’indicatore Grado di soddisfazione per la vita, indicato con punteggio da 1 a 10, è stata calcolata la soma % delle risposte tra 6 e 10",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "http://dati.istat.it/Index.aspx?QueryId=24729"
+                                  },
+                                  {
+                                    "code": "154",
+                                    "name":"Lentezza giudiziaria",
+                                    "UNITA DI MISURA": "Percentuale",
+                                    "DESCRIZIONE": "Quota di cause civili pendenti ultra-triennali sul totale nel SICID, Sistema Informativo Contenzioso Civile Distrettuale",
+                                    "NOTE": "Granularità comunale, anni 2016-2020",
+                                    "SEGNO" : "-1",
+                                    "FONTE DATI": "Ministero della Giustizia. Fornito a richiesta da statistica@giustizia.it"
+                                  },
+                                  {
+                                    "code": "155",
+                                    "name":"Clearance rate",
+                                    "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Rapporto tra procedimenti Definiti e Iscritti, nel SICID, Sistema Informativo Contenzioso Civile Distrettuale",
+                                    "NOTE": "Granularità provinciale, anni 2016-2020",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "Ministero della Giustizia\nhttps://webstat.giustizia.it/SitePages/StatisticheGiudiziarie/civile/Procedimenti%20Civili%20-%20flussi.aspx"
+                                  },
+                                  {
+                                    "code": "156",
+                                    "name":"Numero di magistrati effettivi",
+                                    "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Numero di magistrati effettivi per distretto in rapporto al numero magistrati totale necessario.",
+                                    "NOTE": "Granularità distrettuale (coincide tendenzialmente ma non esattamente con il livello provinciale), anni 2016-2020",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "CSM, dati Ufficio Statistica (Tel 06 44491.381-545-405-636)\ncsm.it/web/csm-internet/statistiche"
+                                  },
+                                  {
+                                    "code": "157",
+                                    "name":"Numero di Magistrati donna",
+                                    "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Numero di magistrati effettivi donne per distretto su totale dei magistrati effettivi.",
+                                    "NOTE": "Granularità distrettuale (coincide tendenzialmente ma non esattamente con il livello provinciale), anni 2016-2020",
+                                    "SEGNO" : "1",
+                                    "FONTE DATI": "CSM, dati Ufficio Statistica (Tel 06 44491.381-545-405-636)\ncsm.it/web/csm-internet/statistiche"
+                                  },
+                                  {
+                                    "code": "158",
+                                   "name":"Delitti denunciati alle forze di polizia",
+                                   "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Numero di delitti denunciati alle forze di polizia per 100.000 abitanti",
+                                    "NOTE": "Granularità comunale, anni 2016-2021",
+                                    "SEGNO" : "-1",
+                                    "FONTE DATI": "Dossier Grandi Comuni"
+                                  },
+                                  {
+                                    "code": "159",
+                                    "name":"Infortuni sul lavoro",
+                                    "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Numero di infortuni sul lavoro denunciati a INAIL per 100.000 abitanti",
+                                    "NOTE": "Granularità comunale, anni 2016-2021",
+                                    "SEGNO" : "-1",
+                                    "FONTE DATI": "Dossier Grandi Comuni"
+                                  },
+                                  {
+                                    "code": "160",
+                                    "name":"Incidenti stradali",
+                                    "UNITA DI MISURA": "n.",
+                                    "DESCRIZIONE": "Numero di incidenti stradali denunciati per 100.000 abitanti",
+                                    "NOTE": "Granularità comunale, anni 2016-2021",
+                                    "SEGNO" : "-1",
+                                    "FONTE DATI": "ISTAT\nhttp://dati.istat.it/Index.aspx?DataSetCode=DCIS_MORTIFERITISTR1"
+                                  }
+                                ]
+                              }
+                              
+
+  
+  

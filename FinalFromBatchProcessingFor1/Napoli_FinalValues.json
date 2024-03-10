@@ -1,0 +1,4226 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Cittadini",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Formazione e Istruzion",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Livello di Alfabetizzazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di abbandono scolastico prematuro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 18.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 19.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 18.5,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 17.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 17.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 17.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 17.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Neet, giovani che non studiano/lavorano",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 23.28
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 23.28
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 23.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 23.44
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 39.20000076293945,
+                      "segno": -1,
+                      "normalized_valore": 23.27
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 37.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 23.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 37.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 23.41
+                    }
+                  ]
+                },
+                {
+                  "name": "Competenza alfabetica non adeguata",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 44.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 44.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 44.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 44.40000152587891,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.7
+            },
+            {
+              "name": "Livello di Istruzione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Diplomati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 48.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.54
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 49.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 49.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.48
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 49.5,
+                      "segno": 1,
+                      "normalized_valore": 22.45
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 50.5,
+                      "segno": 1,
+                      "normalized_valore": 22.37
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 48.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 48.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.52
+                    }
+                  ]
+                },
+                {
+                  "name": "Laureati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 18.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 20.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 19.0,
+                      "segno": 1,
+                      "normalized_valore": 24.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 19.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 20.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 20.0,
+                      "segno": 1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 20.0,
+                      "segno": 1,
+                      "normalized_valore": 24.78
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alla formazione continua",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 5.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 5.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.87
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.41
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.05
+        },
+        {
+          "name": "Salute",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Condizioni di Salute",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Speranza di vita alla nascita",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 80.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 19.99
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 80.5,
+                      "segno": 1,
+                      "normalized_valore": 20.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 81.0,
+                      "segno": 1,
+                      "normalized_valore": 19.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 81.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 80.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 20.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 80.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 80.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita evitabile",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 24.20000076293945,
+                      "segno": -1,
+                      "normalized_valore": 24.45
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 23.5,
+                      "segno": -1,
+                      "normalized_valore": 24.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 22.20000076293945,
+                      "segno": -1,
+                      "normalized_valore": 24.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita per tumore",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 11.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 10.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 10.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 25.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 10.5,
+                      "segno": -1,
+                      "normalized_valore": 25.53
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 10.5,
+                      "segno": -1,
+                      "normalized_valore": 25.53
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 10.5,
+                      "segno": -1,
+                      "normalized_valore": 25.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 10.5,
+                      "segno": -1,
+                      "normalized_valore": 25.53
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.37
+            },
+            {
+              "name": "Sanit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Abitanti per farmacie e parafarmacie",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 39.19228744506836,
+                      "segno": -1,
+                      "normalized_valore": 23.27
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 39.66268157958984,
+                      "segno": -1,
+                      "normalized_valore": 23.23
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 40.30473709106445,
+                      "segno": -1,
+                      "normalized_valore": 23.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 40.77412033081055,
+                      "segno": -1,
+                      "normalized_valore": 23.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 42.43846893310547,
+                      "segno": -1,
+                      "normalized_valore": 23.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 43.40193176269531,
+                      "segno": -1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 43.40193176269531,
+                      "segno": -1,
+                      "normalized_valore": 22.94
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto in ospedale",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.1
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 27.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 28.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.12
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 27.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 27.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.17
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 27.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.17
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 27.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.17
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto ad elevata assistenza",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 2.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.16
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 2.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.16
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 2.5,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 2.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 2.5,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 2.5,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 2.5,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    }
+                  ]
+                },
+                {
+                  "name": "Emigrazione ospedaliera",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 6.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 6.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.84
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 6.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 25.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 7.0,
+                      "segno": -1,
+                      "normalized_valore": 25.81
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 6.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 6.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 6.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.88
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.82
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.1
+        },
+        {
+          "name": "Qualit\u00c3\u00a0 della Vita",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Abitare",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero di case sovraffollate",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 3.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 3.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 3.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 3.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 26.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 3.200000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 3.200000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.11
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 3.200000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.11
+                    }
+                  ]
+                },
+                {
+                  "name": "Sfratti eseguiti",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.04790268465876579,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.04790268465876579,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.04790268465876579,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.04584433138370514,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.007535653188824654,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.01216019876301289,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.01216019876301289,
+                      "segno": -1,
+                      "normalized_valore": 26.36
+                    }
+                  ]
+                },
+                {
+                  "name": "Case di proprieta",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 70.0,
+                      "segno": 1,
+                      "normalized_valore": 20.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 70.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 70.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 20.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 73.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 20.55
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 74.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 20.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 70.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 70.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.81
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.4
+            },
+            {
+              "name": "Work-life Balancea",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 38.0,
+                      "segno": -1,
+                      "normalized_valore": 23.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 38.0,
+                      "segno": -1,
+                      "normalized_valore": 23.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 45.0,
+                      "segno": -1,
+                      "normalized_valore": 22.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Soddisfazione per il tempo libero",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 9.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.64
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.63
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 9.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.59
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 10.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 11.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 10.0,
+                      "segno": 1,
+                      "normalized_valore": 25.57
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 10.0,
+                      "segno": 1,
+                      "normalized_valore": 25.57
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi per l'infanzia, nido",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 25.78
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 8.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.63
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Strutture per assistenza agli anziani",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.005280188284814358,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.005738910753279924,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.005824911408126354,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.005824911408126354,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.005824911408126354,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.005824911408126354,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.005824911408126354,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 25.14
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.77
+        }
+      ],
+      "color": "red",
+      "sign": 1,
+      "value": 24.31
+    },
+    {
+      "name": "Societ\u00c3\u00a0",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Demografia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Popolazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Saldo demografico naturale",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": -0.1561519503593445,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": -0.2378727942705154,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": -0.2081718891859055,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": -0.2098606079816818,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": -0.3782047927379608,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": -0.4201306700706482,
+                      "segno": 1,
+                      "normalized_valore": 26.4
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": -0.4201306700706482,
+                      "segno": 1,
+                      "normalized_valore": 26.4
+                    }
+                  ]
+                },
+                {
+                  "name": "Residenti in eta lavorativa",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 66.05894470214844,
+                      "segno": 1,
+                      "normalized_valore": 21.15
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 65.98912811279297,
+                      "segno": 1,
+                      "normalized_valore": 21.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 65.8762435913086,
+                      "segno": 1,
+                      "normalized_valore": 21.16
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 65.72867584228516,
+                      "segno": 1,
+                      "normalized_valore": 21.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 64.64688110351562,
+                      "segno": 1,
+                      "normalized_valore": 21.26
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 64.77079772949219,
+                      "segno": 1,
+                      "normalized_valore": 21.25
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 64.77079772949219,
+                      "segno": 1,
+                      "normalized_valore": 21.25
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti immigrati",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 25.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 6.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.87
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.49
+            },
+            {
+              "name": "Densit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita di popolazione",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 8172.9990234375,
+                      "segno": 1,
+                      "normalized_valore": 619.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 8139.65966796875,
+                      "segno": 1,
+                      "normalized_valore": 616.44
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 8093.43212890625,
+                      "segno": 1,
+                      "normalized_valore": 612.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 8000.26220703125,
+                      "segno": 1,
+                      "normalized_valore": 605.43
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 7864.8037109375,
+                      "segno": 1,
+                      "normalized_valore": 594.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 7748.32861328125,
+                      "segno": 1,
+                      "normalized_valore": 585.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 7748.32861328125,
+                      "segno": 1,
+                      "normalized_valore": 585.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie mono composte",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 28.92790794372559,
+                      "segno": -1,
+                      "normalized_valore": 24.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 28.92790794372559,
+                      "segno": -1,
+                      "normalized_valore": 24.08
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 28.92790794372559,
+                      "segno": -1,
+                      "normalized_valore": 24.08
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 29.55325126647949,
+                      "segno": -1,
+                      "normalized_valore": 24.03
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 29.55325126647949,
+                      "segno": -1,
+                      "normalized_valore": 24.03
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 29.55325126647949,
+                      "segno": -1,
+                      "normalized_valore": 24.03
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 29.55325126647949,
+                      "segno": -1,
+                      "normalized_valore": 24.03
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie numerose",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 9.376214027404785,
+                      "segno": 1,
+                      "normalized_valore": 25.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 9.376214027404785,
+                      "segno": 1,
+                      "normalized_valore": 25.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 9.376214027404785,
+                      "segno": 1,
+                      "normalized_valore": 25.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 8.970135688781738,
+                      "segno": 1,
+                      "normalized_valore": 25.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 8.970135688781738,
+                      "segno": 1,
+                      "normalized_valore": 25.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 8.970135688781738,
+                      "segno": 1,
+                      "normalized_valore": 25.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 8.970135688781738,
+                      "segno": 1,
+                      "normalized_valore": 25.65
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 217.67
+            },
+            {
+              "name": "Sostenibilit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di natalita",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 8.434057235717773,
+                      "segno": 1,
+                      "normalized_valore": 25.7
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 8.409728050231934,
+                      "segno": 1,
+                      "normalized_valore": 25.7
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 8.076529502868652,
+                      "segno": 1,
+                      "normalized_valore": 25.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 8.04763412475586,
+                      "segno": 1,
+                      "normalized_valore": 25.73
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 7.774684906005859,
+                      "segno": 1,
+                      "normalized_valore": 25.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 7.664780616760254,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 7.664780616760254,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti over 65",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 19.25529670715332,
+                      "segno": -1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 19.51189422607422,
+                      "segno": -1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 19.85450172424316,
+                      "segno": -1,
+                      "normalized_valore": 24.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 20.2315845489502,
+                      "segno": -1,
+                      "normalized_valore": 24.77
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 21.06845855712891,
+                      "segno": -1,
+                      "normalized_valore": 24.7
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 21.40773773193359,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 21.40773773193359,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Saldo demografico migratorio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": -0.2438974231481552,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": -0.1795149445533752,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": -0.5144047737121582,
+                      "segno": 1,
+                      "normalized_valore": 26.4
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": -0.3659161925315857,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": -0.5363067984580994,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": -0.39582559466362,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": -0.39582559466362,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.63
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 89.3
+        },
+        {
+          "name": "Cultura",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Offerta culturalee",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Dotazione di musei per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 8.056482315063477,
+                      "segno": 1,
+                      "normalized_valore": 25.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 8.056482315063477,
+                      "segno": 1,
+                      "normalized_valore": 25.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 8.102499008178711,
+                      "segno": 1,
+                      "normalized_valore": 25.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 3.888253688812256,
+                      "segno": 1,
+                      "normalized_valore": 26.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 3.955222606658936,
+                      "segno": 1,
+                      "normalized_valore": 26.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 3.955222606658936,
+                      "segno": 1,
+                      "normalized_valore": 26.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 3.955222606658936,
+                      "segno": 1,
+                      "normalized_valore": 26.05
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di biblioteche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 3.572989940643311,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 3.572989940643311,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 3.572989940643311,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 3.572989940643311,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 7.055262088775635,
+                      "segno": 1,
+                      "normalized_valore": 25.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 7.055262088775635,
+                      "segno": 1,
+                      "normalized_valore": 25.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 7.055262088775635,
+                      "segno": 1,
+                      "normalized_valore": 25.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di teatri per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 14.19501972198486,
+                      "segno": 1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 14.29866027832031,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 14.70897579193115,
+                      "segno": 1,
+                      "normalized_valore": 25.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 14.33756351470947,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 8.009594917297363,
+                      "segno": 1,
+                      "normalized_valore": 25.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 5.592602729797363,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 5.592602729797363,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di sale cinematografiche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 5.619222164154053,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 5.806122303009033,
+                      "segno": 1,
+                      "normalized_valore": 25.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 5.772316932678223,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 5.79789400100708,
+                      "segno": 1,
+                      "normalized_valore": 25.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 5.592602729797363,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 5.592602729797363,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 5.592602729797363,
+                      "segno": 1,
+                      "normalized_valore": 25.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Verde storico",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 45.10090637207031,
+                      "segno": 1,
+                      "normalized_valore": 22.8
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 27.20151710510254,
+                      "segno": 1,
+                      "normalized_valore": 24.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 14.99024772644043,
+                      "segno": 1,
+                      "normalized_valore": 25.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 14.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 14.3833122253418,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 14.3833122253418,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 14.3833122253418,
+                      "segno": 1,
+                      "normalized_valore": 25.23
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.61
+            },
+            {
+              "name": "Domanda culturale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 2.552824974060059,
+                      "segno": 1,
+                      "normalized_valore": 26.16
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 1.921302795410156,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.9398950338363647,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 1.026655554771423,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 1.034129500389099,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 1.034129500389099,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 1.034129500389099,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    }
+                  ]
+                },
+                {
+                  "name": "Utenti delle biblioteche pubbliche e private",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.03336752206087112,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.03336752206087112,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.03336752206087112,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.03336752206087112,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.03364825621247292,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.03364825621247292,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.03364825621247292,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate a teatro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 26.34310340881348,
+                      "segno": 1,
+                      "normalized_valore": 24.28
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 24.97336387634277,
+                      "segno": 1,
+                      "normalized_valore": 24.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 24.8694019317627,
+                      "segno": 1,
+                      "normalized_valore": 24.4
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 28.0173454284668,
+                      "segno": 1,
+                      "normalized_valore": 24.15
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 8.907711029052734,
+                      "segno": 1,
+                      "normalized_valore": 25.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 7.921409606933594,
+                      "segno": 1,
+                      "normalized_valore": 25.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 7.921409606933594,
+                      "segno": 1,
+                      "normalized_valore": 25.74
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate al cinema",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 139.2558288574219,
+                      "segno": 1,
+                      "normalized_valore": 15.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 126.7043380737305,
+                      "segno": 1,
+                      "normalized_valore": 16.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 107.7373352050781,
+                      "segno": 1,
+                      "normalized_valore": 17.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 132.736572265625,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 34.02047348022461,
+                      "segno": 1,
+                      "normalized_valore": 23.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 33.67485046386719,
+                      "segno": 1,
+                      "normalized_valore": 23.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 33.67485046386719,
+                      "segno": 1,
+                      "normalized_valore": 23.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Visitatori dei musei",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 750.3070678710938,
+                      "segno": 1,
+                      "normalized_valore": 32.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 753.3802490234375,
+                      "segno": 1,
+                      "normalized_valore": 33.13
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 757.683349609375,
+                      "segno": 1,
+                      "normalized_valore": 33.47
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 598.9684448242188,
+                      "segno": 1,
+                      "normalized_valore": 20.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 251.7412872314453,
+                      "segno": 1,
+                      "normalized_valore": 6.48
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 251.7412872314453,
+                      "segno": 1,
+                      "normalized_valore": 6.48
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 251.7412872314453,
+                      "segno": 1,
+                      "normalized_valore": 6.48
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che hanno letto almeno un libro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 27.5,
+                      "segno": 1,
+                      "normalized_valore": 24.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 25.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.38
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 26.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 28.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 28.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 28.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.14
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.38
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 24.75
+        },
+        {
+          "name": " Attivit\u00c3\u00a0 sociali",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Volontariato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 4.2
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione Attiva in Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 6.5,
+                      "segno": 1,
+                      "normalized_valore": 25.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 6.5,
+                      "segno": 1,
+                      "normalized_valore": 25.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Istituzioni no profit orientate al disagio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 4049.169189453125,
+                      "segno": 1,
+                      "normalized_valore": 293.41
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 107.84
+            },
+            {
+              "name": "Attivit\u00c3\u00a0 Civiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Istituzioni no profit",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.000284593814285472,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.0002859676897060126,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.003059600945562124,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.0002827310236170888,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.0002871488977689296,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.0002871488977689296,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.0002871488977689296,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    }
+                  ]
+                },
+                {
+                  "name": "Riunioni in associazioni",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 5.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.96
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 7.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 7.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.03
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.03
+                    }
+                  ]
+                },
+                {
+                  "name": "Societa sportive",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 1875.0,
+                      "segno": 1,
+                      "normalized_valore": 121.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 1923.0,
+                      "segno": 1,
+                      "normalized_valore": 125.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 1882.0,
+                      "segno": 1,
+                      "normalized_valore": 122.26
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 1827.0,
+                      "segno": 1,
+                      "normalized_valore": 117.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 1799.0,
+                      "segno": 1,
+                      "normalized_valore": 115.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 1799.0,
+                      "segno": 1,
+                      "normalized_valore": 115.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 1799.0,
+                      "segno": 1,
+                      "normalized_valore": 115.71
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che svolgono attivita sportiva",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 22.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 22.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.59
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 27.0,
+                      "segno": 1,
+                      "normalized_valore": 24.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 21.5,
+                      "segno": 1,
+                      "normalized_valore": 24.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 49.03
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 78.42
+        }
+      ],
+      "color": "Green",
+      "sign": 1,
+      "value": 64.07
+    },
+    {
+      "name": "Governance",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Amministrazione Civica",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Finanza Pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capacita di spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.7360000014305115,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.6010000109672546,
+                      "segno": 1,
+                      "normalized_valore": 26.32
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.7289999723434448,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.6959999799728394,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.7860000133514404,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.7860000133514404,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.7860000133514404,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di riscossione",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.7580000162124634,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.6190000176429749,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.7350000143051147,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.7129999995231628,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.7429999709129333,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 1.14243745803833,
+                      "segno": 1,
+                      "normalized_valore": 26.27
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 1.14243745803833,
+                      "segno": 1,
+                      "normalized_valore": 26.27
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia finanziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 84.47758483886719,
+                      "segno": 1,
+                      "normalized_valore": 19.69
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 85.67623901367188,
+                      "segno": 1,
+                      "normalized_valore": 19.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 85.41373443603516,
+                      "segno": 1,
+                      "normalized_valore": 19.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 86.31194305419922,
+                      "segno": 1,
+                      "normalized_valore": 19.55
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 71.68499755859375,
+                      "segno": 1,
+                      "normalized_valore": 20.7
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 60.81582260131836,
+                      "segno": 1,
+                      "normalized_valore": 21.56
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 60.81582260131836,
+                      "segno": 1,
+                      "normalized_valore": 21.56
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia impositiva",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.6869999766349792,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.7049999833106995,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.6639999747276306,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.652999997138977,
+                      "segno": 1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.597000002861023,
+                      "segno": 1,
+                      "normalized_valore": 26.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.597000002861023,
+                      "segno": 1,
+                      "normalized_valore": 26.32
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.597000002861023,
+                      "segno": 1,
+                      "normalized_valore": 26.32
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigidita della spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.3009999990463257,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.2870000004768372,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.2619999945163727,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.3580000102519989,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.1949999928474426,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.1949999928474426,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.1949999928474426,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 25.12
+            },
+            {
+              "name": "Spesa pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Spesa per Diritti, politiche sociali e famiglia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 1.682344317436218,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 2.54363226890564,
+                      "segno": 1,
+                      "normalized_valore": 26.16
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 1.624811053276062,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 2.455326557159424,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 2.029999971389771,
+                      "segno": 1,
+                      "normalized_valore": 26.2
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 2.029999971389771,
+                      "segno": 1,
+                      "normalized_valore": 26.2
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Ordine pubblico e sicurezza",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 1.809336543083191,
+                      "segno": 1,
+                      "normalized_valore": 26.22
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 2.406235933303833,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 2.030886888504028,
+                      "segno": 1,
+                      "normalized_valore": 26.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 1.919560432434082,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 1.970000028610229,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 1.970000028610229,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Istruzione e diritto allo studio",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.9442930221557617,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 2.045598268508911,
+                      "segno": 1,
+                      "normalized_valore": 26.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 1.406291961669922,
+                      "segno": 1,
+                      "normalized_valore": 26.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 1.27823531627655,
+                      "segno": 1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 1.710000038146973,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 1.710000038146973,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.2680804431438446,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.4677262008190155,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.3742446005344391,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.454345315694809,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.239999994635582,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.239999994635582,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per le politiche giovanili",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.02520811185240746,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.01917124539613724,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.01032506208866835,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.01806729100644588,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.25,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.25,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 26.27
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 25.69
+        },
+        {
+          "name": "Engagement",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Engagement Politico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Amministratori comunali under 40",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 32.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 32.0,
+                      "segno": 1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 32.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 30.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 28.5,
+                      "segno": 1,
+                      "normalized_valore": 24.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 27.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 27.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    }
+                  ]
+                },
+                {
+                  "name": "Amministratori comunali donne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 25.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.33
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 28.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.12
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 30.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 31.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 32.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 30.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.93
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 30.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.93
+                    }
+                  ]
+                },
+                {
+                  "name": "Affluenza alle urne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 43.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.94
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alle elezioni regionali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 23.23
+            },
+            {
+              "name": "Fiducia dei cittadini",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 20.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 19.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 19.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 23.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 20.5,
+                      "segno": 1,
+                      "normalized_valore": 24.74
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 24.5,
+                      "segno": 1,
+                      "normalized_valore": 24.43
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 24.5,
+                      "segno": 1,
+                      "normalized_valore": 24.43
+                    }
+                  ]
+                },
+                {
+                  "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 47.0,
+                      "segno": 1,
+                      "normalized_valore": 22.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 36.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 33.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.74
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 37.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 42.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.5
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di soddisfazione per la vita nel complesso",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 76.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.3
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 74.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 78.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.19
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 78.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.18
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 80.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 20.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 83.5,
+                      "segno": 1,
+                      "normalized_valore": 19.77
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 83.5,
+                      "segno": 1,
+                      "normalized_valore": 19.77
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 22.6
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 22.91
+        },
+        {
+          "name": "Giustizia e Sicurezza",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Giustizia",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lentezza giudiziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.2496641725301743,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.228471964597702,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.2123917788267136,
+                      "segno": -1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.1992376446723938,
+                      "segno": -1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 0.2008130997419357,
+                      "segno": -1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.2008130997419357,
+                      "segno": -1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.2008130997419357,
+                      "segno": -1,
+                      "normalized_valore": 26.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Clearance rate",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 0.9340039491653442,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 0.9012932777404785,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 0.9518753886222839,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 0.9706513285636902,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 1.024500489234924,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 0.9760854244232178,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 0.9760854244232178,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di magistrati effettivi",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 573.0,
+                      "segno": 1,
+                      "normalized_valore": 18.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 562.0,
+                      "segno": 1,
+                      "normalized_valore": 18.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 577.0,
+                      "segno": 1,
+                      "normalized_valore": 19.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 570.0,
+                      "segno": 1,
+                      "normalized_valore": 18.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 569.0,
+                      "segno": 1,
+                      "normalized_valore": 18.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 573.0,
+                      "segno": 1,
+                      "normalized_valore": 18.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 573.0,
+                      "segno": 1,
+                      "normalized_valore": 18.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero magistrati donna",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 329.0,
+                      "segno": 1,
+                      "normalized_valore": 0.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 325.0,
+                      "segno": 1,
+                      "normalized_valore": 0.7
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 333.0,
+                      "segno": 1,
+                      "normalized_valore": 0.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 338.0,
+                      "segno": 1,
+                      "normalized_valore": 0.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 340.0,
+                      "segno": 1,
+                      "normalized_valore": 0.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 340.0,
+                      "segno": 1,
+                      "normalized_valore": 0.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 340.0,
+                      "segno": 1,
+                      "normalized_valore": 0.49
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 17.95
+            },
+            {
+              "name": "Sicurezza",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Delitti denunciati alle forze di polizia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 6280.60009765625,
+                      "segno": -1,
+                      "normalized_valore": 469.63
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 6226.2998046875,
+                      "segno": -1,
+                      "normalized_valore": 465.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 6276.2001953125,
+                      "segno": -1,
+                      "normalized_valore": 469.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 6060.2998046875,
+                      "segno": -1,
+                      "normalized_valore": 452.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 4972.7998046875,
+                      "segno": -1,
+                      "normalized_valore": 366.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 6021.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 449.2
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 6021.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 449.2
+                    }
+                  ]
+                },
+                {
+                  "name": "Infortuni sul lavoro",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 490.9837036132812,
+                      "segno": -1,
+                      "normalized_valore": 12.41
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 514.4786987304688,
+                      "segno": -1,
+                      "normalized_valore": 14.27
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 535.180419921875,
+                      "segno": -1,
+                      "normalized_valore": 15.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 524.28369140625,
+                      "segno": -1,
+                      "normalized_valore": 15.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 724.767822265625,
+                      "segno": -1,
+                      "normalized_valore": 30.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 583.9729614257812,
+                      "segno": -1,
+                      "normalized_valore": 19.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 583.9729614257812,
+                      "segno": -1,
+                      "normalized_valore": 19.75
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenti stradali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Napoli",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Napoli",
+                      "valore": 2.452062606811523,
+                      "segno": -1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Napoli",
+                      "valore": 2.390237092971802,
+                      "segno": -1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Napoli",
+                      "valore": 2.616725921630859,
+                      "segno": -1,
+                      "normalized_valore": 26.16
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Napoli",
+                      "valore": 1.919886469841003,
+                      "segno": -1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Napoli",
+                      "valore": 2.352938652038574,
+                      "segno": -1,
+                      "normalized_valore": 26.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Napoli",
+                      "valore": 2.352938652038574,
+                      "segno": -1,
+                      "normalized_valore": 26.18
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 164.76
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 91.28
+        }
+      ],
+      "color": "Blue",
+      "sign": 1,
+      "value": 46.68
+    }
+  ],
+  "value": 44.98
+}

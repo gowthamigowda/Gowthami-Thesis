@@ -1,0 +1,762 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Ambiente",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Suolo",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Ambiente costruito",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Suolo Consumato (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Densità del consumo del suolo (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Aree a rischio idraulico (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        },
+                        {
+                            "name": "Aree verdi",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Copertura del suolo a verde (verde urbano) (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Densità del verde urbano (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Disponibilità di verde urbano (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        },
+                        {
+                            "name": "Eventi estremi",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Giorni di allerta rossa (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Popolazione esposta al rischio alluvioni (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Ondate di caloree (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Popolazione esposta al rischio frane (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        }
+                    ],
+                    "color": "Orange"
+                },
+                {
+                    "name": "Energia",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Fonti Energetiche",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Produzione di energia (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Potenza impianti fotovoltaici (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Produzione di energia da fonti rinnovabili (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        },
+                        {
+                            "name": "Consumo energetico",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Consumo di energia elettrica (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Consumo di gas metano (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Consumo di carburante (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Consumo di energia elettrica per uso industriale (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        }
+                    ],
+                    "color": "Orange"
+                },
+                {
+                    "name": "Inquinamento",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Aria",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Concentrazione di PM10 (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Concentrazione di PM2,5 (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Esposizione a No2 (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Inquinamento da fonti elettromagnetiche (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Inquinamento acustico (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        },
+                        {
+                            "name": " Acqua",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Acque balneabili (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Consumo medio pro capite di acqua (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Perdite idriche totali (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        },
+                        {
+                            "name": " Rifiuti",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Produzione di rifiuti pro capite (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Riciclo da raccolta differenziata (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Consumo di materiale interno (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Orange"
+                                },
+                                {
+                                    "name": "Costo individuale dei rifiuti (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Orange"
+                                }
+                            ],
+                            "color": "Orange"
+                        }
+                    ],
+                    "color": "Orange"
+                }
+            ],
+            "color": "Orange"
+        },
+        {
+            "name": "Infrastrutture",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Edifici",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Edilizia Residenziale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Alloggi in nuovi edifici residenziali (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Rigenerazione patrimonio residenziale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Compravendite immobiliari (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        },
+                        {
+                            "name": "Edilizia non residenziale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Nuovi edifici non residenziali (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Rigenerazione edilizia non residenziale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Edifici per la cultura (musei, biblioteche) pro capite (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        }
+                    ],
+                    "color": "Brown"
+                },
+                {
+                    "name": "Reti",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Rete di trasmissione elettrica",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Rete di distribuzione gas (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Acqua immessa nelle reti di distribuzione dell’acqua potabile (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        },
+                        {
+                            "name": "Telefonia e rete internet",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Penetrazione della Banda Ultralarga (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Broadband, famiglie servite da tecnologia FTTP (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Broadband, famiglie servite da tecnologia FWA (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Stazioni Radio Base, impianti attivi (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Stazioni Radio Base, servizi attivi (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        }
+                    ],
+                    "color": "Brown"
+                },
+                {
+                    "name": "Mobilità",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Mobilità green",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Densità delle piste ciclabili (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Disponibilità dei percorsi pedonali (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Punti di ricarica auto elettriche (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Car Sharing (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Autobus a basse emissionio (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        },
+                        {
+                            "name": "Trasporti pubblici",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Domanda di trasporto pubblico locale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Densità delle reti di tram, metropolitane e filobus (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Licenze di Taxi attive (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        },
+                        {
+                            "name": " Trasporto privato",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Lunghezza rete stradale principale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Tasso di motorizzazione (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        },
+                        {
+                            "name": " Porti e Aeroporti",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Trasporto marittimo. Movimento passeggeri (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Trasporto marittimo. Movimentazione merci (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Trasporto aereo. Movimento passeggeri (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                },
+                                {
+                                    "name": "Trasporto aereo. Movimentazione merci (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "Brown"
+                                }
+                            ],
+                            "color": "Brown"
+                        }
+                    ],
+                    "color": "Brown"
+                }
+            ],
+            "color": "Brown"
+        },
+        {
+            "name": "Economia",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Persone",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Reddito",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Reddito medio pro capite (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Variazione reddito pro capite (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Retribuzione media (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Disagio Economico",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Numero pensionati con basso reddito pensionistico (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Sofferenza prestiti alle famiglie (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Famiglie per capacità di arrivare a fine mese con grande difficoltà (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Lavoro",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Tasso di occupazione (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Disoccupazione (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Disoccupazione giovanile (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Disoccupazione femminile (-1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "-1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        }
+                    ],
+                    "color": "purple"
+                },
+                {
+                    "name": "Imprese ",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Solidità",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Solidità patrimoniale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Solidità finanziaria (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Solidità commerciale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Competitività",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Redditività (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Dimensione aziendale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Produttività (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Innovatività",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Capitale intellettuale aziendale (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Propensione agli investimenti (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Addetti del settore ICT (1)",
+                                    "type": "Leaf",
+                                    "children": [],
+                                    "segno": "1",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        }
+                    ],
+                    "color": "purple"
+                }
+            ],
+            "color": "purple"
+        }
+    ],
+    "color": "Orange"
+}

@@ -1,0 +1,5104 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 23.61141586303711,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 23.63711357116699,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 23.6463451385498,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 23.65466117858887,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 23.66081619262695,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 23.68033599853516,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 23.68033599853516,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.6570081114768982,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2.56981635093689,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 0.9231379628181458,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 0.8316558003425598,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 0.6154252886772156,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2.24138879776001,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2.24138879776001,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2.724999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2.724999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 11921390.0,
+                      "segno": 1,
+                      "normalized_valore": 915.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 11921390.0,
+                      "segno": 1,
+                      "normalized_valore": 915.37
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 11921390.0,
+                      "segno": 1,
+                      "normalized_valore": 915.37
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 11921390.0,
+                      "segno": 1,
+                      "normalized_valore": 915.37
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 11977263.0,
+                      "segno": 1,
+                      "normalized_valore": 919.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 11977263.0,
+                      "segno": 1,
+                      "normalized_valore": 919.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 11977263.0,
+                      "segno": 1,
+                      "normalized_valore": 919.71
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 4.961300373077393,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 4.961300373077393,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 4.961300373077393,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 4.961300373077393,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 4.98455286026001,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 4.98455286026001,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 4.98455286026001,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 20.61112022399902,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 20.74665260314941,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 20.88716316223145,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 21.0080394744873,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 21.1582145690918,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 21.1582145690918,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 21.1582145690918,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 313.76
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 10.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 10.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 10.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 10.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 8.281999588012695,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 8.281999588012695,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 8.281999588012695,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 5.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 5.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.098999977111816,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.098999977111816,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.098999977111816,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 24.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 23.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 6.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.02
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 112.6
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 5292.39990234375,
+                      "segno": 1,
+                      "normalized_valore": 11.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 333.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 353.5,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 372.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 374.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 374.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 374.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 11.66438865661621,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 11.24188423156738,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 11.04957389831543,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 11.59571647644043,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 11.33388900756836,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 11.33388900756836,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 11.33388900756836,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 6.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 11.99
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2082.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 11.86
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2111.90380859375,
+                      "segno": -1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2097.559814453125,
+                      "segno": -1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 2071.206298828125,
+                      "segno": -1,
+                      "normalized_valore": 11.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1926.619018554688,
+                      "segno": -1,
+                      "normalized_valore": 11.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1393.779907226562,
+                      "segno": -1,
+                      "normalized_valore": 11.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1393.779907226562,
+                      "segno": -1,
+                      "normalized_valore": 11.91
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 319.0,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 338.7999877929688,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 336.2279663085938,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 327.1994018554688,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 314.8573608398438,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 314.8573608398438,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 314.8573608398438,
+                      "segno": -1,
+                      "normalized_valore": 11.99
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": -4.942373752593994,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": -4.942373752593994,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": -4.942373752593994,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": -26.38070297241211,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 46.09522247314453,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 24.91269493103027,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 24.91269493103027,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 751.4000244140625,
+                      "segno": -1,
+                      "normalized_valore": 11.96
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 806.0999755859375,
+                      "segno": -1,
+                      "normalized_valore": 11.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 804.7999877929688,
+                      "segno": -1,
+                      "normalized_valore": 11.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 794.2000122070312,
+                      "segno": -1,
+                      "normalized_valore": 11.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 780.5,
+                      "segno": -1,
+                      "normalized_valore": 11.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 868.4000244140625,
+                      "segno": -1,
+                      "normalized_valore": 11.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 868.4000244140625,
+                      "segno": -1,
+                      "normalized_valore": 11.95
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 11.96
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 11.98
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 11.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 9.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 3.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 21.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 13.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 13.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 13.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 41.29352951049805,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 39.40341949462891,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 39.94955062866211,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 37.85714340209961,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 37.85714340209961,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 37.85714340209961,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 37.85714340209961,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.946029663085938,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 95.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 159.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 159.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 168.0,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 168.0,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 159.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 159.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 159.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 35.54999923706055,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 32.09999847412109,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 32.09999847412109,
+                      "segno": -1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.01
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 490.9818115234375,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 488.1424560546875,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 487.1695556640625,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 499.2269287109375,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 491.0057067871094,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 491.0057067871094,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 491.0057067871094,
+                      "segno": -1,
+                      "normalized_valore": 11.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 33.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 34.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 33.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 35.52000045776367,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 35.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 35.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 35.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 10.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 12.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 12.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 12.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 12.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 12.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 201.0299987792969,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 220.5599975585938,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 223.1999969482422,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 270.510009765625,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 270.510009765625,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 270.510009765625,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 270.510009765625,
+                      "segno": -1,
+                      "normalized_valore": 12.0
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.0
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 12.01
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 45.53
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 128.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 99.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 97.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 144.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 144.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 144.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 6460.0,
+                      "segno": 1,
+                      "normalized_valore": 11.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 5957.0,
+                      "segno": 1,
+                      "normalized_valore": 11.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5194.0,
+                      "segno": 1,
+                      "normalized_valore": 11.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 7695.0,
+                      "segno": 1,
+                      "normalized_valore": 11.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 4600.0,
+                      "segno": 1,
+                      "normalized_valore": 11.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 4062.0,
+                      "segno": 1,
+                      "normalized_valore": 11.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 4062.0,
+                      "segno": 1,
+                      "normalized_valore": 11.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 22.84179306030273,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 3.121701002120972,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 3.948523044586182,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 4.051772594451904,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": -9.329367637634277,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 32.50820159912109,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 32.50820159912109,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 11.87
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 34.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 43.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 30.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 49885.0,
+                      "segno": 1,
+                      "normalized_valore": 8.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 97192.0,
+                      "segno": 1,
+                      "normalized_valore": 4.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 107326.0,
+                      "segno": 1,
+                      "normalized_valore": 3.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 58335.0,
+                      "segno": 1,
+                      "normalized_valore": 7.48
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 58335.0,
+                      "segno": 1,
+                      "normalized_valore": 7.48
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 45035.0,
+                      "segno": 1,
+                      "normalized_valore": 8.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 45035.0,
+                      "segno": 1,
+                      "normalized_valore": 8.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 21.19194412231445,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 21.31137084960938,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 21.4144401550293,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 21.8514518737793,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 17.84197044372559,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 17.84197044372559,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 17.84197044372559,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 10.38
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 11.11
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.283251285552979,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 6.918890476226807,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 10.9304666519165,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 16.3778018951416,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 20.52490615844727,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 26.01937866210938,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 26.01937866210938,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 26.01937866210938,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 68.76115417480469,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 92.75106811523438,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 869.0,
+                      "segno": 1,
+                      "normalized_valore": 11.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 874.0,
+                      "segno": 1,
+                      "normalized_valore": 11.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 592.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 592.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 592.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 592.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 592.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2095.0,
+                      "segno": 1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2101.0,
+                      "segno": 1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1480.0,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 1480.0,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1480.0,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1480.0,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1480.0,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 11.98
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 12.0
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1.331668734550476,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.5,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 7.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 7.5,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 18.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 18.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 107.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 107.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 268.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 268.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 268.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.800000011920929,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 1.100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1.100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 1.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 15.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 38.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 35.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 35.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 35.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 228.4115600585938,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 233.8579254150391,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 241.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 264.8999938964844,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 117.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 117.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 117.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 17.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 14.85145092010498,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 14.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 15.0,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 15.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 12.01
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 0.7200000286102295,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 462.7295227050781,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 467.3772888183594,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 468.6567687988281,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 474.904296875,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 476.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 475.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 475.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 12.0
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2328.0,
+                      "segno": 1,
+                      "normalized_valore": 11.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2117.0,
+                      "segno": 1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2609.0,
+                      "segno": 1,
+                      "normalized_valore": 11.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 2881.0,
+                      "segno": 1,
+                      "normalized_valore": 11.79
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1410.0,
+                      "segno": 1,
+                      "normalized_valore": 11.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1746.0,
+                      "segno": 1,
+                      "normalized_valore": 11.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1746.0,
+                      "segno": 1,
+                      "normalized_valore": 11.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 45049.0,
+                      "segno": 1,
+                      "normalized_valore": 8.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 50662.0,
+                      "segno": 1,
+                      "normalized_valore": 8.08
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 51570.0,
+                      "segno": 1,
+                      "normalized_valore": 8.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 49695.0,
+                      "segno": 1,
+                      "normalized_valore": 8.15
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 44157.0,
+                      "segno": 1,
+                      "normalized_valore": 8.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 48212.0,
+                      "segno": 1,
+                      "normalized_valore": 8.27
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 48212.0,
+                      "segno": 1,
+                      "normalized_valore": 8.27
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1261065.0,
+                      "segno": 1,
+                      "normalized_valore": 86.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 1240962.0,
+                      "segno": 1,
+                      "normalized_valore": 84.52
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1460789.0,
+                      "segno": 1,
+                      "normalized_valore": 101.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 1539241.0,
+                      "segno": 1,
+                      "normalized_valore": 107.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 396796.0,
+                      "segno": 1,
+                      "normalized_valore": 18.85
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 610166.0,
+                      "segno": 1,
+                      "normalized_valore": 35.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 610166.0,
+                      "segno": 1,
+                      "normalized_valore": 35.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 12839.0,
+                      "segno": 1,
+                      "normalized_valore": 11.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 12896.0,
+                      "segno": 1,
+                      "normalized_valore": 11.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 14868.0,
+                      "segno": 1,
+                      "normalized_valore": 10.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 14951.0,
+                      "segno": 1,
+                      "normalized_valore": 10.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 4407.0,
+                      "segno": 1,
+                      "normalized_valore": 11.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5549.0,
+                      "segno": 1,
+                      "normalized_valore": 11.59
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5549.0,
+                      "segno": 1,
+                      "normalized_valore": 11.59
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 33.04
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 17.73
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 13.39
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 23459.78125,
+                      "segno": 1,
+                      "normalized_valore": 10.19
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 23158.73046875,
+                      "segno": 1,
+                      "normalized_valore": 10.22
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 23644.021484375,
+                      "segno": 1,
+                      "normalized_valore": 10.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 23526.2109375,
+                      "segno": 1,
+                      "normalized_valore": 10.19
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 23198.708984375,
+                      "segno": 1,
+                      "normalized_valore": 10.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 23198.708984375,
+                      "segno": 1,
+                      "normalized_valore": 10.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 23198.708984375,
+                      "segno": 1,
+                      "normalized_valore": 10.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.2598062455654144,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": -1.283263921737671,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2.095495700836182,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": -0.4982692897319794,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": -0.01392071135342121,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": -0.01392071135342121,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": -0.01392071135342121,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 23896.5,
+                      "segno": 1,
+                      "normalized_valore": 10.16
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 23541.599609375,
+                      "segno": 1,
+                      "normalized_valore": 10.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 23725.5,
+                      "segno": 1,
+                      "normalized_valore": 10.17
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 23790.69921875,
+                      "segno": 1,
+                      "normalized_valore": 10.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 22816.19921875,
+                      "segno": 1,
+                      "normalized_valore": 10.24
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 22816.19921875,
+                      "segno": 1,
+                      "normalized_valore": 10.24
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 22816.19921875,
+                      "segno": 1,
+                      "normalized_valore": 10.24
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 10.81
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 9.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 9.100000381469727,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 8.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 8.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 8.100000381469727,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 8.100000381469727,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 8.100000381469727,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1.399999976158142,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 0.699999988079071,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 8.5,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 4.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 6.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 63.56288909912109,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 64.16038513183594,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 65.33053588867188,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 63.90735244750977,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 64.29005432128906,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 64.73678588867188,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 64.73678588867188,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 11.21404075622559,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 9.208353996276855,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 9.222726821899414,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 10.32151412963867,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 8.408008575439453,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 8.168036460876465,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 8.168036460876465,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 26.92157936096191,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 25.51753425598145,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 17.91701126098633,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 17.72627830505371,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 17.81684684753418,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 15.32742977142334,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 15.32742977142334,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 12.16784477233887,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 10.90731811523438,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 11.84021854400635,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 12.66225337982178,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 9.702488899230957,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 9.462740898132324,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 9.462740898132324,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.02
+            }
+          ],
+          "sign": 1,
+          "value": 11.62
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.7978073358535767,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 0.7907832860946655,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 0.7766028046607971,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 0.7909383177757263,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 0.679232120513916,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 0.6296267509460449,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 0.6296267509460449,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 28.6489086151123,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 29.52558898925781,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 29.99259567260742,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 30.48947334289551,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 30.98956298828125,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 31.75615119934082,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 31.75615119934082,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2.153456926345825,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2.147500038146973,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 2.130718231201172,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 2.061676025390625,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1.740051865577698,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1.789462685585022,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1.789462685585022,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.02
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 6.583624839782715,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 6.717881679534912,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 5.878953456878662,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 5.586385250091553,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 3.306181907653809,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 5.365592002868652,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 5.365592002868652,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 0.00490452628582716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 0.004962072242051363,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 0.004992232657968998,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 0.005205329973250628,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 1.326145648956299,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 1.326145648956299,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 1.326145648956299,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 57186.79296875,
+                      "segno": 1,
+                      "normalized_valore": 7.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 60520.625,
+                      "segno": 1,
+                      "normalized_valore": 7.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 54293.28515625,
+                      "segno": 1,
+                      "normalized_valore": 7.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 57895.19921875,
+                      "segno": 1,
+                      "normalized_valore": 7.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 58232.76953125,
+                      "segno": 1,
+                      "normalized_valore": 7.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 65681.8046875,
+                      "segno": 1,
+                      "normalized_valore": 6.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 65681.8046875,
+                      "segno": 1,
+                      "normalized_valore": 6.91
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 10.47
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 23.30239295959473,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 22.57643127441406,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 21.95900535583496,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 21.48224639892578,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 21.79319763183594,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 20.89504623413086,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 20.89504623413086,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2.764513969421387,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 2.764513969421387,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 3.356417655944824,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 10.68149089813232,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 3.783040046691895,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 0.5467051863670349,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 0.5467051863670349,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 3242.0,
+                      "segno": 1,
+                      "normalized_valore": 11.77
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 3194.0,
+                      "segno": 1,
+                      "normalized_valore": 11.77
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 3330.0,
+                      "segno": 1,
+                      "normalized_valore": 11.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 3100.0,
+                      "segno": 1,
+                      "normalized_valore": 11.78
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 3673.0,
+                      "segno": 1,
+                      "normalized_valore": 11.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2447.0,
+                      "segno": 1,
+                      "normalized_valore": 11.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2447.0,
+                      "segno": 1,
+                      "normalized_valore": 11.83
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 11.94
+            }
+          ],
+          "sign": 1,
+          "value": 11.48
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 48947.0,
+                      "segno": 1,
+                      "normalized_valore": 8.21
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 49052.0,
+                      "segno": 1,
+                      "normalized_valore": 8.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 48989.0,
+                      "segno": 1,
+                      "normalized_valore": 8.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 48911.0,
+                      "segno": 1,
+                      "normalized_valore": 8.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 48930.0,
+                      "segno": 1,
+                      "normalized_valore": 8.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 49227.0,
+                      "segno": 1,
+                      "normalized_valore": 8.19
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 49227.0,
+                      "segno": 1,
+                      "normalized_valore": 8.19
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 8.968884468078613,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 8.601076126098633,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 8.289795875549316,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 8.3948392868042,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 8.170856475830078,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 8.09108829498291,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 8.09108829498291,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 20.04208564758301,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 20.05014991760254,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 19.99183654785156,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 20.2408447265625,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 20.1430606842041,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 20.29983520507812,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 20.29983520507812,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 281.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 261.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 238.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 228.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 217.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 2.950753211975098,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 0.980917751789093,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 3.914072036743164,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 3.914072036743164,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 3.914072036743164,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 3.914072036743164,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 3.914072036743164,
+                      "segno": -1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 11.25
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 31.47999954223633,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 32.68000030517578,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 36.11999893188477,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 38.43999862670898,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 37.41134643554688,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 37.41134643554688,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 37.41134643554688,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 1178.0,
+                      "segno": 1,
+                      "normalized_valore": 11.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 1188.0,
+                      "segno": 1,
+                      "normalized_valore": 11.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 1360.0,
+                      "segno": 1,
+                      "normalized_valore": 11.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 1215.0,
+                      "segno": 1,
+                      "normalized_valore": 11.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 765.0,
+                      "segno": 1,
+                      "normalized_valore": 11.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 407.0,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 407.0,
+                      "segno": 1,
+                      "normalized_valore": 11.99
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 4.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 2.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 2.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 2.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": -0.6870617270469666,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 0.1107314229011536,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 0.02021619491279125,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": -0.08441226184368134,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": -0.4139949381351471,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": -0.4139949381351471,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": -0.4139949381351471,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.0
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 89.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 112.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 125.6999969482422,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 77.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 77.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 77.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 77.5,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 35.88315963745117,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 30.33083343505859,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 29.27771759033203,
+                      "segno": 1,
+                      "normalized_valore": 12.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 32.63780212402344,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 32.63780212402344,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 32.63780212402344,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 32.63780212402344,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Genova",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.01
+            }
+          ],
+          "sign": 1,
+          "value": 11.75
+        }
+      ],
+      "sign": 1,
+      "value": 11.61
+    }
+  ],
+  "value": 23.37
+}

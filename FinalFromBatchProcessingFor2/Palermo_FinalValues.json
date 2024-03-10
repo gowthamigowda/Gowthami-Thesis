@@ -1,0 +1,4956 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 39.3416748046875,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 39.4043083190918,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 39.44714736938477,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 39.51521682739258,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 39.54912567138672,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 39.646240234375,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 39.646240234375,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 2.554118871688843,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 6.263524055480957,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 4.283925533294678,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 6.806820392608643,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 3.390920639038086,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 3.771372318267822,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 3.771372318267822,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 6.372000217437744,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 6.372000217437744,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 7659000.0,
+                      "segno": 1,
+                      "normalized_valore": 737.46
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 7659000.0,
+                      "segno": 1,
+                      "normalized_valore": 737.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 7659000.0,
+                      "segno": 1,
+                      "normalized_valore": 737.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 7634000.0,
+                      "segno": 1,
+                      "normalized_valore": 735.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 7634000.0,
+                      "segno": 1,
+                      "normalized_valore": 735.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 7634000.0,
+                      "segno": 1,
+                      "normalized_valore": 735.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 7634000.0,
+                      "segno": 1,
+                      "normalized_valore": 735.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 4.76935338973999,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 4.76935338973999,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 4.76935338973999,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 4.753785610198975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 4.753785610198975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 4.753785610198975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 4.753785610198975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 11.62417411804199,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 11.65657615661621,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 11.70874404907227,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 11.743332862854,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 11.87887382507324,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 11.87887382507324,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 11.87887382507324,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 255.95
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 7.043000221252441,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 7.043000221252441,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 7.043000221252441,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.8999999761581421,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.8999999761581421,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.8999999761581421,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.8999999761581421,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.968999981880188,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.968999981880188,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.968999981880188,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 47.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 59.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.89
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 95.91
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 3351.10009765625,
+                      "segno": 1,
+                      "normalized_valore": 15.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 2379.0,
+                      "segno": 1,
+                      "normalized_valore": 15.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 2258.10009765625,
+                      "segno": 1,
+                      "normalized_valore": 15.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 2479.800048828125,
+                      "segno": 1,
+                      "normalized_valore": 15.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 2505.60009765625,
+                      "segno": 1,
+                      "normalized_valore": 15.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 2505.60009765625,
+                      "segno": 1,
+                      "normalized_valore": 15.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 2505.60009765625,
+                      "segno": 1,
+                      "normalized_valore": 15.64
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 15.86564540863037,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 15.05283069610596,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 14.76504707336426,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 13.76100063323975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 13.06814098358154,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 13.06814098358154,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 13.06814098358154,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 26.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 24.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 27.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 28.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.81
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 1628.599975585938,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 1683.356201171875,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 1656.241455078125,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 1690.900024414062,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1580.84375,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 1440.463012695312,
+                      "segno": -1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 1440.463012695312,
+                      "segno": -1,
+                      "normalized_valore": 15.75
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 82.4000015258789,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 89.4000015258789,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 89.42586517333984,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 91.1592788696289,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 85.56127166748047,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 85.56127166748047,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 85.56127166748047,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": -3.920616149902344,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": -6.692348003387451,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 15.66311264038086,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 15.66311264038086,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 368.7999877929688,
+                      "segno": -1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 382.7000122070312,
+                      "segno": -1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 368.3999938964844,
+                      "segno": -1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 405.7999877929688,
+                      "segno": -1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 419.1000061035156,
+                      "segno": -1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 453.3999938964844,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 453.3999938964844,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.84
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 15.82
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 45.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 18.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": []
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 41.40769958496094,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 35.93544387817383,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 37.78607559204102,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.71
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 72.72000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 72.72000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 72.72000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 72.72000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 72.72000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 143.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 143.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 144.0,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 144.0,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 142.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 142.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 142.0,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 45.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 45.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 45.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 47.5,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 49.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 49.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 49.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.88
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 514.7837524414062,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 548.3123779296875,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 550.7427978515625,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 590.14599609375,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 532.4066772460938,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 532.4066772460938,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 532.4066772460938,
+                      "segno": -1,
+                      "normalized_valore": 15.84
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 7.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 13.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 10.47999954223633,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 17.38999938964844,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 14.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 14.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 14.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 36.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 36.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 165.8200073242188,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 176.4400024414062,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 180.1199951171875,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 188.9700012207031,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 188.9700012207031,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 188.9700012207031,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 188.9700012207031,
+                      "segno": -1,
+                      "normalized_valore": 15.87
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.87
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 14.82
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 42.18
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 566.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 580.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 604.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 522.0,
+                      "segno": 1,
+                      "normalized_valore": 15.84
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 624.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 624.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 624.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 8342.0,
+                      "segno": 1,
+                      "normalized_valore": 15.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 6568.0,
+                      "segno": 1,
+                      "normalized_valore": 15.24
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 3770.0,
+                      "segno": 1,
+                      "normalized_valore": 15.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 5665.0,
+                      "segno": 1,
+                      "normalized_valore": 15.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 6289.0,
+                      "segno": 1,
+                      "normalized_valore": 15.27
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 10322.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 10322.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 9.175774574279785,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 6.548488140106201,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 8.162067413330078,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 3.05826997756958,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": -12.41439819335938,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 30.96654319763184,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 30.96654319763184,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.63
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 98.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 77.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 124.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 107.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 107.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 105.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 105.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 373691.0,
+                      "segno": 1,
+                      "normalized_valore": 20.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 300240.0,
+                      "segno": 1,
+                      "normalized_valore": 13.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 264476.0,
+                      "segno": 1,
+                      "normalized_valore": 10.13
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 235382.0,
+                      "segno": 1,
+                      "normalized_valore": 7.26
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 235382.0,
+                      "segno": 1,
+                      "normalized_valore": 7.26
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 191692.0,
+                      "segno": 1,
+                      "normalized_valore": 2.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 191692.0,
+                      "segno": 1,
+                      "normalized_valore": 2.97
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 10.23609828948975,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 10.28208637237549,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 10.36186981201172,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 10.61422538757324,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 9.958710670471191,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 9.958710670471191,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 9.958710670471191,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.25
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 14.78
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 5.224068641662598,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 5.9927978515625,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 9.852424621582031,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 14.07710742950439,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 16.52021408081055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 19.5877742767334,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 19.5877742767334,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 19.5877742767334,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 56.1162223815918,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 71.88648986816406,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 532.0,
+                      "segno": 1,
+                      "normalized_valore": 15.84
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 700.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.86
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 15.88
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 29.3897876739502,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 31.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 29.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 29.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 32.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 32.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 32.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 49.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 49.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 52.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 60.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 60.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 60.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 60.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 1.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 2.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 2.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 2.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 2.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 2.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 2.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 68.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 68.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 65.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 75.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 65.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 65.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 65.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 38.57080459594727,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 42.32047271728516,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 40.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 38.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 4.732340812683105,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 4.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 4.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 571.29736328125,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 579.650390625,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 587.4324340820312,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 607.3905639648438,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 614.4000244140625,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 623.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 623.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.86
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 1452.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 1351.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 1878.0,
+                      "segno": 1,
+                      "normalized_valore": 15.7
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 2017.0,
+                      "segno": 1,
+                      "normalized_valore": 15.69
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1101.0,
+                      "segno": 1,
+                      "normalized_valore": 15.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 1466.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 1466.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 8238.0,
+                      "segno": 1,
+                      "normalized_valore": 15.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 9036.0,
+                      "segno": 1,
+                      "normalized_valore": 15.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 9856.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 10049.0,
+                      "segno": 1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 9804.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 11018.0,
+                      "segno": 1,
+                      "normalized_valore": 14.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 11018.0,
+                      "segno": 1,
+                      "normalized_valore": 14.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 5309804.0,
+                      "segno": 1,
+                      "normalized_valore": 506.39
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 5753046.0,
+                      "segno": 1,
+                      "normalized_valore": 549.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 6657377.0,
+                      "segno": 1,
+                      "normalized_valore": 638.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 7056467.0,
+                      "segno": 1,
+                      "normalized_valore": 678.19
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 2710676.0,
+                      "segno": 1,
+                      "normalized_valore": 250.74
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 4595029.0,
+                      "segno": 1,
+                      "normalized_valore": 436.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 4595029.0,
+                      "segno": 1,
+                      "normalized_valore": 436.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 41605.0,
+                      "segno": 1,
+                      "normalized_valore": 11.8
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 43943.0,
+                      "segno": 1,
+                      "normalized_valore": 11.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 49237.0,
+                      "segno": 1,
+                      "normalized_valore": 11.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 52148.0,
+                      "segno": 1,
+                      "normalized_valore": 10.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 26530.0,
+                      "segno": 1,
+                      "normalized_valore": 13.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 39003.0,
+                      "segno": 1,
+                      "normalized_valore": 12.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 39003.0,
+                      "segno": 1,
+                      "normalized_valore": 12.05
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 159.87
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 59.31
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 30.58
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 20324.388671875,
+                      "segno": 1,
+                      "normalized_valore": 13.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 19903.3515625,
+                      "segno": 1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 20759.306640625,
+                      "segno": 1,
+                      "normalized_valore": 13.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 20635.150390625,
+                      "segno": 1,
+                      "normalized_valore": 13.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 20445.080078125,
+                      "segno": 1,
+                      "normalized_valore": 13.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 20445.080078125,
+                      "segno": 1,
+                      "normalized_valore": 13.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 20445.080078125,
+                      "segno": 1,
+                      "normalized_valore": 13.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": -0.1068390086293221,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": -2.071589946746826,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 4.300563335418701,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": -0.598080039024353,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": -0.009210984222590923,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": -0.009210984222590923,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": -0.009210984222590923,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 17321.80078125,
+                      "segno": 1,
+                      "normalized_valore": 14.19
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 17141.69921875,
+                      "segno": 1,
+                      "normalized_valore": 14.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 16922.30078125,
+                      "segno": 1,
+                      "normalized_valore": 14.22
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 16728.5,
+                      "segno": 1,
+                      "normalized_valore": 14.24
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 15346.599609375,
+                      "segno": 1,
+                      "normalized_valore": 14.38
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 15346.599609375,
+                      "segno": 1,
+                      "normalized_valore": 14.38
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 15346.599609375,
+                      "segno": 1,
+                      "normalized_valore": 14.38
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.69
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 17.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 17.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 15.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 15.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 2.099999904632568,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 1.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 1.399999976158142,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 1.399999976158142,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 14.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 10.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 10.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 11.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 11.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 40.09183883666992,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 40.677978515625,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 41.02209091186523,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 41.18959808349609,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 41.87009811401367,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 38.66439437866211,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 38.66439437866211,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 21.906982421875,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 18.1197681427002,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 17.39554977416992,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 17.70760917663574,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 15.62699413299561,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 20.88699340820312,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 20.88699340820312,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 56.5780143737793,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 49.67395401000977,
+                      "segno": -1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 37.81963729858398,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 34.76057434082031,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 30.60426712036133,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 37.08542633056641,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 37.08542633056641,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 27.81687164306641,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 23.22294616699219,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 21.9577693939209,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 20.40580558776855,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 16.21196365356445,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 19.96846580505371,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 19.96846580505371,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.89
+            }
+          ],
+          "sign": 1,
+          "value": 15.49
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.954168438911438,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.947333812713623,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.9278954863548279,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.8683463931083679,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.6721418499946594,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.6850606799125671,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.6850606799125671,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 26.81450653076172,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 27.35078430175781,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 28.04805183410645,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 28.53275108337402,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 28.18474197387695,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 29.35382461547852,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 29.35382461547852,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 2.037605762481689,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 2.069971561431885,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 2.006865978240967,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 1.929479360580444,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1.541795015335083,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 1.603290915489197,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 1.603290915489197,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.89
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 4.775351047515869,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 5.233964920043945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 5.486912250518799,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 4.618330001831055,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1.619873642921448,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 5.046730041503906,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 5.046730041503906,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.003073120722547174,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.003125305287539959,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.00296573294326663,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.00302037550136447,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.5804762840270996,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.5804762840270996,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.5804762840270996,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 40516.875,
+                      "segno": 1,
+                      "normalized_valore": 11.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 43642.546875,
+                      "segno": 1,
+                      "normalized_valore": 11.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 39073.0703125,
+                      "segno": 1,
+                      "normalized_valore": 12.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 41377.86328125,
+                      "segno": 1,
+                      "normalized_valore": 11.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 43208.6953125,
+                      "segno": 1,
+                      "normalized_valore": 11.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 46129.81640625,
+                      "segno": 1,
+                      "normalized_valore": 11.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 46129.81640625,
+                      "segno": 1,
+                      "normalized_valore": 11.35
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.49
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 20.18195724487305,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 19.28349685668945,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 18.66288375854492,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 17.83733177185059,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 17.50537300109863,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 17.28639602661133,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 17.28639602661133,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": -0.6203833818435669,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": -0.6203833818435669,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 4.415188789367676,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 0.4348128139972687,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 4.67645788192749,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 4.093836307525635,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 4.093836307525635,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 54228.0,
+                      "segno": 1,
+                      "normalized_valore": 10.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 54007.0,
+                      "segno": 1,
+                      "normalized_valore": 10.58
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 56850.0,
+                      "segno": 1,
+                      "normalized_valore": 10.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 60316.0,
+                      "segno": 1,
+                      "normalized_valore": 9.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 61551.0,
+                      "segno": 1,
+                      "normalized_valore": 9.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 47964.0,
+                      "segno": 1,
+                      "normalized_valore": 11.17
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 47964.0,
+                      "segno": 1,
+                      "normalized_valore": 11.17
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.1
+            }
+          ],
+          "sign": 1,
+          "value": 14.82
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 39885.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 39557.0,
+                      "segno": 1,
+                      "normalized_valore": 12.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 39408.0,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 39698.0,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 40457.0,
+                      "segno": 1,
+                      "normalized_valore": 11.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 41496.0,
+                      "segno": 1,
+                      "normalized_valore": 11.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 41496.0,
+                      "segno": 1,
+                      "normalized_valore": 11.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 15.29898452758789,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 14.28065872192383,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 13.41351985931396,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 12.68325901031494,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 12.08937931060791,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 11.61075782775879,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 11.61075782775879,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 22.34674644470215,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 22.6331615447998,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 22.96234321594238,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 23.04146385192871,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 23.12578773498535,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 23.20223617553711,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 23.20223617553711,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 207.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 195.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 170.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 157.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 152.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 145.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 145.0,
+                      "segno": 1,
+                      "normalized_valore": 15.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 4.014260768890381,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 2.092159748077393,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 3.953620195388794,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 3.953620195388794,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 3.953620195388794,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 3.953620195388794,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 3.953620195388794,
+                      "segno": -1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.09
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 31.69000053405762,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 26.82999992370605,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 30.26000022888184,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 28.53000068664551,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 919.0,
+                      "segno": 1,
+                      "normalized_valore": 15.8
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 1204.0,
+                      "segno": 1,
+                      "normalized_valore": 15.77
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 1041.0,
+                      "segno": 1,
+                      "normalized_valore": 15.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 1340.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 729.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 574.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 574.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 2.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 2.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 2.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 2.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 1.100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 1.100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 1.100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 0.5450577139854431,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 0.9208616614341736,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 0.4168969988822937,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 1.252367615699768,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 0.8308268785476685,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 0.8308268785476685,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 0.8308268785476685,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.87
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 7.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 3.5,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 9.899999618530273,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 41.58151626586914,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 42.08540344238281,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 10.84405422210693,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 3.822235345840454,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 3.822235345840454,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 3.822235345840454,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 3.822235345840454,
+                      "segno": 1,
+                      "normalized_valore": 15.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Palermo",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.89
+            }
+          ],
+          "sign": 1,
+          "value": 15.62
+        }
+      ],
+      "sign": 1,
+      "value": 15.31
+    }
+  ],
+  "value": 28.68
+}

@@ -1,0 +1,23 @@
+/* SVG Styles */
+path {
+    stroke: #fff;
+}
+
+text {
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    fill: #000;
+}
+
+/* Dropdown Styles */
+#citySelect {
+    font-size: 14px;
+    padding: 5px;
+}
+
+/* Container Styles */
+#initial-visualization {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+}
+

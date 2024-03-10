@@ -1,0 +1,4261 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Cittadini",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Formazione e Istruzion",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Livello di Alfabetizzazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di abbandono scolastico prematuro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 12.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 24.91
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 13.30000019073486,
+                      "segno": -1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 11.5,
+                      "segno": -1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 11.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 11.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 11.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.91
+                    }
+                  ]
+                },
+                {
+                  "name": "Neet, giovani che non studiano/lavorano",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 13.5,
+                      "segno": -1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 18.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 19.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 19.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.54
+                    }
+                  ]
+                },
+                {
+                  "name": "Competenza alfabetica non adeguata",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 25.5,
+                      "segno": -1,
+                      "normalized_valore": 24.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 25.5,
+                      "segno": -1,
+                      "normalized_valore": 24.24
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 25.5,
+                      "segno": -1,
+                      "normalized_valore": 24.24
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 26.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 26.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 26.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.2
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 26.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.2
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.61
+            },
+            {
+              "name": "Livello di Istruzione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Diplomati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 69.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 70.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 22.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 71.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 21.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 70.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 22.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 71.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 70.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 22.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 70.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 22.05
+                    }
+                  ]
+                },
+                {
+                  "name": "Laureati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 35.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 40.5,
+                      "segno": 1,
+                      "normalized_valore": 23.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 40.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 41.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.44
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 40.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 40.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alla formazione continua",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 11.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 10.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.97
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 12.0,
+                      "segno": 1,
+                      "normalized_valore": 24.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 11.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 10.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 13.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 13.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.49
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.05
+        },
+        {
+          "name": "Salute",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Condizioni di Salute",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Speranza di vita alla nascita",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 83.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 83.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 21.38
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 84.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.37
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 84.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 82.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 83.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 83.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.39
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita evitabile",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 15.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.72
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 15.5,
+                      "segno": -1,
+                      "normalized_valore": 24.74
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 15.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.75
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 14.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 14.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 14.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 14.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.78
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita per tumore",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 8.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 25.09
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 8.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 25.09
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 8.399999618530273,
+                      "segno": -1,
+                      "normalized_valore": 25.08
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 7.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.11
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 7.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.11
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.11
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.75
+            },
+            {
+              "name": "Sanit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Abitanti per farmacie e parafarmacie",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 36.77596282958984,
+                      "segno": -1,
+                      "normalized_valore": 23.69
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 36.35371017456055,
+                      "segno": -1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 35.99443054199219,
+                      "segno": -1,
+                      "normalized_valore": 23.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 35.97145462036133,
+                      "segno": -1,
+                      "normalized_valore": 23.73
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 36.32017135620117,
+                      "segno": -1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 37.65811920166016,
+                      "segno": -1,
+                      "normalized_valore": 23.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 37.65811920166016,
+                      "segno": -1,
+                      "normalized_valore": 23.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto in ospedale",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 39.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 38.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.69
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 38.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.59
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 35.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.74
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 35.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 35.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.74
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto ad elevata assistenza",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 25.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.29
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.29
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 25.29
+                    }
+                  ]
+                },
+                {
+                  "name": "Emigrazione ospedaliera",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 3.700000047683716,
+                      "segno": -1,
+                      "normalized_valore": 25.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 3.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 25.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.49
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.12
+        },
+        {
+          "name": "Qualit\u00c3\u00a0 della Vita",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Abitare",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero di case sovraffollate",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.37
+                    }
+                  ]
+                },
+                {
+                  "name": "Sfratti eseguiti",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.08777064830064774,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.08777064830064774,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.08777064830064774,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.07416462898254395,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.002395048504695296,
+                      "segno": -1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.002655792282894254,
+                      "segno": -1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.002655792282894254,
+                      "segno": -1,
+                      "normalized_valore": 25.5
+                    }
+                  ]
+                },
+                {
+                  "name": "Case di proprieta",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 78.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 78.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 76.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 76.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.74
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 79.5,
+                      "segno": 1,
+                      "normalized_valore": 21.59
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 76.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.72
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 76.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.72
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.18
+            },
+            {
+              "name": "Work-life Balancea",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 43.0,
+                      "segno": -1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 44.0,
+                      "segno": -1,
+                      "normalized_valore": 23.34
+                    }
+                  ]
+                },
+                {
+                  "name": "Soddisfazione per il tempo libero",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 18.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 16.0,
+                      "segno": 1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 15.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 15.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 15.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 24.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 11.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 11.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.95
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi per l'infanzia, nido",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 25.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 26.5,
+                      "segno": 1,
+                      "normalized_valore": 24.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 26.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.09
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.09
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.09
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.09
+                    }
+                  ]
+                },
+                {
+                  "name": "Strutture per assistenza agli anziani",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.03002519905567169,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.03029517643153667,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.03010741248726845,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.03010741248726845,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.03010741248726845,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.03010741248726845,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.03010741248726845,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.45
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.32
+        }
+      ],
+      "color": "red",
+      "sign": 1,
+      "value": 24.16
+    },
+    {
+      "name": "Societ\u00c3\u00a0",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Demografia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Popolazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Saldo demografico naturale",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": -0.1507369577884674,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": -0.2157673537731171,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": -0.2437274754047394,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": -0.2354560047388077,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": -0.5941404700279236,
+                      "segno": 1,
+                      "normalized_valore": 25.53
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": -0.3262969553470612,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": -0.3262969553470612,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Residenti in eta lavorativa",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 63.65065002441406,
+                      "segno": 1,
+                      "normalized_valore": 22.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 63.96324157714844,
+                      "segno": 1,
+                      "normalized_valore": 22.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 64.33184051513672,
+                      "segno": 1,
+                      "normalized_valore": 22.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 64.66460418701172,
+                      "segno": 1,
+                      "normalized_valore": 22.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 65.02718353271484,
+                      "segno": 1,
+                      "normalized_valore": 22.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 64.85469818115234,
+                      "segno": 1,
+                      "normalized_valore": 22.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 64.85469818115234,
+                      "segno": 1,
+                      "normalized_valore": 22.31
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti immigrati",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 18.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 19.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 19.5,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 19.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.52
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 20.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.51
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 20.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 20.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.49
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.12
+            },
+            {
+              "name": "Densit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita di popolazione",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 7423.599609375,
+                      "segno": 1,
+                      "normalized_valore": 338.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 7479.544921875,
+                      "segno": 1,
+                      "normalized_valore": 341.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 7554.20166015625,
+                      "segno": 1,
+                      "normalized_valore": 345.31
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 7712.0439453125,
+                      "segno": 1,
+                      "normalized_valore": 353.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 7653.15380859375,
+                      "segno": 1,
+                      "normalized_valore": 350.17
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7498.1767578125,
+                      "segno": 1,
+                      "normalized_valore": 342.56
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7498.1767578125,
+                      "segno": 1,
+                      "normalized_valore": 342.56
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie mono composte",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 52.07729721069336,
+                      "segno": -1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 52.07729721069336,
+                      "segno": -1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 52.07729721069336,
+                      "segno": -1,
+                      "normalized_valore": 22.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 52.74432373046875,
+                      "segno": -1,
+                      "normalized_valore": 22.91
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 52.74432373046875,
+                      "segno": -1,
+                      "normalized_valore": 22.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 52.74432373046875,
+                      "segno": -1,
+                      "normalized_valore": 22.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 52.74432373046875,
+                      "segno": -1,
+                      "normalized_valore": 22.91
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie numerose",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 3.139241456985474,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 3.139241456985474,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 3.139241456985474,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 3.102501153945923,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 3.102501153945923,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 3.102501153945923,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 3.102501153945923,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 131.09
+            },
+            {
+              "name": "Sostenibilit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di natalita",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 8.677199363708496,
+                      "segno": 1,
+                      "normalized_valore": 25.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 8.373126983642578,
+                      "segno": 1,
+                      "normalized_valore": 25.09
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 7.791264533996582,
+                      "segno": 1,
+                      "normalized_valore": 25.11
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 7.520460605621338,
+                      "segno": 1,
+                      "normalized_valore": 25.13
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 7.378388404846191,
+                      "segno": 1,
+                      "normalized_valore": 25.13
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7.438396453857422,
+                      "segno": 1,
+                      "normalized_valore": 25.13
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7.438396453857422,
+                      "segno": 1,
+                      "normalized_valore": 25.13
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti over 65",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 23.30962181091309,
+                      "segno": -1,
+                      "normalized_valore": 24.35
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 23.05252647399902,
+                      "segno": -1,
+                      "normalized_valore": 24.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 22.83858108520508,
+                      "segno": -1,
+                      "normalized_valore": 24.38
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 22.69660568237305,
+                      "segno": -1,
+                      "normalized_valore": 24.38
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 22.46341133117676,
+                      "segno": -1,
+                      "normalized_valore": 24.39
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 22.58734703063965,
+                      "segno": -1,
+                      "normalized_valore": 24.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 22.58734703063965,
+                      "segno": -1,
+                      "normalized_valore": 24.39
+                    }
+                  ]
+                },
+                {
+                  "name": "Saldo demografico migratorio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.5741795897483826,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 1.291513323783875,
+                      "segno": 1,
+                      "normalized_valore": 25.43
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 1.155173540115356,
+                      "segno": 1,
+                      "normalized_valore": 25.44
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 1.081498861312866,
+                      "segno": 1,
+                      "normalized_valore": 25.44
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": -0.1921013295650482,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": -0.07986751198768616,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": -0.07986751198768616,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.99
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 60.07
+        },
+        {
+          "name": "Cultura",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Offerta culturalee",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Dotazione di musei per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 9.78753662109375,
+                      "segno": 1,
+                      "normalized_valore": 25.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 9.78753662109375,
+                      "segno": 1,
+                      "normalized_valore": 25.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 9.690808296203613,
+                      "segno": 1,
+                      "normalized_valore": 25.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 3.283108949661255,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 3.452214241027832,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 3.452214241027832,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 3.452214241027832,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di biblioteche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 9.492466926574707,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 9.492466926574707,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 9.492466926574707,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 9.492466926574707,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 7.192112922668457,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7.192112922668457,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7.192112922668457,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di teatri per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 25.60105514526367,
+                      "segno": 1,
+                      "normalized_valore": 24.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 25.15360069274902,
+                      "segno": 1,
+                      "normalized_valore": 24.26
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 25.33279228210449,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 24.50291061401367,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 11.68465042114258,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 9.845492362976074,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 9.845492362976074,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di sale cinematografiche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 8.97191047668457,
+                      "segno": 1,
+                      "normalized_valore": 25.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 9.780842781066895,
+                      "segno": 1,
+                      "normalized_valore": 25.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 9.37103271484375,
+                      "segno": 1,
+                      "normalized_valore": 25.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 9.940896034240723,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 9.845492362976074,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 9.845492362976074,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 9.845492362976074,
+                      "segno": 1,
+                      "normalized_valore": 25.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Verde storico",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 3.54542875289917,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 3.54542875289917,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 3.54542875289917,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 3.54542875289917,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 3.54542875289917,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 3.453141927719116,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 3.453141927719116,
+                      "segno": 1,
+                      "normalized_valore": 25.33
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.04
+            },
+            {
+              "name": "Domanda culturale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 1.024116992950439,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Utenti delle biblioteche pubbliche e private",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.1172826439142227,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.1172826439142227,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.1172826439142227,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.1172826439142227,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.06163928285241127,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.06163928285241127,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.06163928285241127,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate a teatro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 43.01084518432617,
+                      "segno": 1,
+                      "normalized_valore": 23.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 40.67227935791016,
+                      "segno": 1,
+                      "normalized_valore": 23.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 41.92250061035156,
+                      "segno": 1,
+                      "normalized_valore": 23.44
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 43.60332489013672,
+                      "segno": 1,
+                      "normalized_valore": 23.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 1.155640959739685,
+                      "segno": 1,
+                      "normalized_valore": 25.44
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 10.7749137878418,
+                      "segno": 1,
+                      "normalized_valore": 24.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 10.7749137878418,
+                      "segno": 1,
+                      "normalized_valore": 24.97
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate al cinema",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 207.3668975830078,
+                      "segno": 1,
+                      "normalized_valore": 15.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 185.2891235351562,
+                      "segno": 1,
+                      "normalized_valore": 16.4
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 177.0095825195312,
+                      "segno": 1,
+                      "normalized_valore": 16.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 196.5869293212891,
+                      "segno": 1,
+                      "normalized_valore": 15.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 55.54038238525391,
+                      "segno": 1,
+                      "normalized_valore": 22.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 54.79441070556641,
+                      "segno": 1,
+                      "normalized_valore": 22.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 54.79441070556641,
+                      "segno": 1,
+                      "normalized_valore": 22.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Visitatori dei musei",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 336.0923461914062,
+                      "segno": 1,
+                      "normalized_valore": 9.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 333.5784606933594,
+                      "segno": 1,
+                      "normalized_valore": 9.12
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 330.2817687988281,
+                      "segno": 1,
+                      "normalized_valore": 9.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 369.3522644042969,
+                      "segno": 1,
+                      "normalized_valore": 7.37
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 96.7193374633789,
+                      "segno": 1,
+                      "normalized_valore": 20.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 96.7193374633789,
+                      "segno": 1,
+                      "normalized_valore": 20.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 96.7193374633789,
+                      "segno": 1,
+                      "normalized_valore": 20.75
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che hanno letto almeno un libro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.1
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 48.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.11
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 49.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 48.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 49.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.1
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.1
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 22.07
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 23.48
+        },
+        {
+          "name": " Attivit\u00c3\u00a0 sociali",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Volontariato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 950.0,
+                      "segno": 1,
+                      "normalized_valore": 21.14
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione Attiva in Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 13.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 13.0,
+                      "segno": 1,
+                      "normalized_valore": 24.86
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 13.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 12.5,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 11.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 9.399999618530273,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 9.399999618530273,
+                      "segno": 1,
+                      "normalized_valore": 25.03
+                    }
+                  ]
+                },
+                {
+                  "name": "Istituzioni no profit orientate al disagio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 12475.583984375,
+                      "segno": 1,
+                      "normalized_valore": 586.88
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 210.98
+            },
+            {
+              "name": "Attivit\u00c3\u00a0 Civiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Istituzioni no profit",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.0002177441056119278,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.0002237917797174305,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.004819878842681646,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 3.560173354344442e-05,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 3.576597373466939e-05,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 3.576597373466939e-05,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 3.576597373466939e-05,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    }
+                  ]
+                },
+                {
+                  "name": "Riunioni in associazioni",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 12.0,
+                      "segno": 1,
+                      "normalized_valore": 24.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 11.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 10.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 24.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 9.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 25.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7.0,
+                      "segno": 1,
+                      "normalized_valore": 25.15
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7.0,
+                      "segno": 1,
+                      "normalized_valore": 25.15
+                    }
+                  ]
+                },
+                {
+                  "name": "Societa sportive",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 2410.0,
+                      "segno": 1,
+                      "normalized_valore": 92.8
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 2393.0,
+                      "segno": 1,
+                      "normalized_valore": 91.97
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 2433.0,
+                      "segno": 1,
+                      "normalized_valore": 93.93
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 2419.0,
+                      "segno": 1,
+                      "normalized_valore": 93.24
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 2373.0,
+                      "segno": 1,
+                      "normalized_valore": 90.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 2373.0,
+                      "segno": 1,
+                      "normalized_valore": 90.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 2373.0,
+                      "segno": 1,
+                      "normalized_valore": 90.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che svolgono attivita sportiva",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 27.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 30.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 31.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 32.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 30.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.71
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 41.64
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 126.31
+        }
+      ],
+      "color": "Green",
+      "sign": 1,
+      "value": 69.93
+    },
+    {
+      "name": "Governance",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Amministrazione Civica",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Finanza Pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capacita di spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.7850000262260437,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.824999988079071,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.8230000138282776,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.8140000104904175,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.8230000138282776,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.8230000138282776,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.8230000138282776,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di riscossione",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.8019999861717224,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.7760000228881836,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.7929999828338623,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.7720000147819519,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.7910000085830688,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 1.053239822387695,
+                      "segno": 1,
+                      "normalized_valore": 25.44
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 1.053239822387695,
+                      "segno": 1,
+                      "normalized_valore": 25.44
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia finanziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 84.31304931640625,
+                      "segno": 1,
+                      "normalized_valore": 21.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 85.12388610839844,
+                      "segno": 1,
+                      "normalized_valore": 21.32
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 89.81133270263672,
+                      "segno": 1,
+                      "normalized_valore": 21.09
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 87.95149230957031,
+                      "segno": 1,
+                      "normalized_valore": 21.18
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 68.5494613647461,
+                      "segno": 1,
+                      "normalized_valore": 22.13
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 65.30982971191406,
+                      "segno": 1,
+                      "normalized_valore": 22.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 65.30982971191406,
+                      "segno": 1,
+                      "normalized_valore": 22.29
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia impositiva",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.4329999983310699,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.4449999928474426,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.4329999983310699,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.4350000023841858,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.4180000126361847,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.4180000126361847,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.4180000126361847,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigidita della spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.25,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.2430000007152557,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.2450000047683716,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.239999994635582,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.2189999967813492,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.2189999967813492,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.2189999967813492,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 24.71
+            },
+            {
+              "name": "Spesa pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Spesa per Diritti, politiche sociali e famiglia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 11.40617084503174,
+                      "segno": 1,
+                      "normalized_valore": 24.94
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 11.32068824768066,
+                      "segno": 1,
+                      "normalized_valore": 24.94
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 11.1693696975708,
+                      "segno": 1,
+                      "normalized_valore": 24.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 10.20212459564209,
+                      "segno": 1,
+                      "normalized_valore": 25.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 9.141942977905273,
+                      "segno": 1,
+                      "normalized_valore": 25.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 10.81999969482422,
+                      "segno": 1,
+                      "normalized_valore": 24.96
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 10.81999969482422,
+                      "segno": 1,
+                      "normalized_valore": 24.96
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Ordine pubblico e sicurezza",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 5.311713695526123,
+                      "segno": 1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 5.140194416046143,
+                      "segno": 1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 5.201183319091797,
+                      "segno": 1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 5.312067031860352,
+                      "segno": 1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 4.367247104644775,
+                      "segno": 1,
+                      "normalized_valore": 25.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 3.829999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 3.829999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.31
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Istruzione e diritto allo studio",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 7.305621147155762,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 7.137403964996338,
+                      "segno": 1,
+                      "normalized_valore": 25.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 7.109955787658691,
+                      "segno": 1,
+                      "normalized_valore": 25.15
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 7.60491418838501,
+                      "segno": 1,
+                      "normalized_valore": 25.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 6.286997318267822,
+                      "segno": 1,
+                      "normalized_valore": 25.19
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 7.619999885559082,
+                      "segno": 1,
+                      "normalized_valore": 25.12
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 7.619999885559082,
+                      "segno": 1,
+                      "normalized_valore": 25.12
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 3.262276411056519,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 2.928624153137207,
+                      "segno": 1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 2.938329696655273,
+                      "segno": 1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.4195462167263031,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 2.474027872085571,
+                      "segno": 1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 2.670000076293945,
+                      "segno": 1,
+                      "normalized_valore": 25.37
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 2.670000076293945,
+                      "segno": 1,
+                      "normalized_valore": 25.37
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per le politiche giovanili",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.09369639307260513,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.08353858441114426,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.07638091593980789,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.08666419982910156,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.06551916152238846,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 25.25
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 24.98
+        },
+        {
+          "name": "Engagement",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Engagement Politico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Amministratori comunali under 40",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 29.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 27.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 26.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 24.27
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 25.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.24
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 25.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.24
+                    }
+                  ]
+                },
+                {
+                  "name": "Amministratori comunali donne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 36.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.72
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 37.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 38.0,
+                      "segno": 1,
+                      "normalized_valore": 23.63
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.56
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.56
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 38.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.61
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 38.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.61
+                    }
+                  ]
+                },
+                {
+                  "name": "Affluenza alle urne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 61.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.49
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alle elezioni regionali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 72.0,
+                      "segno": 1,
+                      "normalized_valore": 21.96
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 23.07
+            },
+            {
+              "name": "Fiducia dei cittadini",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 21.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.46
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 22.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.4
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 23.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.16
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 25.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.26
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 28.0,
+                      "segno": 1,
+                      "normalized_valore": 24.12
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 28.0,
+                      "segno": 1,
+                      "normalized_valore": 24.12
+                    }
+                  ]
+                },
+                {
+                  "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 47.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 46.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 50.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 52.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.93
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 58.5,
+                      "segno": 1,
+                      "normalized_valore": 22.62
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 54.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 54.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di soddisfazione per la vita nel complesso",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 84.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 84.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 86.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.26
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 85.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.28
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 86.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 21.24
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 85.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.32
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 85.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.32
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 22.84
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 22.95
+        },
+        {
+          "name": "Giustizia e Sicurezza",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Giustizia",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lentezza giudiziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.1042906045913696,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.1014377325773239,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.07799465954303741,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 0.0564141608774662,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 0.05413885414600372,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.05413885414600372,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.05413885414600372,
+                      "segno": -1,
+                      "normalized_valore": 25.49
+                    }
+                  ]
+                },
+                {
+                  "name": "Clearance rate",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 0.9627088904380798,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 0.946456789970398,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 0.9319394826889038,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 1.02414870262146,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 1.006970286369324,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 0.9930779337882996,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 0.9930779337882996,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di magistrati effettivi",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 500.0,
+                      "segno": 1,
+                      "normalized_valore": 0.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 501.0,
+                      "segno": 1,
+                      "normalized_valore": 0.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 502.0,
+                      "segno": 1,
+                      "normalized_valore": 0.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 509.0,
+                      "segno": 1,
+                      "normalized_valore": 0.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 499.0,
+                      "segno": 1,
+                      "normalized_valore": 1.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 500.0,
+                      "segno": 1,
+                      "normalized_valore": 0.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 500.0,
+                      "segno": 1,
+                      "normalized_valore": 0.95
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero magistrati donna",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 318.0,
+                      "segno": 1,
+                      "normalized_valore": 9.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 323.0,
+                      "segno": 1,
+                      "normalized_valore": 9.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 324.0,
+                      "segno": 1,
+                      "normalized_valore": 9.59
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 334.0,
+                      "segno": 1,
+                      "normalized_valore": 9.1
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 331.0,
+                      "segno": 1,
+                      "normalized_valore": 9.25
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 331.0,
+                      "segno": 1,
+                      "normalized_valore": 9.25
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 331.0,
+                      "segno": 1,
+                      "normalized_valore": 9.25
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 15.31
+            },
+            {
+              "name": "Sicurezza",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Delitti denunciati alle forze di polizia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 11069.5,
+                      "segno": -1,
+                      "normalized_valore": 517.86
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 10908.2001953125,
+                      "segno": -1,
+                      "normalized_valore": 509.94
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 10452.400390625,
+                      "segno": -1,
+                      "normalized_valore": 487.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 9925.900390625,
+                      "segno": -1,
+                      "normalized_valore": 461.73
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 6761.60009765625,
+                      "segno": -1,
+                      "normalized_valore": 306.4
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 8605.099609375,
+                      "segno": -1,
+                      "normalized_valore": 396.89
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 8605.099609375,
+                      "segno": -1,
+                      "normalized_valore": 396.89
+                    }
+                  ]
+                },
+                {
+                  "name": "Infortuni sul lavoro",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 1457.321655273438,
+                      "segno": -1,
+                      "normalized_valore": 46.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 1545.179809570312,
+                      "segno": -1,
+                      "normalized_valore": 50.35
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 1545.866088867188,
+                      "segno": -1,
+                      "normalized_valore": 50.38
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 1508.659912109375,
+                      "segno": -1,
+                      "normalized_valore": 48.56
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 1575.863891601562,
+                      "segno": -1,
+                      "normalized_valore": 51.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 1377.274169921875,
+                      "segno": -1,
+                      "normalized_valore": 42.11
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 1377.274169921875,
+                      "segno": -1,
+                      "normalized_valore": 42.11
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenti stradali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Milano",
+                      "valore": 6.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 25.17
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Milano",
+                      "valore": 6.300083160400391,
+                      "segno": -1,
+                      "normalized_valore": 25.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Milano",
+                      "valore": 6.215232849121094,
+                      "segno": -1,
+                      "normalized_valore": 25.19
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Milano",
+                      "valore": 5.944039821624756,
+                      "segno": -1,
+                      "normalized_valore": 25.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Milano",
+                      "valore": 3.49249005317688,
+                      "segno": -1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Milano",
+                      "valore": 5.436112403869629,
+                      "segno": -1,
+                      "normalized_valore": 25.23
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Milano",
+                      "valore": 5.436112403869629,
+                      "segno": -1,
+                      "normalized_valore": 25.23
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 176.95
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 95.85
+        }
+      ],
+      "color": "Blue",
+      "sign": 1,
+      "value": 48.22
+    }
+  ],
+  "value": 47.29
+}

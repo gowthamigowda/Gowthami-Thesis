@@ -1,0 +1,4261 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Cittadini",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Formazione e Istruzion",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Livello di Alfabetizzazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di abbandono scolastico prematuro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 11.30000019073486,
+                      "segno": -1,
+                      "normalized_valore": 24.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 9.899999618530273,
+                      "segno": -1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 11.0,
+                      "segno": -1,
+                      "normalized_valore": 24.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 11.30000019073486,
+                      "segno": -1,
+                      "normalized_valore": 24.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 9.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 9.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 9.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 24.18
+                    }
+                  ]
+                },
+                {
+                  "name": "Neet, giovani che non studiano/lavorano",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 23.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 23.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 23.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 13.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 15.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 23.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 10.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 10.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Competenza alfabetica non adeguata",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 28.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 22.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 28.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 22.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 28.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 22.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 22.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 22.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 22.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 22.66
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.55
+            },
+            {
+              "name": "Livello di Istruzione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Diplomati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 71.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 75.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 19.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 74.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.1
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 75.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 19.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 76.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 18.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 75.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 19.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 75.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 19.04
+                    }
+                  ]
+                },
+                {
+                  "name": "Laureati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 37.5,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 41.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 43.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 41.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.7
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 41.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 44.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.47
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 44.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.47
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alla formazione continua",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 12.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 23.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 13.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 15.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 13.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 14.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 16.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 16.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.65
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 21.51
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 22.53
+        },
+        {
+          "name": "Salute",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Condizioni di Salute",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Speranza di vita alla nascita",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 83.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 18.43
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 83.5,
+                      "segno": 1,
+                      "normalized_valore": 18.44
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 83.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.42
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 84.0,
+                      "segno": 1,
+                      "normalized_valore": 18.4
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 83.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 18.47
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 83.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.46
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 83.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.46
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita evitabile",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 16.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 23.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 15.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 23.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 15.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 14.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 23.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 14.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 23.76
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 14.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 23.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 14.69999980926514,
+                      "segno": -1,
+                      "normalized_valore": 23.76
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita per tumore",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 8.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.23
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.3
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 7.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 7.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.34
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 7.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 7.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 7.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 24.34
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 22.16
+            },
+            {
+              "name": "Sanit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Abitanti per farmacie e parafarmacie",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 42.32094192504883,
+                      "segno": -1,
+                      "normalized_valore": 21.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 43.20832061767578,
+                      "segno": -1,
+                      "normalized_valore": 21.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 42.56972503662109,
+                      "segno": -1,
+                      "normalized_valore": 21.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 43.11088180541992,
+                      "segno": -1,
+                      "normalized_valore": 21.56
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 43.19643402099609,
+                      "segno": -1,
+                      "normalized_valore": 21.56
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 43.61613845825195,
+                      "segno": -1,
+                      "normalized_valore": 21.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 43.61613845825195,
+                      "segno": -1,
+                      "normalized_valore": 21.52
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto in ospedale",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 45.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 45.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.37
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 43.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 40.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 42.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.62
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 42.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.62
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 42.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.62
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto ad elevata assistenza",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 24.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 24.58
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 24.59
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 24.59
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 24.6
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 24.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 24.6
+                    }
+                  ]
+                },
+                {
+                  "name": "Emigrazione ospedaliera",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 3.700000047683716,
+                      "segno": -1,
+                      "normalized_valore": 24.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 3.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 24.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 3.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 3.5,
+                      "segno": -1,
+                      "normalized_valore": 24.63
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.67
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.09
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 22.62
+        },
+        {
+          "name": "Qualit\u00c3\u00a0 della Vita",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Abitare",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero di case sovraffollate",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    }
+                  ]
+                },
+                {
+                  "name": "Sfratti eseguiti",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.0892566442489624,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.0892566442489624,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.0892566442489624,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.0837240219116211,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.01949059963226318,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.01998888328671455,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.01998888328671455,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    }
+                  ]
+                },
+                {
+                  "name": "Case di proprieta",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 18.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 79.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 18.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 79.5,
+                      "segno": 1,
+                      "normalized_valore": 18.75
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 77.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 81.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 18.59
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 79.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 18.72
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 79.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 18.72
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 22.78
+            },
+            {
+              "name": "Work-life Balancea",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 35.0,
+                      "segno": -1,
+                      "normalized_valore": 22.19
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 35.0,
+                      "segno": -1,
+                      "normalized_valore": 22.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 35.0,
+                      "segno": -1,
+                      "normalized_valore": 22.19
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 35.0,
+                      "segno": -1,
+                      "normalized_valore": 22.19
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 34.0,
+                      "segno": -1,
+                      "normalized_valore": 22.27
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 34.0,
+                      "segno": -1,
+                      "normalized_valore": 22.27
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 21.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Soddisfazione per il tempo libero",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 17.5,
+                      "segno": 1,
+                      "normalized_valore": 23.54
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 15.5,
+                      "segno": 1,
+                      "normalized_valore": 23.7
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 16.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 16.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.6
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 15.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 23.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi per l'infanzia, nido",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 33.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 34.5,
+                      "segno": 1,
+                      "normalized_valore": 22.23
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 35.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.16
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.08
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 36.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Strutture per assistenza agli anziani",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.02721352316439152,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.02922466769814491,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.03299370035529137,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.03299370035529137,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.03299370035529137,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.03299370035529137,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.03299370035529137,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.23
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 23.01
+        }
+      ],
+      "color": "red",
+      "sign": 1,
+      "value": 22.72
+    },
+    {
+      "name": "Societ\u00c3\u00a0",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Demografia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Popolazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Saldo demografico naturale",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": -0.3974039852619171,
+                      "segno": 1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": -0.4521442055702209,
+                      "segno": 1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": -0.3954368233680725,
+                      "segno": 1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": -0.4273049235343933,
+                      "segno": 1,
+                      "normalized_valore": 24.93
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": -0.608815610408783,
+                      "segno": 1,
+                      "normalized_valore": 24.95
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": -0.5305774807929993,
+                      "segno": 1,
+                      "normalized_valore": 24.94
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": -0.5305774807929993,
+                      "segno": 1,
+                      "normalized_valore": 24.94
+                    }
+                  ]
+                },
+                {
+                  "name": "Residenti in eta lavorativa",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 62.79215240478516,
+                      "segno": 1,
+                      "normalized_valore": 20.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 63.01761627197266,
+                      "segno": 1,
+                      "normalized_valore": 20.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 63.22714614868164,
+                      "segno": 1,
+                      "normalized_valore": 20.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 63.52409744262695,
+                      "segno": 1,
+                      "normalized_valore": 19.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 63.96016311645508,
+                      "segno": 1,
+                      "normalized_valore": 19.95
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 63.82263946533203,
+                      "segno": 1,
+                      "normalized_valore": 19.96
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 63.82263946533203,
+                      "segno": 1,
+                      "normalized_valore": 19.96
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti immigrati",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 15.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 15.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 23.72
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 15.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 15.5,
+                      "segno": 1,
+                      "normalized_valore": 23.7
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 15.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 16.0,
+                      "segno": 1,
+                      "normalized_valore": 23.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 16.0,
+                      "segno": 1,
+                      "normalized_valore": 23.66
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 22.87
+            },
+            {
+              "name": "Densit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita di popolazione",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 2751.13134765625,
+                      "segno": 1,
+                      "normalized_valore": 187.94
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 2760.353515625,
+                      "segno": 1,
+                      "normalized_valore": 188.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 2768.40771484375,
+                      "segno": 1,
+                      "normalized_valore": 189.27
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 2799.528076171875,
+                      "segno": 1,
+                      "normalized_valore": 191.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 2793.9833984375,
+                      "segno": 1,
+                      "normalized_valore": 191.25
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 2767.097900390625,
+                      "segno": 1,
+                      "normalized_valore": 189.17
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 2767.097900390625,
+                      "segno": 1,
+                      "normalized_valore": 189.17
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie mono composte",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 50.99009704589844,
+                      "segno": -1,
+                      "normalized_valore": 20.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 50.99009704589844,
+                      "segno": -1,
+                      "normalized_valore": 20.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 50.99009704589844,
+                      "segno": -1,
+                      "normalized_valore": 20.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 51.54838943481445,
+                      "segno": -1,
+                      "normalized_valore": 20.91
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 51.54838943481445,
+                      "segno": -1,
+                      "normalized_valore": 20.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 51.54838943481445,
+                      "segno": -1,
+                      "normalized_valore": 20.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 51.54838943481445,
+                      "segno": -1,
+                      "normalized_valore": 20.91
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie numerose",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 2.835421323776245,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 2.835421323776245,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 2.835421323776245,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 2.836058616638184,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 2.836058616638184,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 2.836058616638184,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 2.836058616638184,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 78.4
+            },
+            {
+              "name": "Sostenibilit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di natalita",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 8.02291488647461,
+                      "segno": 1,
+                      "normalized_valore": 24.28
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 7.960104465484619,
+                      "segno": 1,
+                      "normalized_valore": 24.28
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 7.926687717437744,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 7.501293182373047,
+                      "segno": 1,
+                      "normalized_valore": 24.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 7.52634334564209,
+                      "segno": 1,
+                      "normalized_valore": 24.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 7.573813915252686,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 7.573813915252686,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti over 65",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 25.3919620513916,
+                      "segno": -1,
+                      "normalized_valore": 22.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 25.16024017333984,
+                      "segno": -1,
+                      "normalized_valore": 22.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 24.94777679443359,
+                      "segno": -1,
+                      "normalized_valore": 22.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 24.73318481445312,
+                      "segno": -1,
+                      "normalized_valore": 22.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 24.43896293640137,
+                      "segno": -1,
+                      "normalized_valore": 23.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 24.43479537963867,
+                      "segno": -1,
+                      "normalized_valore": 23.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 24.43479537963867,
+                      "segno": -1,
+                      "normalized_valore": 23.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Saldo demografico migratorio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.8371288776397705,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.6820741891860962,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.7480474710464478,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.6296724677085876,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.607799232006073,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.6270461082458496,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.6270461082458496,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.04
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 41.77
+        },
+        {
+          "name": "Cultura",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Offerta culturalee",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Dotazione di musei per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 24.17608451843262,
+                      "segno": 1,
+                      "normalized_valore": 23.03
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 24.17608451843262,
+                      "segno": 1,
+                      "normalized_valore": 23.03
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 24.10574722290039,
+                      "segno": 1,
+                      "normalized_valore": 23.03
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 11.91889095306396,
+                      "segno": 1,
+                      "normalized_valore": 23.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 10.16386699676514,
+                      "segno": 1,
+                      "normalized_valore": 24.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 10.16386699676514,
+                      "segno": 1,
+                      "normalized_valore": 24.11
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 10.16386699676514,
+                      "segno": 1,
+                      "normalized_valore": 24.11
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di biblioteche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 23.8377799987793,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 23.8377799987793,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 23.8377799987793,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 23.8377799987793,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 18.29496002197266,
+                      "segno": 1,
+                      "normalized_valore": 23.48
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 18.29496002197266,
+                      "segno": 1,
+                      "normalized_valore": 23.48
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 18.29496002197266,
+                      "segno": 1,
+                      "normalized_valore": 23.48
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di teatri per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 33.01316070556641,
+                      "segno": 1,
+                      "normalized_valore": 22.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 33.33450317382812,
+                      "segno": 1,
+                      "normalized_valore": 22.32
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 35.37190246582031,
+                      "segno": 1,
+                      "normalized_valore": 22.16
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 34.8291015625,
+                      "segno": 1,
+                      "normalized_valore": 22.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 19.90327835083008,
+                      "segno": 1,
+                      "normalized_valore": 23.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 11.56906127929688,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 11.56906127929688,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di sale cinematografiche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 11.89825916290283,
+                      "segno": 1,
+                      "normalized_valore": 23.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 11.9968204498291,
+                      "segno": 1,
+                      "normalized_valore": 23.97
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 11.5660514831543,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 12.12518978118896,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 11.56906127929688,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 11.56906127929688,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 11.56906127929688,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    }
+                  ]
+                },
+                {
+                  "name": "Verde storico",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 37.52184295654297,
+                      "segno": 1,
+                      "normalized_valore": 22.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 7.608771800994873,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 7.67246150970459,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 7.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 24.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 7.650887966156006,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 7.650887966156006,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 7.650887966156006,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 23.55
+            },
+            {
+              "name": "Domanda culturale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 23.20785331726074,
+                      "segno": 1,
+                      "normalized_valore": 23.1
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 24.43490219116211,
+                      "segno": 1,
+                      "normalized_valore": 23.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 30.68059158325195,
+                      "segno": 1,
+                      "normalized_valore": 22.53
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 30.68059158325195,
+                      "segno": 1,
+                      "normalized_valore": 22.53
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 30.68059158325195,
+                      "segno": 1,
+                      "normalized_valore": 22.53
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 30.68059158325195,
+                      "segno": 1,
+                      "normalized_valore": 22.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 30.68059158325195,
+                      "segno": 1,
+                      "normalized_valore": 22.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Utenti delle biblioteche pubbliche e private",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.3876809477806091,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.3876809477806091,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.3876809477806091,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.3876809477806091,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.1841616481542587,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.1841616481542587,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.1841616481542587,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate a teatro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 46.2139892578125,
+                      "segno": 1,
+                      "normalized_valore": 21.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 45.24414825439453,
+                      "segno": 1,
+                      "normalized_valore": 21.4
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 46.51050567626953,
+                      "segno": 1,
+                      "normalized_valore": 21.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 47.33281707763672,
+                      "segno": 1,
+                      "normalized_valore": 21.24
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 16.02202606201172,
+                      "segno": 1,
+                      "normalized_valore": 23.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 14.27202129364014,
+                      "segno": 1,
+                      "normalized_valore": 23.79
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 14.27202129364014,
+                      "segno": 1,
+                      "normalized_valore": 23.79
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate al cinema",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 251.7135467529297,
+                      "segno": 1,
+                      "normalized_valore": 5.43
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 221.6506805419922,
+                      "segno": 1,
+                      "normalized_valore": 7.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 212.2559967041016,
+                      "segno": 1,
+                      "normalized_valore": 8.48
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 229.8494110107422,
+                      "segno": 1,
+                      "normalized_valore": 7.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 69.83844757080078,
+                      "segno": 1,
+                      "normalized_valore": 19.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 62.64267349243164,
+                      "segno": 1,
+                      "normalized_valore": 20.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 62.64267349243164,
+                      "segno": 1,
+                      "normalized_valore": 20.05
+                    }
+                  ]
+                },
+                {
+                  "name": "Visitatori dei musei",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 317.4457702636719,
+                      "segno": 1,
+                      "normalized_valore": 0.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 316.3852233886719,
+                      "segno": 1,
+                      "normalized_valore": 0.42
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 315.4647216796875,
+                      "segno": 1,
+                      "normalized_valore": 0.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 269.3826599121094,
+                      "segno": 1,
+                      "normalized_valore": 4.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 59.3289794921875,
+                      "segno": 1,
+                      "normalized_valore": 20.31
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 59.3289794921875,
+                      "segno": 1,
+                      "normalized_valore": 20.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 59.3289794921875,
+                      "segno": 1,
+                      "normalized_valore": 20.31
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che hanno letto almeno un libro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 46.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.33
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 48.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 21.16
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 48.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 46.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 47.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.23
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 46.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 46.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.31
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 19.59
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 21.35
+        },
+        {
+          "name": " Attivit\u00c3\u00a0 sociali",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Volontariato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 199.0,
+                      "segno": 1,
+                      "normalized_valore": 9.5
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione Attiva in Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 11.5,
+                      "segno": 1,
+                      "normalized_valore": 24.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 13.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 13.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 8.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 24.22
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 8.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 24.22
+                    }
+                  ]
+                },
+                {
+                  "name": "Istituzioni no profit orientate al disagio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 5910.35595703125,
+                      "segno": 1,
+                      "normalized_valore": 432.34
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 155.29
+            },
+            {
+              "name": "Attivit\u00c3\u00a0 Civiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Istituzioni no profit",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.0001921271614264697,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.0001977093634195626,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.005232480354607105,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.0002038476086454466,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.0002050040347967297,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.0002050040347967297,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.0002050040347967297,
+                      "segno": 1,
+                      "normalized_valore": 24.9
+                    }
+                  ]
+                },
+                {
+                  "name": "Riunioni in associazioni",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 10.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 12.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 13.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 11.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 24.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 7.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 24.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 7.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 24.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Societa sportive",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 1004.0,
+                      "segno": 1,
+                      "normalized_valore": 52.77
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 1013.0,
+                      "segno": 1,
+                      "normalized_valore": 53.47
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 987.0,
+                      "segno": 1,
+                      "normalized_valore": 51.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 1001.0,
+                      "segno": 1,
+                      "normalized_valore": 52.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 995.0,
+                      "segno": 1,
+                      "normalized_valore": 52.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 995.0,
+                      "segno": 1,
+                      "normalized_valore": 52.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 995.0,
+                      "segno": 1,
+                      "normalized_valore": 52.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che svolgono attivita sportiva",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 26.0,
+                      "segno": 1,
+                      "normalized_valore": 22.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 30.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 30.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 22.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 29.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.6
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 30.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 22.55
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 34.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.25
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 34.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.25
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 30.97
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 93.13
+        }
+      ],
+      "color": "Green",
+      "sign": 1,
+      "value": 52.05
+    },
+    {
+      "name": "Governance",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Amministrazione Civica",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Finanza Pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capacita di spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.8130000233650208,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.824999988079071,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.7910000085830688,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.7950000166893005,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.7850000262260437,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.7850000262260437,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.7850000262260437,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di riscossione",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.7839999794960022,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.8339999914169312,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.800000011920929,
+                      "segno": 1,
+                      "normalized_valore": 24.84
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.8339999914169312,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.8510000109672546,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 1.063071846961975,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 1.063071846961975,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia finanziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 92.7063980102539,
+                      "segno": 1,
+                      "normalized_valore": 17.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 90.29094696044922,
+                      "segno": 1,
+                      "normalized_valore": 17.91
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 91.72472381591797,
+                      "segno": 1,
+                      "normalized_valore": 17.8
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 89.56067657470703,
+                      "segno": 1,
+                      "normalized_valore": 17.97
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 78.56250762939453,
+                      "segno": 1,
+                      "normalized_valore": 18.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 80.20331573486328,
+                      "segno": 1,
+                      "normalized_valore": 18.69
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 80.20331573486328,
+                      "segno": 1,
+                      "normalized_valore": 18.69
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia impositiva",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.6690000295639038,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.6489999890327454,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.6449999809265137,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.6190000176429749,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.5740000009536743,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.5740000009536743,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.5740000009536743,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigidita della spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.3479999899864197,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.3199999928474426,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.3170000016689301,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.2930000126361847,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.2520000040531158,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.2520000040531158,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.2520000040531158,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 23.53
+            },
+            {
+              "name": "Spesa pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Spesa per Diritti, politiche sociali e famiglia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 14.50874996185303,
+                      "segno": 1,
+                      "normalized_valore": 23.78
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 14.70118808746338,
+                      "segno": 1,
+                      "normalized_valore": 23.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 16.2164134979248,
+                      "segno": 1,
+                      "normalized_valore": 23.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 15.72808647155762,
+                      "segno": 1,
+                      "normalized_valore": 23.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 19.11127090454102,
+                      "segno": 1,
+                      "normalized_valore": 23.42
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 19.26000022888184,
+                      "segno": 1,
+                      "normalized_valore": 23.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 19.26000022888184,
+                      "segno": 1,
+                      "normalized_valore": 23.41
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Ordine pubblico e sicurezza",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 5.353788375854492,
+                      "segno": 1,
+                      "normalized_valore": 24.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 5.748175144195557,
+                      "segno": 1,
+                      "normalized_valore": 24.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 6.015419960021973,
+                      "segno": 1,
+                      "normalized_valore": 24.43
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 5.716735363006592,
+                      "segno": 1,
+                      "normalized_valore": 24.46
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 5.596783638000488,
+                      "segno": 1,
+                      "normalized_valore": 24.47
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 4.619999885559082,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 4.619999885559082,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Istruzione e diritto allo studio",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 12.85904693603516,
+                      "segno": 1,
+                      "normalized_valore": 23.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 11.35924053192139,
+                      "segno": 1,
+                      "normalized_valore": 24.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 11.36317825317383,
+                      "segno": 1,
+                      "normalized_valore": 24.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 11.8360652923584,
+                      "segno": 1,
+                      "normalized_valore": 23.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 9.81461238861084,
+                      "segno": 1,
+                      "normalized_valore": 24.14
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 11.98999977111816,
+                      "segno": 1,
+                      "normalized_valore": 23.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 11.98999977111816,
+                      "segno": 1,
+                      "normalized_valore": 23.97
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 3.756868839263916,
+                      "segno": 1,
+                      "normalized_valore": 24.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 4.583235740661621,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 3.532476902008057,
+                      "segno": 1,
+                      "normalized_valore": 24.63
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 3.376135587692261,
+                      "segno": 1,
+                      "normalized_valore": 24.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 4.295979976654053,
+                      "segno": 1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 3.509999990463257,
+                      "segno": 1,
+                      "normalized_valore": 24.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 3.509999990463257,
+                      "segno": 1,
+                      "normalized_valore": 24.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per le politiche giovanili",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.1774924695491791,
+                      "segno": 1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.1814562529325485,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.229727104306221,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.2283801138401031,
+                      "segno": 1,
+                      "normalized_valore": 24.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.1182356849312782,
+                      "segno": 1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.9700000286102295,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.9700000286102295,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 24.31
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 23.92
+        },
+        {
+          "name": "Engagement",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Engagement Politico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Amministratori comunali under 40",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 34.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 31.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 28.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 32.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.4
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 30.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.52
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 29.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.59
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 29.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.59
+                    }
+                  ]
+                },
+                {
+                  "name": "Amministratori comunali donne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 40.0,
+                      "segno": 1,
+                      "normalized_valore": 21.8
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 39.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 40.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 21.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 40.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.77
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 40.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 21.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 39.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 39.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Affluenza alle urne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 67.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alle elezioni regionali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 70.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 19.41
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 20.84
+            },
+            {
+              "name": "Fiducia dei cittadini",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 20.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 21.0,
+                      "segno": 1,
+                      "normalized_valore": 23.27
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 22.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.14
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 24.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 27.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 22.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 27.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 22.74
+                    }
+                  ]
+                },
+                {
+                  "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 47.0,
+                      "segno": 1,
+                      "normalized_valore": 21.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 47.0,
+                      "segno": 1,
+                      "normalized_valore": 21.26
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 51.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 20.93
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 55.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 20.59
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 57.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 20.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 56.5,
+                      "segno": 1,
+                      "normalized_valore": 20.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 56.5,
+                      "segno": 1,
+                      "normalized_valore": 20.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di soddisfazione per la vita nel complesso",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 85.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 18.3
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 85.0,
+                      "segno": 1,
+                      "normalized_valore": 18.32
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 85.0,
+                      "segno": 1,
+                      "normalized_valore": 18.32
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 84.0,
+                      "segno": 1,
+                      "normalized_valore": 18.4
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 88.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 18.04
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 85.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.27
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 85.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 18.27
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 20.7
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 20.77
+        },
+        {
+          "name": "Giustizia e Sicurezza",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Giustizia",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lentezza giudiziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 0.1076865121722221,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.08414418250322342,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.0634625181555748,
+                      "segno": -1,
+                      "normalized_valore": 24.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 0.04390431195497513,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 0.04698951169848442,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.04698951169848442,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.04698951169848442,
+                      "segno": -1,
+                      "normalized_valore": 24.9
+                    }
+                  ]
+                },
+                {
+                  "name": "Clearance rate",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 1.123524785041809,
+                      "segno": 1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 0.9851014614105225,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 0.9899694919586182,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 1.112252116203308,
+                      "segno": 1,
+                      "normalized_valore": 24.81
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 1.002718925476074,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 0.9972884058952332,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 0.9972884058952332,
+                      "segno": 1,
+                      "normalized_valore": 24.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di magistrati effettivi",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 167.0,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 177.0,
+                      "segno": 1,
+                      "normalized_valore": 11.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 184.0,
+                      "segno": 1,
+                      "normalized_valore": 10.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 179.0,
+                      "segno": 1,
+                      "normalized_valore": 11.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 177.0,
+                      "segno": 1,
+                      "normalized_valore": 11.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 167.0,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 167.0,
+                      "segno": 1,
+                      "normalized_valore": 11.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero magistrati donna",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 18.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 89.0,
+                      "segno": 1,
+                      "normalized_valore": 18.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 98.0,
+                      "segno": 1,
+                      "normalized_valore": 17.32
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 98.0,
+                      "segno": 1,
+                      "normalized_valore": 17.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 17.47
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 17.47
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 17.47
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 19.71
+            },
+            {
+              "name": "Sicurezza",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Delitti denunciati alle forze di polizia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 10452.7998046875,
+                      "segno": -1,
+                      "normalized_valore": 783.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 9974.900390625,
+                      "segno": -1,
+                      "normalized_valore": 746.78
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 9926.7001953125,
+                      "segno": -1,
+                      "normalized_valore": 743.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 9015.900390625,
+                      "segno": -1,
+                      "normalized_valore": 672.59
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 6827.39990234375,
+                      "segno": -1,
+                      "normalized_valore": 503.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 7280.10009765625,
+                      "segno": -1,
+                      "normalized_valore": 538.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 7280.10009765625,
+                      "segno": -1,
+                      "normalized_valore": 538.31
+                    }
+                  ]
+                },
+                {
+                  "name": "Infortuni sul lavoro",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 2249.203369140625,
+                      "segno": -1,
+                      "normalized_valore": 149.1
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 2267.665283203125,
+                      "segno": -1,
+                      "normalized_valore": 150.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 2220.036865234375,
+                      "segno": -1,
+                      "normalized_valore": 146.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 2249.37353515625,
+                      "segno": -1,
+                      "normalized_valore": 149.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 2128.313720703125,
+                      "segno": -1,
+                      "normalized_valore": 139.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 2119.744140625,
+                      "segno": -1,
+                      "normalized_valore": 139.09
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 2119.744140625,
+                      "segno": -1,
+                      "normalized_valore": 139.09
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenti stradali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bologna",
+                      "valore": 5.0,
+                      "segno": -1,
+                      "normalized_valore": 24.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bologna",
+                      "valore": 5.051258563995361,
+                      "segno": -1,
+                      "normalized_valore": 24.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bologna",
+                      "valore": 5.12888240814209,
+                      "segno": -1,
+                      "normalized_valore": 24.5
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bologna",
+                      "valore": 4.984291076660156,
+                      "segno": -1,
+                      "normalized_valore": 24.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bologna",
+                      "valore": 3.348994255065918,
+                      "segno": -1,
+                      "normalized_valore": 24.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bologna",
+                      "valore": 4.896101474761963,
+                      "segno": -1,
+                      "normalized_valore": 24.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bologna",
+                      "valore": 4.896101474761963,
+                      "segno": -1,
+                      "normalized_valore": 24.52
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 281.22
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 150.11
+        }
+      ],
+      "color": "Blue",
+      "sign": 1,
+      "value": 65.68
+    }
+  ],
+  "value": 46.71
+}

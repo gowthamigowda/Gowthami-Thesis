@@ -1,0 +1,4161 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Cittadini",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Formazione e Istruzion",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Livello di Alfabetizzazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di abbandono scolastico prematuro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 16.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 25.18
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 18.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 24.98
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 17.5,
+                      "segno": -1,
+                      "normalized_valore": 25.11
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 17.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 25.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 15.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 15.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 15.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.34
+                    }
+                  ]
+                },
+                {
+                  "name": "Neet, giovani che non studiano/lavorano",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 29.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 23.64
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 29.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 23.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 29.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 23.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 25.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 26.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 24.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 25.5,
+                      "segno": -1,
+                      "normalized_valore": 24.15
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 25.5,
+                      "segno": -1,
+                      "normalized_valore": 24.15
+                    }
+                  ]
+                },
+                {
+                  "name": "Competenza alfabetica non adeguata",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 39.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 39.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 39.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.5
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 36.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 36.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 36.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 36.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 22.86
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.94
+            },
+            {
+              "name": "Livello di Istruzione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Diplomati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 53.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 20.79
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 55.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 20.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 56.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 20.45
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 58.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 20.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 60.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 19.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 58.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 20.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 58.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 20.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Laureati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 22.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 26.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 26.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 28.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 29.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 29.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alla formazione continua",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 7.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 6.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 26.13
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 26.13
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.53
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 23.73
+        },
+        {
+          "name": "Salute",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Condizioni di Salute",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Speranza di vita alla nascita",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 83.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.22
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 83.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.24
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 83.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 83.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.19
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 82.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 17.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 17.39
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita evitabile",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 16.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 25.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 15.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 25.3
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 15.30000019073486,
+                      "segno": -1,
+                      "normalized_valore": 25.38
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 15.5,
+                      "segno": -1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 15.5,
+                      "segno": -1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 15.5,
+                      "segno": -1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 15.5,
+                      "segno": -1,
+                      "normalized_valore": 25.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita per tumore",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 8.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 8.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.29
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 22.96
+            },
+            {
+              "name": "Sanit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Abitanti per farmacie e parafarmacie",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 47.34513854980469,
+                      "segno": -1,
+                      "normalized_valore": 21.54
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 48.7979621887207,
+                      "segno": -1,
+                      "normalized_valore": 21.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 50.60289001464844,
+                      "segno": -1,
+                      "normalized_valore": 21.15
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 51.91721725463867,
+                      "segno": -1,
+                      "normalized_valore": 20.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 53.75587463378906,
+                      "segno": -1,
+                      "normalized_valore": 20.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 53.69950103759766,
+                      "segno": -1,
+                      "normalized_valore": 20.78
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 53.69950103759766,
+                      "segno": -1,
+                      "normalized_valore": 20.78
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto in ospedale",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 32.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.35
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 31.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 31.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 31.5,
+                      "segno": 1,
+                      "normalized_valore": 23.44
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 31.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.47
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 31.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.47
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 31.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.47
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto ad elevata assistenza",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 3.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.78
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 26.75
+                    }
+                  ]
+                },
+                {
+                  "name": "Emigrazione ospedaliera",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 7.5,
+                      "segno": -1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 7.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 7.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 7.5,
+                      "segno": -1,
+                      "normalized_valore": 26.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 6.0,
+                      "segno": -1,
+                      "normalized_valore": 26.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 6.0,
+                      "segno": -1,
+                      "normalized_valore": 26.49
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 6.0,
+                      "segno": -1,
+                      "normalized_valore": 26.49
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.4
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 23.68
+        },
+        {
+          "name": "Qualit\u00c3\u00a0 della Vita",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Abitare",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero di case sovraffollate",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 26.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 26.87
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 2.700000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 2.700000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 2.700000047683716,
+                      "segno": -1,
+                      "normalized_valore": 26.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Sfratti eseguiti",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.03764765337109566,
+                      "segno": -1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.03764765337109566,
+                      "segno": -1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.03764765337109566,
+                      "segno": -1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.0340786948800087,
+                      "segno": -1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.007334565743803978,
+                      "segno": -1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.01466260105371475,
+                      "segno": -1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.01466260105371475,
+                      "segno": -1,
+                      "normalized_valore": 27.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Case di proprieta",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 82.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 83.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.22
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 83.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 17.17
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 84.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.1
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 83.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.19
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 85.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 85.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.02
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.75
+            },
+            {
+              "name": "Work-life Balancea",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": []
+                },
+                {
+                  "name": "Soddisfazione per il tempo libero",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 9.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.11
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 9.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 26.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 10.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 11.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 8.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 26.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 8.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 26.18
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi per l'infanzia, nido",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 13.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 14.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 15.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.14
+                    }
+                  ]
+                },
+                {
+                  "name": "Strutture per assistenza agli anziani",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.01099418289959431,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.01130793150514364,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.01100779697299004,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.01100779697299004,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.01100779697299004,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.01100779697299004,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.01100779697299004,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 19.63
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 21.69
+        }
+      ],
+      "color": "red",
+      "sign": 1,
+      "value": 23.04
+    },
+    {
+      "name": "Societ\u00c3\u00a0",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Demografia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Popolazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Saldo demografico naturale",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": -0.2779220938682556,
+                      "segno": 1,
+                      "normalized_valore": 27.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": -0.346218466758728,
+                      "segno": 1,
+                      "normalized_valore": 27.25
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": -0.3182083368301392,
+                      "segno": 1,
+                      "normalized_valore": 27.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": -0.3960270583629608,
+                      "segno": 1,
+                      "normalized_valore": 27.26
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": -0.5641204714775085,
+                      "segno": 1,
+                      "normalized_valore": 27.28
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": -0.701252281665802,
+                      "segno": 1,
+                      "normalized_valore": 27.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": -0.701252281665802,
+                      "segno": 1,
+                      "normalized_valore": 27.29
+                    }
+                  ]
+                },
+                {
+                  "name": "Residenti in eta lavorativa",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 64.33229064941406,
+                      "segno": 1,
+                      "normalized_valore": 19.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 64.14571380615234,
+                      "segno": 1,
+                      "normalized_valore": 19.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 63.89382171630859,
+                      "segno": 1,
+                      "normalized_valore": 19.56
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 63.6732292175293,
+                      "segno": 1,
+                      "normalized_valore": 19.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 63.17239761352539,
+                      "segno": 1,
+                      "normalized_valore": 19.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 63.13982009887695,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 63.13982009887695,
+                      "segno": 1,
+                      "normalized_valore": 19.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti immigrati",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 26.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.69
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 26.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 4.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.52
+            },
+            {
+              "name": "Densit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita di popolazione",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 2770.392822265625,
+                      "segno": 1,
+                      "normalized_valore": 304.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 2757.727783203125,
+                      "segno": 1,
+                      "normalized_valore": 303.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 2743.521240234375,
+                      "segno": 1,
+                      "normalized_valore": 301.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 2690.471923828125,
+                      "segno": 1,
+                      "normalized_valore": 294.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 2693.512451171875,
+                      "segno": 1,
+                      "normalized_valore": 295.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 2696.34033203125,
+                      "segno": 1,
+                      "normalized_valore": 295.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 2696.34033203125,
+                      "segno": 1,
+                      "normalized_valore": 295.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie mono composte",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 43.07690048217773,
+                      "segno": -1,
+                      "normalized_valore": 22.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 43.07690048217773,
+                      "segno": -1,
+                      "normalized_valore": 22.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 43.07690048217773,
+                      "segno": -1,
+                      "normalized_valore": 22.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 43.37604141235352,
+                      "segno": -1,
+                      "normalized_valore": 22.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 43.37604141235352,
+                      "segno": -1,
+                      "normalized_valore": 22.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 43.37604141235352,
+                      "segno": -1,
+                      "normalized_valore": 22.01
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 43.37604141235352,
+                      "segno": -1,
+                      "normalized_valore": 22.01
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie numerose",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 4.621481895446777,
+                      "segno": 1,
+                      "normalized_valore": 26.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 4.621481895446777,
+                      "segno": 1,
+                      "normalized_valore": 26.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 4.621481895446777,
+                      "segno": 1,
+                      "normalized_valore": 26.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 4.508048057556152,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 4.508048057556152,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4.508048057556152,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4.508048057556152,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 115.82
+            },
+            {
+              "name": "Sostenibilit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di natalita",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 6.9449782371521,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 6.930546283721924,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 6.795688629150391,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 6.420007228851318,
+                      "segno": 1,
+                      "normalized_valore": 26.44
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 6.181925773620605,
+                      "segno": 1,
+                      "normalized_valore": 26.47
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 6.308112144470215,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 6.308112144470215,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti over 65",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 23.31106376647949,
+                      "segno": -1,
+                      "normalized_valore": 24.42
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 23.64226722717285,
+                      "segno": -1,
+                      "normalized_valore": 24.38
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 24.02621650695801,
+                      "segno": -1,
+                      "normalized_valore": 24.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 24.45953750610352,
+                      "segno": -1,
+                      "normalized_valore": 24.28
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 24.97249412536621,
+                      "segno": -1,
+                      "normalized_valore": 24.22
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 25.2081356048584,
+                      "segno": -1,
+                      "normalized_valore": 24.19
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 25.2081356048584,
+                      "segno": -1,
+                      "normalized_valore": 24.19
+                    }
+                  ]
+                },
+                {
+                  "name": "Saldo demografico migratorio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": -0.3818354606628418,
+                      "segno": 1,
+                      "normalized_valore": 27.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.09049242734909058,
+                      "segno": 1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": -0.4603931605815887,
+                      "segno": 1,
+                      "normalized_valore": 27.26
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": -0.01519528310745955,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.08095002174377441,
+                      "segno": 1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.3743171095848083,
+                      "segno": 1,
+                      "normalized_valore": 27.16
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.3743171095848083,
+                      "segno": 1,
+                      "normalized_valore": 27.16
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.97
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 55.44
+        },
+        {
+          "name": "Cultura",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Offerta culturalee",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Dotazione di musei per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 7.103501319885254,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 7.103501319885254,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 7.140285015106201,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 3.16568398475647,
+                      "segno": 1,
+                      "normalized_valore": 26.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 2.845899343490601,
+                      "segno": 1,
+                      "normalized_valore": 26.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 2.845899343490601,
+                      "segno": 1,
+                      "normalized_valore": 26.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 2.845899343490601,
+                      "segno": 1,
+                      "normalized_valore": 26.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di biblioteche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 24.69234085083008,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 24.69234085083008,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 24.69234085083008,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 24.69234085083008,
+                      "segno": 1,
+                      "normalized_valore": 24.25
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 6.324220657348633,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 6.324220657348633,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 6.324220657348633,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di teatri per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 22.68275833129883,
+                      "segno": 1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 22.10582733154297,
+                      "segno": 1,
+                      "normalized_valore": 24.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 21.96453666687012,
+                      "segno": 1,
+                      "normalized_valore": 24.58
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 22.24791526794434,
+                      "segno": 1,
+                      "normalized_valore": 24.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 12.27323341369629,
+                      "segno": 1,
+                      "normalized_valore": 25.74
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 8.06381893157959,
+                      "segno": 1,
+                      "normalized_valore": 26.24
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 8.06381893157959,
+                      "segno": 1,
+                      "normalized_valore": 26.24
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di sale cinematografiche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 6.941171646118164,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 7.551370620727539,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 7.772838592529297,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 7.592542171478271,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 8.06381893157959,
+                      "segno": 1,
+                      "normalized_valore": 26.24
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 8.06381893157959,
+                      "segno": 1,
+                      "normalized_valore": 26.24
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 8.06381893157959,
+                      "segno": 1,
+                      "normalized_valore": 26.24
+                    }
+                  ]
+                },
+                {
+                  "name": "Verde storico",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 4.642919063568115,
+                      "segno": 1,
+                      "normalized_valore": 26.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 4.588073253631592,
+                      "segno": 1,
+                      "normalized_valore": 26.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 4.497707366943359,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 4.395790576934814,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4.395790576934814,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4.395790576934814,
+                      "segno": 1,
+                      "normalized_valore": 26.68
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 26.0
+            },
+            {
+              "name": "Domanda culturale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 4.476222515106201,
+                      "segno": 1,
+                      "normalized_valore": 26.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 10.60784435272217,
+                      "segno": 1,
+                      "normalized_valore": 25.94
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 8.62946891784668,
+                      "segno": 1,
+                      "normalized_valore": 26.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 8.254236221313477,
+                      "segno": 1,
+                      "normalized_valore": 26.22
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 10.30582714080811,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 10.30582714080811,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 10.30582714080811,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    }
+                  ]
+                },
+                {
+                  "name": "Utenti delle biblioteche pubbliche e private",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.1219896301627159,
+                      "segno": 1,
+                      "normalized_valore": 27.19
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.1219896301627159,
+                      "segno": 1,
+                      "normalized_valore": 27.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.1219896301627159,
+                      "segno": 1,
+                      "normalized_valore": 27.19
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.1219896301627159,
+                      "segno": 1,
+                      "normalized_valore": 27.19
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.04433595016598701,
+                      "segno": 1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.04433595016598701,
+                      "segno": 1,
+                      "normalized_valore": 27.2
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.04433595016598701,
+                      "segno": 1,
+                      "normalized_valore": 27.2
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate a teatro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 24.58796119689941,
+                      "segno": 1,
+                      "normalized_valore": 24.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 23.40411567687988,
+                      "segno": 1,
+                      "normalized_valore": 24.41
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 24.3615550994873,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 24.52741813659668,
+                      "segno": 1,
+                      "normalized_valore": 24.27
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 13.31711769104004,
+                      "segno": 1,
+                      "normalized_valore": 25.61
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 7.938581943511963,
+                      "segno": 1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 7.938581943511963,
+                      "segno": 1,
+                      "normalized_valore": 26.26
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate al cinema",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 151.7003936767578,
+                      "segno": 1,
+                      "normalized_valore": 9.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 129.2606201171875,
+                      "segno": 1,
+                      "normalized_valore": 11.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 120.9840545654297,
+                      "segno": 1,
+                      "normalized_valore": 12.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 148.6008605957031,
+                      "segno": 1,
+                      "normalized_valore": 9.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 53.80025100708008,
+                      "segno": 1,
+                      "normalized_valore": 20.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 40.49044418334961,
+                      "segno": 1,
+                      "normalized_valore": 22.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 40.49044418334961,
+                      "segno": 1,
+                      "normalized_valore": 22.36
+                    }
+                  ]
+                },
+                {
+                  "name": "Visitatori dei musei",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 47.54681396484375,
+                      "segno": 1,
+                      "normalized_valore": 21.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 47.76517868041992,
+                      "segno": 1,
+                      "normalized_valore": 21.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 48.01251602172852,
+                      "segno": 1,
+                      "normalized_valore": 21.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 49.03517913818359,
+                      "segno": 1,
+                      "normalized_valore": 21.34
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 10.23765182495117,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 10.23765182495117,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 10.23765182495117,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che hanno letto almeno un libro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 27.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 26.5,
+                      "segno": 1,
+                      "normalized_valore": 24.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 27.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 30.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.54
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 28.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 28.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.75
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 23.68
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 24.78
+        },
+        {
+          "name": " Attivit\u00c3\u00a0 sociali",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Volontariato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 240.0,
+                      "segno": 1,
+                      "normalized_valore": 1.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione Attiva in Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 6.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 26.38
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 8.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 26.49
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 5.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 5.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.6
+                    }
+                  ]
+                },
+                {
+                  "name": "Istituzioni no profit orientate al disagio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 3682.262451171875,
+                      "segno": 1,
+                      "normalized_valore": 413.77
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 147.25
+            },
+            {
+              "name": "Attivit\u00c3\u00a0 Civiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Istituzioni no profit",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.0003364755248185247,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.0003351690538693219,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.003937841858714819,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.0003311153559479862,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.0003327590820845217,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.0003327590820845217,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.0003327590820845217,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Riunioni in associazioni",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 8.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 26.18
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 8.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 8.0,
+                      "segno": 1,
+                      "normalized_valore": 26.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 9.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 26.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 8.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.71
+                    }
+                  ]
+                },
+                {
+                  "name": "Societa sportive",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 1010.0,
+                      "segno": 1,
+                      "normalized_valore": 93.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 1120.0,
+                      "segno": 1,
+                      "normalized_valore": 106.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 1080.0,
+                      "segno": 1,
+                      "normalized_valore": 102.13
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 1048.0,
+                      "segno": 1,
+                      "normalized_valore": 98.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 1056.0,
+                      "segno": 1,
+                      "normalized_valore": 99.25
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 1056.0,
+                      "segno": 1,
+                      "normalized_valore": 99.25
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 1056.0,
+                      "segno": 1,
+                      "normalized_valore": 99.25
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che svolgono attivita sportiva",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 19.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 23.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.42
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 24.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 25.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 23.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 24.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 24.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.29
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 44.49
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 95.85
+        }
+      ],
+      "color": "Green",
+      "sign": 1,
+      "value": 58.68
+    },
+    {
+      "name": "Governance",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Amministrazione Civica",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Finanza Pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capacita di spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.7929999828338623,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.7730000019073486,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.8100000023841858,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.8389999866485596,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.8040000200271606,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.8040000200271606,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.8040000200271606,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di riscossione",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.7250000238418579,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.7300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.7839999794960022,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.7599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.7300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 1.112327814102173,
+                      "segno": 1,
+                      "normalized_valore": 27.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 1.112327814102173,
+                      "segno": 1,
+                      "normalized_valore": 27.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia finanziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 79.74554443359375,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 85.94633483886719,
+                      "segno": 1,
+                      "normalized_valore": 16.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 85.18687438964844,
+                      "segno": 1,
+                      "normalized_valore": 17.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 81.74761962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 70.08516693115234,
+                      "segno": 1,
+                      "normalized_valore": 18.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 76.07530212402344,
+                      "segno": 1,
+                      "normalized_valore": 18.1
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 76.07530212402344,
+                      "segno": 1,
+                      "normalized_valore": 18.1
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia impositiva",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.7149999737739563,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.7229999899864197,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.6959999799728394,
+                      "segno": 1,
+                      "normalized_valore": 27.13
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.6729999780654907,
+                      "segno": 1,
+                      "normalized_valore": 27.13
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.6119999885559082,
+                      "segno": 1,
+                      "normalized_valore": 27.14
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.6119999885559082,
+                      "segno": 1,
+                      "normalized_valore": 27.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.6119999885559082,
+                      "segno": 1,
+                      "normalized_valore": 27.14
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigidita della spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.2360000014305115,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.2460000067949295,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.2430000007152557,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.2329999953508377,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.2000000029802322,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.2000000029802322,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.2000000029802322,
+                      "segno": 1,
+                      "normalized_valore": 27.18
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 25.25
+            },
+            {
+              "name": "Spesa pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Spesa per Diritti, politiche sociali e famiglia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 10.8126859664917,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 11.75964832305908,
+                      "segno": 1,
+                      "normalized_valore": 25.8
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 12.02469158172607,
+                      "segno": 1,
+                      "normalized_valore": 25.77
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 12.95031642913818,
+                      "segno": 1,
+                      "normalized_valore": 25.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 13.79255771636963,
+                      "segno": 1,
+                      "normalized_valore": 25.56
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 13.09000015258789,
+                      "segno": 1,
+                      "normalized_valore": 25.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 13.09000015258789,
+                      "segno": 1,
+                      "normalized_valore": 25.64
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Ordine pubblico e sicurezza",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 7.548237800598145,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 7.671667575836182,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 7.603866577148438,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 7.335917949676514,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 7.657411098480225,
+                      "segno": 1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 7.21999979019165,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 7.21999979019165,
+                      "segno": 1,
+                      "normalized_valore": 26.34
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Istruzione e diritto allo studio",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 7.93441915512085,
+                      "segno": 1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 6.249887943267822,
+                      "segno": 1,
+                      "normalized_valore": 26.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 6.289839267730713,
+                      "segno": 1,
+                      "normalized_valore": 26.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 6.57560396194458,
+                      "segno": 1,
+                      "normalized_valore": 26.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 5.525435924530029,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 6.119999885559082,
+                      "segno": 1,
+                      "normalized_valore": 26.48
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 6.119999885559082,
+                      "segno": 1,
+                      "normalized_valore": 26.48
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 1.525847554206848,
+                      "segno": 1,
+                      "normalized_valore": 27.03
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 1.531490921974182,
+                      "segno": 1,
+                      "normalized_valore": 27.03
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.9149678349494934,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 3.136773109436035,
+                      "segno": 1,
+                      "normalized_valore": 26.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 1.59531581401825,
+                      "segno": 1,
+                      "normalized_valore": 27.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.8999999761581421,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.8999999761581421,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per le politiche giovanili",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.0116643039509654,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.02502773888409138,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.007132037542760372,
+                      "segno": 1,
+                      "normalized_valore": 27.21
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 27.12
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 26.54
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 25.89
+        },
+        {
+          "name": "Engagement",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Engagement Politico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Amministratori comunali under 40",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 26.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 23.99
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 29.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 26.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 25.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 24.0,
+                      "segno": 1,
+                      "normalized_valore": 24.33
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 24.0,
+                      "segno": 1,
+                      "normalized_valore": 24.33
+                    }
+                  ]
+                },
+                {
+                  "name": "Amministratori comunali donne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 25.5,
+                      "segno": 1,
+                      "normalized_valore": 24.15
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 31.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 23.48
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 31.5,
+                      "segno": 1,
+                      "normalized_valore": 23.44
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 32.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 33.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.24
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 33.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.21
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 33.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.21
+                    }
+                  ]
+                },
+                {
+                  "name": "Affluenza alle urne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 20.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alle elezioni regionali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": []
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 17.11
+            },
+            {
+              "name": "Fiducia dei cittadini",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 15.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.4
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 14.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 13.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 25.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 20.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.74
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 21.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.62
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 20.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.8
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 20.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.8
+                    }
+                  ]
+                },
+                {
+                  "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 47.0,
+                      "segno": 1,
+                      "normalized_valore": 21.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 33.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.17
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 36.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 40.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 39.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.43
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 41.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 22.23
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 41.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 22.23
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di soddisfazione per la vita nel complesso",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 81.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 17.41
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 80.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 81.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.4
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 84.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 17.11
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 85.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 83.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.26
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 83.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.26
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 21.59
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 19.35
+        },
+        {
+          "name": "Giustizia e Sicurezza",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Giustizia",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lentezza giudiziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.393199622631073,
+                      "segno": -1,
+                      "normalized_valore": 27.16
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.3751982152462006,
+                      "segno": -1,
+                      "normalized_valore": 27.16
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.3506308794021606,
+                      "segno": -1,
+                      "normalized_valore": 27.17
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.3332160413265228,
+                      "segno": -1,
+                      "normalized_valore": 27.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.331484854221344,
+                      "segno": -1,
+                      "normalized_valore": 27.17
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 0.331484854221344,
+                      "segno": -1,
+                      "normalized_valore": 27.17
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 0.331484854221344,
+                      "segno": -1,
+                      "normalized_valore": 27.17
+                    }
+                  ]
+                },
+                {
+                  "name": "Clearance rate",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 0.858289361000061,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 0.8170681595802307,
+                      "segno": 1,
+                      "normalized_valore": 27.11
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 0.8947803974151611,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 0.8939535021781921,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 0.9397172927856445,
+                      "segno": 1,
+                      "normalized_valore": 27.1
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 1.064149856567383,
+                      "segno": 1,
+                      "normalized_valore": 27.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 1.064149856567383,
+                      "segno": 1,
+                      "normalized_valore": 27.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di magistrati effettivi",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 197.0,
+                      "segno": 1,
+                      "normalized_valore": 3.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 187.0,
+                      "segno": 1,
+                      "normalized_valore": 4.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 192.0,
+                      "segno": 1,
+                      "normalized_valore": 4.22
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 202.0,
+                      "segno": 1,
+                      "normalized_valore": 3.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 197.0,
+                      "segno": 1,
+                      "normalized_valore": 3.62
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 197.0,
+                      "segno": 1,
+                      "normalized_valore": 3.62
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 197.0,
+                      "segno": 1,
+                      "normalized_valore": 3.62
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero magistrati donna",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 15.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 91.0,
+                      "segno": 1,
+                      "normalized_valore": 16.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 98.0,
+                      "segno": 1,
+                      "normalized_valore": 15.47
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 103.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 102.0,
+                      "segno": 1,
+                      "normalized_valore": 14.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 102.0,
+                      "segno": 1,
+                      "normalized_valore": 14.99
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 102.0,
+                      "segno": 1,
+                      "normalized_valore": 14.99
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 18.35
+            },
+            {
+              "name": "Sicurezza",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Delitti denunciati alle forze di polizia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 6273.7998046875,
+                      "segno": -1,
+                      "normalized_valore": 724.12
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 6005.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 692.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 5782.39990234375,
+                      "segno": -1,
+                      "normalized_valore": 665.27
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 5131.39990234375,
+                      "segno": -1,
+                      "normalized_valore": 587.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 4304.7001953125,
+                      "segno": -1,
+                      "normalized_valore": 488.31
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4617.7001953125,
+                      "segno": -1,
+                      "normalized_valore": 525.79
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4617.7001953125,
+                      "segno": -1,
+                      "normalized_valore": 525.79
+                    }
+                  ]
+                },
+                {
+                  "name": "Infortuni sul lavoro",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 1264.484130859375,
+                      "segno": -1,
+                      "normalized_valore": 124.22
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 1279.865600585938,
+                      "segno": -1,
+                      "normalized_valore": 126.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 1207.0185546875,
+                      "segno": -1,
+                      "normalized_valore": 117.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 1296.031005859375,
+                      "segno": -1,
+                      "normalized_valore": 128.0
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 1035.907348632812,
+                      "segno": -1,
+                      "normalized_valore": 96.85
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 1009.866516113281,
+                      "segno": -1,
+                      "normalized_valore": 93.73
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 1009.866516113281,
+                      "segno": -1,
+                      "normalized_valore": 93.73
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenti stradali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Bari",
+                      "valore": 4.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Bari",
+                      "valore": 4.855088710784912,
+                      "segno": -1,
+                      "normalized_valore": 26.63
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Bari",
+                      "valore": 4.995094776153564,
+                      "segno": -1,
+                      "normalized_valore": 26.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Bari",
+                      "valore": 4.901452541351318,
+                      "segno": -1,
+                      "normalized_valore": 26.62
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Bari",
+                      "valore": 3.456186532974243,
+                      "segno": -1,
+                      "normalized_valore": 26.79
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Bari",
+                      "valore": 4.572547435760498,
+                      "segno": -1,
+                      "normalized_valore": 26.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Bari",
+                      "valore": 4.572547435760498,
+                      "segno": -1,
+                      "normalized_valore": 26.66
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 252.15
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 135.02
+        }
+      ],
+      "color": "Blue",
+      "sign": 1,
+      "value": 60.51
+    }
+  ],
+  "value": 47.33
+}

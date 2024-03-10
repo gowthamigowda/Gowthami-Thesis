@@ -1,0 +1,4829 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 27.89400100708008,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 27.95042610168457,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 28.20084762573242,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 28.43464469909668,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 28.62225532531738,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 28.81549644470215,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 28.81549644470215,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 14.81943130493164,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 5.642613887786865,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 25.04219627380371,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 23.37968826293945,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 18.7610034942627,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 19.05711936950684,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 19.05711936950684,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 22.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 22.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 22.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 22.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 22.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 39.41899871826172,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 39.41899871826172,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.82
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 5176120.0,
+                      "segno": 1,
+                      "normalized_valore": 477.28
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 5189620.0,
+                      "segno": 1,
+                      "normalized_valore": 478.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 5191620.0,
+                      "segno": 1,
+                      "normalized_valore": 478.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 5422276.0,
+                      "segno": 1,
+                      "normalized_valore": 500.74
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 5431326.0,
+                      "segno": 1,
+                      "normalized_valore": 501.6
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 5431326.0,
+                      "segno": 1,
+                      "normalized_valore": 501.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 5431326.0,
+                      "segno": 1,
+                      "normalized_valore": 501.6
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 2.831637382507324,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 2.839022636413574,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 2.840116739273071,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 2.966299057006836,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 2.97124981880188,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 2.97124981880188,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 2.97124981880188,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 17.33526611328125,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 17.42135047912598,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 17.44856452941895,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 18.25626754760742,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 18.20692443847656,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 18.20692443847656,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 18.20692443847656,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 174.53
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 3.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.2000000029802322,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 2.907000064849854,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 2.907000064849854,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 2.907000064849854,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.09000000357627869,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 0.09000000357627869,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 0.09000000357627869,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 36.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 54.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.83
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 68.77
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 869.5999755859375,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 831.9000244140625,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 865.4000244140625,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 843.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 726.2999877929688,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 726.2999877929688,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 726.2999877929688,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 65.16996002197266,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 62.0797004699707,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 58.84379577636719,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 55.4861946105957,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 51.78965759277344,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 51.78965759277344,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 51.78965759277344,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 19.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 18.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 19.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 19.5,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 17.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.8
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 1334.900024414062,
+                      "segno": -1,
+                      "normalized_valore": 15.7
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 1439.115966796875,
+                      "segno": -1,
+                      "normalized_valore": 15.69
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 1514.9052734375,
+                      "segno": -1,
+                      "normalized_valore": 15.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 1545.717407226562,
+                      "segno": -1,
+                      "normalized_valore": 15.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1440.463012695312,
+                      "segno": -1,
+                      "normalized_valore": 15.69
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 2232.853759765625,
+                      "segno": -1,
+                      "normalized_valore": 15.61
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 2232.853759765625,
+                      "segno": -1,
+                      "normalized_valore": 15.61
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 27.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 28.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 30.25407218933105,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 31.62738990783691,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 33.24603271484375,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 33.24603271484375,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 33.24603271484375,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": -4.354653835296631,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": -3.920616149902344,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": -6.692348003387451,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 15.66311264038086,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 15.66311264038086,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 1040.800048828125,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 1069.5,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 1054.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 1077.400024414062,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1060.699951171875,
+                      "segno": -1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 1136.5,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 1136.5,
+                      "segno": -1,
+                      "normalized_valore": 15.72
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.76
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 15.78
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 10.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 8.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 13.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": []
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 34.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 50.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 50.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 37.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 12.66
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 161.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 161.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 144.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 144.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 143.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 143.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 143.0,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 57.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 57.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 57.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 54.54999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 51.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 51.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 51.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.82
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 695.0000610351562,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 710.9769897460938,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 732.8605346679688,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 760.04150390625,
+                      "segno": -1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 682.5225830078125,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 682.5225830078125,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 682.5225830078125,
+                      "segno": -1,
+                      "normalized_valore": 15.76
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 10.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 8.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 7.71999979019165,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 14.52000045776367,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 9.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 9.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 9.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 36.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 36.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 34.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 218.0800018310547,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 222.6699981689453,
+                      "segno": -1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 248.1100006103516,
+                      "segno": -1,
+                      "normalized_valore": 15.8
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 271.1799926757812,
+                      "segno": -1,
+                      "normalized_valore": 15.8
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 271.1799926757812,
+                      "segno": -1,
+                      "normalized_valore": 15.8
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 271.1799926757812,
+                      "segno": -1,
+                      "normalized_valore": 15.8
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 271.1799926757812,
+                      "segno": -1,
+                      "normalized_valore": 15.8
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 15.8
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 14.76
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 33.11
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 689.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 789.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 663.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 843.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 883.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 883.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 883.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 10524.0,
+                      "segno": 1,
+                      "normalized_valore": 14.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 11757.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 10219.0,
+                      "segno": 1,
+                      "normalized_valore": 14.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 9915.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 8684.0,
+                      "segno": 1,
+                      "normalized_valore": 15.0
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 10975.0,
+                      "segno": 1,
+                      "normalized_valore": 14.78
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 10975.0,
+                      "segno": 1,
+                      "normalized_valore": 14.78
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 23.4841194152832,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 6.430241584777832,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 8.202123641967773,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 2.944162368774414,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": -11.57133483886719,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 33.00476837158203,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 33.00476837158203,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.47
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 185.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 137.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 143.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 136.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 136.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 126.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 126.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 373691.0,
+                      "segno": 1,
+                      "normalized_valore": 19.77
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 300240.0,
+                      "segno": 1,
+                      "normalized_valore": 12.78
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 264476.0,
+                      "segno": 1,
+                      "normalized_valore": 9.37
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 235382.0,
+                      "segno": 1,
+                      "normalized_valore": 6.6
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 235382.0,
+                      "segno": 1,
+                      "normalized_valore": 6.6
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 191692.0,
+                      "segno": 1,
+                      "normalized_valore": 2.44
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 191692.0,
+                      "segno": 1,
+                      "normalized_valore": 2.44
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 9.873366355895996,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 9.919746398925781,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 9.948588371276855,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 10.43739414215088,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 8.380516052246094,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 8.380516052246094,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 8.380516052246094,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 13.94
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 14.56
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 0
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 2.791810035705566,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 6.625182151794434,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 12.85432720184326,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 15.88420486450195,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 19.51970672607422,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 19.51970672607422,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 19.51970672607422,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 40.54602813720703,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 69.8958969116211,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 376.0,
+                      "segno": 1,
+                      "normalized_valore": 15.79
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 538.0,
+                      "segno": 1,
+                      "normalized_valore": 15.78
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.81
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 7.9
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 2.89775824546814,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 6.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 6.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 4.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 16.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 20.5,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 17.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 17.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 17.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 17.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 17.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 3.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 3.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 3.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 48.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 5.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 3.5,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 3.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 1.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 1.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 88.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 96.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 132.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 133.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 133.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 133.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 133.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.82
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 47.94004440307617,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 53.99221801757812,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 62.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 65.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 32.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 32.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 32.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 14.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 11.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 6.051427364349365,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 6.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.83
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 0.5400000214576721,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 686.588623046875,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 700.4876708984375,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 715.2617797851562,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 775.4445190429688,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 772.0999755859375,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 775.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 775.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 15.79
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 127.0,
+                      "segno": 1,
+                      "normalized_valore": 15.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 5453.0,
+                      "segno": 1,
+                      "normalized_valore": 15.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 6090.0,
+                      "segno": 1,
+                      "normalized_valore": 15.25
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 6127.0,
+                      "segno": 1,
+                      "normalized_valore": 15.24
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 6061.0,
+                      "segno": 1,
+                      "normalized_valore": 15.25
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 6627.0,
+                      "segno": 1,
+                      "normalized_valore": 15.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 6656.0,
+                      "segno": 1,
+                      "normalized_valore": 15.19
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 6656.0,
+                      "segno": 1,
+                      "normalized_valore": 15.19
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 7901781.0,
+                      "segno": 1,
+                      "normalized_valore": 736.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 9109745.0,
+                      "segno": 1,
+                      "normalized_valore": 852.03
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 9904392.0,
+                      "segno": 1,
+                      "normalized_valore": 927.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 10200929.0,
+                      "segno": 1,
+                      "normalized_valore": 955.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 3647860.0,
+                      "segno": 1,
+                      "normalized_valore": 331.69
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 6113462.0,
+                      "segno": 1,
+                      "normalized_valore": 566.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 6113462.0,
+                      "segno": 1,
+                      "normalized_valore": 566.58
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 58664.0,
+                      "segno": 1,
+                      "normalized_valore": 10.24
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 65737.0,
+                      "segno": 1,
+                      "normalized_valore": 9.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 71856.0,
+                      "segno": 1,
+                      "normalized_valore": 8.98
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 73164.0,
+                      "segno": 1,
+                      "normalized_valore": 8.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 32200.0,
+                      "segno": 1,
+                      "normalized_valore": 12.76
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 47604.0,
+                      "segno": 1,
+                      "normalized_valore": 11.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 47604.0,
+                      "segno": 1,
+                      "normalized_valore": 11.29
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 231.41
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 85.27
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 39.44
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 18949.759765625,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 18543.884765625,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 19458.265625,
+                      "segno": 1,
+                      "normalized_valore": 13.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 19396.560546875,
+                      "segno": 1,
+                      "normalized_valore": 13.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 19301.861328125,
+                      "segno": 1,
+                      "normalized_valore": 13.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 19301.861328125,
+                      "segno": 1,
+                      "normalized_valore": 13.99
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 19301.861328125,
+                      "segno": 1,
+                      "normalized_valore": 13.99
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.6652864217758179,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": -2.141849279403687,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 4.930899620056152,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": -0.3171136677265167,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": -0.004882287234067917,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": -0.004882287234067917,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": -0.004882287234067917,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 16535.69921875,
+                      "segno": 1,
+                      "normalized_valore": 14.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 16497.69921875,
+                      "segno": 1,
+                      "normalized_valore": 14.25
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 16550.900390625,
+                      "segno": 1,
+                      "normalized_valore": 14.25
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 16569.0,
+                      "segno": 1,
+                      "normalized_valore": 14.25
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 15298.2001953125,
+                      "segno": 1,
+                      "normalized_valore": 14.37
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 15298.2001953125,
+                      "segno": 1,
+                      "normalized_valore": 14.37
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 15298.2001953125,
+                      "segno": 1,
+                      "normalized_valore": 14.37
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.71
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 16.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 16.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 15.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 13.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 2.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 2.200000047683716,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 1.5,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 1.100000023841858,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 1.100000023841858,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 14.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 10.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 10.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 11.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 11.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.83
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 41.01020431518555,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 40.19458770751953,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 40.19763565063477,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 42.52355575561523,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 38.54478073120117,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 52.77755355834961,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 52.77755355834961,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 28.25811386108398,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 29.90428161621094,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 28.97762107849121,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 23.92051315307617,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 24.23483657836914,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 25.92048454284668,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 25.92048454284668,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 39.28176879882812,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 42.79355239868164,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 33.79092788696289,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 27.66365814208984,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 30.11625862121582,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 27.02580070495605,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 27.02580070495605,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 20.29784965515137,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 20.11622428894043,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 18.87825775146484,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 16.84442138671875,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 16.50997734069824,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 16.1983528137207,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 16.1983528137207,
+                      "segno": -1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.82
+            }
+          ],
+          "sign": 1,
+          "value": 15.45
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 1.072210192680359,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 1.057742238044739,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.9681898951530457,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.9827321171760559,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.7613398432731628,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 0.7579310536384583,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 0.7579310536384583,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 26.60992050170898,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 27.36473083496094,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 27.97995567321777,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 28.68686676025391,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 28.57488059997559,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 29.37756729125977,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 29.37756729125977,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 1.998589396476746,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 2.007585048675537,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 1.963843464851379,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 1.952524423599243,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1.533192276954651,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 1.606316208839417,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 1.606316208839417,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.83
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 4.44496488571167,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 4.999729156494141,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 4.679658889770508,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 4.828250408172607,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1.95334792137146,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 3.272799730300903,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 3.272799730300903,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 0.003273243317380548,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 0.003392476122826338,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.003512173425406218,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.003317934228107333,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.4818979501724243,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 0.4818979501724243,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 0.4818979501724243,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 39131.00390625,
+                      "segno": 1,
+                      "normalized_valore": 12.1
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 45079.26953125,
+                      "segno": 1,
+                      "normalized_valore": 11.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 39687.2265625,
+                      "segno": 1,
+                      "normalized_valore": 12.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 42333.55859375,
+                      "segno": 1,
+                      "normalized_valore": 11.79
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 44655.0,
+                      "segno": 1,
+                      "normalized_valore": 11.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 46518.19921875,
+                      "segno": 1,
+                      "normalized_valore": 11.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 46518.19921875,
+                      "segno": 1,
+                      "normalized_valore": 11.39
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.45
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 20.18244743347168,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 18.32335662841797,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 18.23165702819824,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 17.54055976867676,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 17.55541229248047,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 16.75883102416992,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 16.75883102416992,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 3.805987358093262,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 3.805987358093262,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 3.321656703948975,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 6.177502155303955,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 14.59406185150146,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 5.56680965423584,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 5.56680965423584,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 814.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 899.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 865.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 959.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 987.0,
+                      "segno": 1,
+                      "normalized_valore": 15.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 676.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 676.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.8
+            }
+          ],
+          "sign": 1,
+          "value": 15.36
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 24335.0,
+                      "segno": 1,
+                      "normalized_valore": 13.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 24807.0,
+                      "segno": 1,
+                      "normalized_valore": 13.46
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 24685.0,
+                      "segno": 1,
+                      "normalized_valore": 13.47
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 24819.0,
+                      "segno": 1,
+                      "normalized_valore": 13.46
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 25383.0,
+                      "segno": 1,
+                      "normalized_valore": 13.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 25953.0,
+                      "segno": 1,
+                      "normalized_valore": 13.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 25953.0,
+                      "segno": 1,
+                      "normalized_valore": 13.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 12.70186996459961,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 12.01273822784424,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 11.55762577056885,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 11.31794166564941,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 10.94433307647705,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 10.53442764282227,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 10.53442764282227,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 23.58331680297852,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 23.71105003356934,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 23.67024421691895,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 23.86478042602539,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 23.61422920227051,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 23.68512344360352,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 23.68512344360352,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 113.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 105.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 92.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 89.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 85.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 5.846648216247559,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 3.539132833480835,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 4.094943523406982,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 4.094943523406982,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 4.094943523406982,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 4.094943523406982,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 4.094943523406982,
+                      "segno": -1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.35
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 31.69000053405762,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 26.82999992370605,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 30.26000022888184,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 28.53000068664551,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 31.69398880004883,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 845.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 848.0,
+                      "segno": 1,
+                      "normalized_valore": 15.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 727.0,
+                      "segno": 1,
+                      "normalized_valore": 15.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 906.0,
+                      "segno": 1,
+                      "normalized_valore": 15.74
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 530.0,
+                      "segno": 1,
+                      "normalized_valore": 15.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 500.0,
+                      "segno": 1,
+                      "normalized_valore": 15.78
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 500.0,
+                      "segno": 1,
+                      "normalized_valore": 15.78
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 1.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 2.0,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 0.699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": -0.108575128018856,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 1.898580431938171,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 0.1546086966991425,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 0.8328693509101868,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 1.056810617446899,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 1.056810617446899,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 1.056810617446899,
+                      "segno": 1,
+                      "normalized_valore": 15.83
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.81
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 19.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 28.5,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 22.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 29.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 29.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 29.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 29.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 55.86687469482422,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 56.84554290771484,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 54.62590408325195,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 68.41885375976562,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 68.41885375976562,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 68.41885375976562,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 68.41885375976562,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Catania",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 15.82
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.82
+            }
+          ],
+          "sign": 1,
+          "value": 15.66
+        }
+      ],
+      "sign": 1,
+      "value": 15.49
+    }
+  ],
+  "value": 27.96
+}

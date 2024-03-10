@@ -1,0 +1,5062 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 17.01857566833496,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 17.12687110900879,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 17.17680740356445,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 17.25588607788086,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 17.24931716918945,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 17.27758407592773,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 17.27758407592773,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 3.21036171913147,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 10.82955646514893,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 4.99362850189209,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 7.907982349395752,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -0.6569930911064148,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 5.727652549743652,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 5.727652549743652,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 4.479000091552734,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 4.479000091552734,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 11003892.0,
+                      "segno": 1,
+                      "normalized_valore": 685.72
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 11003892.0,
+                      "segno": 1,
+                      "normalized_valore": 685.72
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 11003892.0,
+                      "segno": 1,
+                      "normalized_valore": 685.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 11003892.0,
+                      "segno": 1,
+                      "normalized_valore": 685.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 11067154.0,
+                      "segno": 1,
+                      "normalized_valore": 689.76
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 11067154.0,
+                      "segno": 1,
+                      "normalized_valore": 689.76
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 11067154.0,
+                      "segno": 1,
+                      "normalized_valore": 689.76
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 2.645848751068115,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 2.645848751068115,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.645848751068115,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.645848751068115,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 2.661059856414795,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 2.661059856414795,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 2.661059856414795,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 42.06059265136719,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 42.18289184570312,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 42.27827072143555,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 42.43315124511719,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 42.99860763549805,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 42.99860763549805,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 42.99860763549805,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 240.93
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 21.39999961853027,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 24.32900047302246,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 24.32900047302246,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 24.32900047302246,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 20.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 20.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 23.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 36.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.66
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 92.08
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 8924.0,
+                      "segno": 1,
+                      "normalized_valore": 17.09
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 7843.0,
+                      "segno": 1,
+                      "normalized_valore": 17.16
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 7633.10009765625,
+                      "segno": 1,
+                      "normalized_valore": 17.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 5704.0,
+                      "segno": 1,
+                      "normalized_valore": 17.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 3702.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.43
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 3702.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.43
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 3702.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.43
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 13.3900728225708,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 12.98523426055908,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 12.4123592376709,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 11.97473430633545,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 11.96244049072266,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 11.96244049072266,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 11.96244049072266,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 12.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 12.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 12.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 13.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 15.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 15.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 15.80000019073486,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.54
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1676.5,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1672.038452148438,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1610.331176757812,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1615.603515625,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1393.779907226562,
+                      "segno": -1,
+                      "normalized_valore": 17.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 6105.5537109375,
+                      "segno": -1,
+                      "normalized_valore": 17.27
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 6105.5537109375,
+                      "segno": -1,
+                      "normalized_valore": 17.27
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 229.3999938964844,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 233.6999969482422,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 233.6413726806641,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 224.0548553466797,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 202.2696838378906,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 202.2696838378906,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 202.2696838378906,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 4.175352096557617,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -12.90463638305664,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": -13.225341796875,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": -13.225341796875,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1616.400024414062,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1602.0,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1666.099975585938,
+                      "segno": -1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1773.0,
+                      "segno": -1,
+                      "normalized_valore": 17.55
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1752.0,
+                      "segno": -1,
+                      "normalized_valore": 17.55
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1832.5,
+                      "segno": -1,
+                      "normalized_valore": 17.55
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1832.5,
+                      "segno": -1,
+                      "normalized_valore": 17.55
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.59
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 17.56
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 73.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 95.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 63.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 68.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 88.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 88.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 88.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 29.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 35.48473358154297,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 36.86169052124023,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 29.37425804138184,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 31.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 31.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 31.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 31.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 19.34362983703613,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 160.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 160.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 161.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 161.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 160.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 160.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 160.0,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 42.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 634.3599243164062,
+                      "segno": -1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 636.4465942382812,
+                      "segno": -1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 637.5654907226562,
+                      "segno": -1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 674.1046142578125,
+                      "segno": -1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 572.4909057617188,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 572.4909057617188,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 572.4909057617188,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 57.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 57.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 59.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 61.65000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 66.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 66.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 66.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 35.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 37.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 335.0499877929688,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 350.6400146484375,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 362.5799865722656,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 366.7699890136719,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 366.7699890136719,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 366.7699890136719,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 366.7699890136719,
+                      "segno": -1,
+                      "normalized_valore": 17.64
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.65
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 17.65
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 42.43
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1056.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1486.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2358.0,
+                      "segno": 1,
+                      "normalized_valore": 17.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1860.0,
+                      "segno": 1,
+                      "normalized_valore": 17.55
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1412.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1412.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1412.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 53704.0,
+                      "segno": 1,
+                      "normalized_valore": 14.23
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 47606.0,
+                      "segno": 1,
+                      "normalized_valore": 14.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 57418.0,
+                      "segno": 1,
+                      "normalized_valore": 13.99
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 60071.0,
+                      "segno": 1,
+                      "normalized_valore": 13.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 37548.0,
+                      "segno": 1,
+                      "normalized_valore": 15.26
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 32251.0,
+                      "segno": 1,
+                      "normalized_valore": 15.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 32251.0,
+                      "segno": 1,
+                      "normalized_valore": 15.6
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 24.3958568572998,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": -0.1541782319545746,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 5.311921119689941,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": -1.906158328056335,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -17.87742805480957,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 28.5762825012207,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 28.5762825012207,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 16.66
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 75.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 73.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 103.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 103.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 92.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 92.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 3955679.0,
+                      "segno": 1,
+                      "normalized_valore": 235.19
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 4868360.0,
+                      "segno": 1,
+                      "normalized_valore": 293.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 5648826.0,
+                      "segno": 1,
+                      "normalized_valore": 343.42
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 5664766.0,
+                      "segno": 1,
+                      "normalized_valore": 344.43
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 5664766.0,
+                      "segno": 1,
+                      "normalized_valore": 344.43
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 3607656.0,
+                      "segno": 1,
+                      "normalized_valore": 212.94
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 3607656.0,
+                      "segno": 1,
+                      "normalized_valore": 212.94
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 34.26887512207031,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 34.40195846557617,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 34.49326705932617,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 34.70575332641602,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 33.41310882568359,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 33.41310882568359,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 33.41310882568359,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 113.37
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 64.47
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 2.375342607498169,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 3.519554615020752,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 7.125805854797363,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 12.10272216796875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 16.20482444763184,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 19.90450096130371,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 19.90450096130371,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 19.90450096130371,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 35.15386962890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 89.13983154296875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 340.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 354.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1042.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 981.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 907.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 907.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 907.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 907.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 907.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 17.65
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 29.43015098571777,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 29.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 32.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 34.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 39.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 503.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 505.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 506.8999938964844,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 510.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 510.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 510.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 510.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1.399999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1.399999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1.899999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 89.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 88.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 89.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 86.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 122.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 122.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 122.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 790.6224975585938,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 822.589111328125,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 826.4000244140625,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 844.0999755859375,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 487.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 487.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 487.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 24.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 13.78372859954834,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 13.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 14.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 14.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 423.1376342773438,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 427.0124206542969,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 429.4564819335938,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 423.6029968261719,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 426.7999877929688,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 428.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 428.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1413.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1176.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1073.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 854.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 25221.0,
+                      "segno": 1,
+                      "normalized_valore": 16.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 25121.0,
+                      "segno": 1,
+                      "normalized_valore": 16.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 26539.0,
+                      "segno": 1,
+                      "normalized_valore": 15.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 27935.0,
+                      "segno": 1,
+                      "normalized_valore": 15.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 24257.0,
+                      "segno": 1,
+                      "normalized_valore": 16.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 26323.0,
+                      "segno": 1,
+                      "normalized_valore": 15.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 26323.0,
+                      "segno": 1,
+                      "normalized_valore": 15.98
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 9604257.0,
+                      "segno": 1,
+                      "normalized_valore": 596.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 10347377.0,
+                      "segno": 1,
+                      "normalized_valore": 643.75
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 11163734.0,
+                      "segno": 1,
+                      "normalized_valore": 695.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 11541463.0,
+                      "segno": 1,
+                      "normalized_valore": 720.08
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 2789335.0,
+                      "segno": 1,
+                      "normalized_valore": 160.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 3420039.0,
+                      "segno": 1,
+                      "normalized_valore": 200.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 3420039.0,
+                      "segno": 1,
+                      "normalized_valore": 200.95
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 84355.0,
+                      "segno": 1,
+                      "normalized_valore": 12.27
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 85176.0,
+                      "segno": 1,
+                      "normalized_valore": 12.22
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 89141.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 89143.0,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 29632.0,
+                      "segno": 1,
+                      "normalized_valore": 15.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 32071.0,
+                      "segno": 1,
+                      "normalized_valore": 15.61
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 32071.0,
+                      "segno": 1,
+                      "normalized_valore": 15.61
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 210.74
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 89.35
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 49.83
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 23767.9921875,
+                      "segno": 1,
+                      "normalized_valore": 16.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 23657.3125,
+                      "segno": 1,
+                      "normalized_valore": 16.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 24223.431640625,
+                      "segno": 1,
+                      "normalized_valore": 16.12
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 24157.970703125,
+                      "segno": 1,
+                      "normalized_valore": 16.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 22663.8984375,
+                      "segno": 1,
+                      "normalized_valore": 16.22
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 22663.8984375,
+                      "segno": 1,
+                      "normalized_valore": 16.22
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 22663.8984375,
+                      "segno": 1,
+                      "normalized_valore": 16.22
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1.107349514961243,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": -0.4656711220741272,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.393001556396484,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": -0.2702416479587555,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -0.06184592470526695,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": -0.06184592470526695,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": -0.06184592470526695,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 21000.80078125,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 20773.400390625,
+                      "segno": 1,
+                      "normalized_valore": 16.34
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 21032.0,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 21146.0,
+                      "segno": 1,
+                      "normalized_valore": 16.31
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 19205.400390625,
+                      "segno": 1,
+                      "normalized_valore": 16.44
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 19205.400390625,
+                      "segno": 1,
+                      "normalized_valore": 16.44
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 19205.400390625,
+                      "segno": 1,
+                      "normalized_valore": 16.44
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 16.73
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 8.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 7.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 7.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 6.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 6.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 6.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1.100000023841858,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.699999988079071,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.699999988079071,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 3.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 3.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 70.66004943847656,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 70.86400604248047,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 71.29569244384766,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 72.69725799560547,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 70.63018035888672,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 61.59921646118164,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 61.59921646118164,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 6.260326862335205,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 5.316615104675293,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 5.98806619644165,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 5.65715503692627,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 4.54778003692627,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 5.195920944213867,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 5.195920944213867,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 18.07263946533203,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 8.098424911499023,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 11.25743675231934,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 12.99466705322266,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 14.23351573944092,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 12.73006343841553,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 12.73006343841553,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 8.738202095031738,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 6.141632080078125,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 7.352485179901123,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 7.408111095428467,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 6.854394912719727,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 8.005936622619629,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 8.005936622619629,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.66
+            }
+          ],
+          "sign": 1,
+          "value": 17.35
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1.077907085418701,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1.05962598323822,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1.029107928276062,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1.060296773910522,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 0.8330298662185669,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 0.7345542311668396,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 0.7345542311668396,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 29.40205955505371,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 30.50660705566406,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 31.16763687133789,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 31.70397758483887,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 32.45865249633789,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 32.84794616699219,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 32.84794616699219,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 2.432798624038696,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 2.397181034088135,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.433291435241699,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.430914878845215,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1.611275553703308,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1.718029975891113,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1.718029975891113,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 6.212516784667969,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 7.103741645812988,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 5.718295097351074,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 5.103795528411865,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -0.3127131164073944,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 5.214255809783936,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 5.214255809783936,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.00639747828245163,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.006755294278264046,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 0.006720971316099167,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.007122284267097712,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1.5717533826828,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1.5717533826828,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1.5717533826828,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 52333.15625,
+                      "segno": 1,
+                      "normalized_valore": 14.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 55192.71484375,
+                      "segno": 1,
+                      "normalized_valore": 14.14
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 41998.234375,
+                      "segno": 1,
+                      "normalized_valore": 14.98
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 53729.30859375,
+                      "segno": 1,
+                      "normalized_valore": 14.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 53849.91796875,
+                      "segno": 1,
+                      "normalized_valore": 14.22
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 52778.70703125,
+                      "segno": 1,
+                      "normalized_valore": 14.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 52778.70703125,
+                      "segno": 1,
+                      "normalized_valore": 14.29
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 16.56
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 22.43995094299316,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 20.50115966796875,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 19.51931381225586,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 18.50811386108398,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 18.06727600097656,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 17.50695610046387,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 17.50695610046387,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 52.01560974121094,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 52.01560974121094,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.049029111862183,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.3884137272834778,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 7.200954437255859,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1.706034064292908,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1.706034064292908,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 1168.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 1236.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 1199.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 1290.0,
+                      "segno": 1,
+                      "normalized_valore": 17.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 1356.0,
+                      "segno": 1,
+                      "normalized_valore": 17.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 1197.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 1197.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.64
+            }
+          ],
+          "sign": 1,
+          "value": 17.28
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 20735.0,
+                      "segno": 1,
+                      "normalized_valore": 16.34
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 20950.0,
+                      "segno": 1,
+                      "normalized_valore": 16.33
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 20984.0,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 21006.0,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 20920.0,
+                      "segno": 1,
+                      "normalized_valore": 16.33
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 21011.0,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 21011.0,
+                      "segno": 1,
+                      "normalized_valore": 16.32
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 8.77260684967041,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 8.453460693359375,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 8.649447441101074,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 8.8212890625,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 8.714149475097656,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 8.728760719299316,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 8.728760719299316,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 20.19291114807129,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 20.29117012023926,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 20.29641723632812,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 20.09902000427246,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 19.99522018432617,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 20.22274017333984,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 20.22274017333984,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 165.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 152.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 129.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 125.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 119.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 108.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 108.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 3.455916166305542,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 2.222878217697144,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 2.598462343215942,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 2.598462343215942,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 2.598462343215942,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 2.598462343215942,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 2.598462343215942,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.39
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 25.63999938964844,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 28.1200008392334,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 27.31999969482422,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 27.6200008392334,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 2797.0,
+                      "segno": 1,
+                      "normalized_valore": 17.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 641.0,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 561.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 909.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 242.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 432.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 432.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 40.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 43.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 43.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 44.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 19.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 19.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 19.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 0.8884901404380798,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 0.1821127980947495,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": -0.06439979374408722,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 0.3193149864673615,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": -0.4238679111003876,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": -0.4238679111003876,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": -0.4238679111003876,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.65
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 75.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 70.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 76.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 55.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 55.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 55.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 55.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 26.22038269042969,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 23.34804916381836,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 22.70610046386719,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 21.25724220275879,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 21.25724220275879,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 21.25724220275879,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 21.25724220275879,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Venezia",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.66
+            }
+          ],
+          "sign": 1,
+          "value": 17.57
+        }
+      ],
+      "sign": 1,
+      "value": 17.4
+    }
+  ],
+  "value": 36.01
+}

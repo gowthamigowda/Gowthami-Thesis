@@ -1,0 +1,5011 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 23.24523162841797,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 23.27286720275879,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 23.34610176086426,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 23.43755149841309,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 23.53351974487305,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 23.56303787231445,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 23.56303787231445,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 3.597491264343262,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2.763651132583618,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 7.323325634002686,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 9.145017623901367,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 9.596940040588379,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 7.393152236938477,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 7.393152236938477,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 6.574999809265137,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 6.574999809265137,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 45288152.0,
+                      "segno": 1,
+                      "normalized_valore": 694.46
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 45303152.0,
+                      "segno": 1,
+                      "normalized_valore": 694.7
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 45508912.0,
+                      "segno": 1,
+                      "normalized_valore": 697.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 46335784.0,
+                      "segno": 1,
+                      "normalized_valore": 710.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 46472512.0,
+                      "segno": 1,
+                      "normalized_valore": 713.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 46472512.0,
+                      "segno": 1,
+                      "normalized_valore": 713.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 46472512.0,
+                      "segno": 1,
+                      "normalized_valore": 713.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 3.517877340316772,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 3.519042491912842,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 3.535025358200073,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 3.599254846572876,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 3.609875440597534,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 3.609875440597534,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 3.609875440597534,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 16.16143798828125,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 16.10590171813965,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 16.15005302429199,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 16.46466636657715,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 16.66123580932617,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 16.66123580932617,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 16.66123580932617,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 245.11
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2.799999952316284,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1.603000044822693,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1.603000044822693,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1.603000044822693,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.1000000014901161,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.09300000220537186,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.09300000220537186,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.09300000220537186,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 28.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 35.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 60.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.92
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 91.67
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 16093.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 15984.900390625,
+                      "segno": 1,
+                      "normalized_valore": 14.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 13240.599609375,
+                      "segno": 1,
+                      "normalized_valore": 14.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8709.900390625,
+                      "segno": 1,
+                      "normalized_valore": 14.79
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 7416.39990234375,
+                      "segno": 1,
+                      "normalized_valore": 14.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 7416.39990234375,
+                      "segno": 1,
+                      "normalized_valore": 14.81
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 7416.39990234375,
+                      "segno": 1,
+                      "normalized_valore": 14.81
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 14.15970897674561,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 13.60929679870605,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 12.91741466522217,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 12.35578632354736,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 12.06747341156006,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 12.06747341156006,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 12.06747341156006,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 6.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 5.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 6.400000095367432,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 6.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 5.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 5.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 5.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.86
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 10076.2998046875,
+                      "segno": -1,
+                      "normalized_valore": 14.77
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 9768.51171875,
+                      "segno": -1,
+                      "normalized_valore": 14.77
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 9798.552734375,
+                      "segno": -1,
+                      "normalized_valore": 14.77
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 9814.451171875,
+                      "segno": -1,
+                      "normalized_valore": 14.77
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 9135.9521484375,
+                      "segno": -1,
+                      "normalized_valore": 14.78
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1741.515014648438,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1741.515014648438,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 1191.400024414062,
+                      "segno": -1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1209.5,
+                      "segno": -1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 1223.484985351562,
+                      "segno": -1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 1220.426879882812,
+                      "segno": -1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1122.636108398438,
+                      "segno": -1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1614.784545898438,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1614.784545898438,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": -7.445910453796387,
+                      "segno": -1,
+                      "normalized_valore": 14.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": -7.445910453796387,
+                      "segno": -1,
+                      "normalized_valore": 14.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": -7.445910453796387,
+                      "segno": -1,
+                      "normalized_valore": 14.93
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2.602124214172363,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": -20.57806968688965,
+                      "segno": -1,
+                      "normalized_valore": 14.93
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.4608687460422516,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.4608687460422516,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 1418.099975585938,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1467.099975585938,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 1481.699951171875,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 1815.199951171875,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1752.199951171875,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1843.599975585938,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1843.599975585938,
+                      "segno": -1,
+                      "normalized_valore": 14.9
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.89
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 14.88
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 41.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 32.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 46.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 18.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 17.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 42.62040710449219,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 42.22883605957031,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 37.55915069580078,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 36.61538314819336,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 36.61538314819336,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 36.61538314819336,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 36.61538314819336,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 23.11398124694824,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 92.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 92.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 186.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 186.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 178.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 178.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 186.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 186.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 186.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 38.09999847412109,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 38.09999847412109,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 38.09999847412109,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 35.5,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 32.90000152587891,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 32.90000152587891,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 32.90000152587891,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 164.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 587.1670532226562,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 603.4034423828125,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 620.5177612304688,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 548.18994140625,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 548.18994140625,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 548.18994140625,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 42.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 43.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 42.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 46.97999954223633,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 43.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 43.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 43.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 38.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 34.5,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 34.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 34.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 34.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 34.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 34.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 251.1499938964844,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 250.0500030517578,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 258.4599914550781,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 258.5199890136719,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 258.5199890136719,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 258.5199890136719,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 258.5199890136719,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.92
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 14.92
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 40.49
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 3482.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 4132.0,
+                      "segno": 1,
+                      "normalized_valore": 14.86
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 4703.0,
+                      "segno": 1,
+                      "normalized_valore": 14.85
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 3370.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 3776.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 3776.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 3776.0,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 63452.0,
+                      "segno": 1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 77761.0,
+                      "segno": 1,
+                      "normalized_valore": 13.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 22648.0,
+                      "segno": 1,
+                      "normalized_valore": 14.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 17995.0,
+                      "segno": 1,
+                      "normalized_valore": 14.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 12526.0,
+                      "segno": 1,
+                      "normalized_valore": 14.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 14236.0,
+                      "segno": 1,
+                      "normalized_valore": 14.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 14236.0,
+                      "segno": 1,
+                      "normalized_valore": 14.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 10.58999824523926,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2.902191400527954,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 3.074106216430664,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2.091124296188354,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": -9.933148384094238,
+                      "segno": 1,
+                      "normalized_valore": 14.93
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 28.2777214050293,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 28.2777214050293,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.74
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 103.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 138.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 127.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 118.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 118.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 80.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 413714.0,
+                      "segno": 1,
+                      "normalized_valore": 8.44
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 730839.0,
+                      "segno": 1,
+                      "normalized_valore": 3.48
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 409767.0,
+                      "segno": 1,
+                      "normalized_valore": 8.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 313622.0,
+                      "segno": 1,
+                      "normalized_valore": 10.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 313622.0,
+                      "segno": 1,
+                      "normalized_valore": 10.01
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 228523.0,
+                      "segno": 1,
+                      "normalized_valore": 11.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 228523.0,
+                      "segno": 1,
+                      "normalized_valore": 11.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 14.60381698608398,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 14.58331203460693,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 14.6275053024292,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 14.88848209381104,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 12.33302211761475,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 12.33302211761475,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 12.33302211761475,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 13.06
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 13.86
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 3.769184350967407,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 8.19418716430664,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 12.65854072570801,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 18.92675971984863,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 22.79402351379395,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 27.57621574401855,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 27.57621574401855,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 27.57621574401855,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 63.14323806762695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 90.15957641601562,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 2739.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2876.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 2904.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2904.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 2904.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 2904.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 2904.0,
+                      "segno": 1,
+                      "normalized_valore": 14.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 10956.0,
+                      "segno": 1,
+                      "normalized_valore": 14.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 11504.0,
+                      "segno": 1,
+                      "normalized_valore": 14.74
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 13806.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 13806.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 13806.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 13806.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 13806.0,
+                      "segno": 1,
+                      "normalized_valore": 14.71
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.87
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 14.9
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 18.71990013122559,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 18.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 18.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 19.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 22.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 22.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 22.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 16.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 13.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 13.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 14.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 14.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 14.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 14.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 130.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 130.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 161.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 206.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 215.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 215.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 215.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 7.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.399999618530273,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 6.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 6.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 6.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 401.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 396.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 460.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 532.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 429.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 429.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 429.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 404.0266723632812,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 331.6436767578125,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 318.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 318.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 153.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 153.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 153.1000061035156,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 22.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 25.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 24.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 24.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 24.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 26.85499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 26.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 26.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 27.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 27.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.5299999713897705,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 613.291015625,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 614.1464233398438,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 614.0375366210938,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 622.121826171875,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 627.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 629.4000244140625,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 629.4000244140625,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 46935876.0,
+                      "segno": 1,
+                      "normalized_valore": 720.27
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 46691776.0,
+                      "segno": 1,
+                      "normalized_valore": 716.45
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 48706668.0,
+                      "segno": 1,
+                      "normalized_valore": 748.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 49250548.0,
+                      "segno": 1,
+                      "normalized_valore": 756.53
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 11378397.0,
+                      "segno": 1,
+                      "normalized_valore": 163.31
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 13884565.0,
+                      "segno": 1,
+                      "normalized_valore": 202.56
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 13884565.0,
+                      "segno": 1,
+                      "normalized_valore": 202.56
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 344356.0,
+                      "segno": 1,
+                      "normalized_valore": 9.53
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 331482.0,
+                      "segno": 1,
+                      "normalized_valore": 9.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 344065.0,
+                      "segno": 1,
+                      "normalized_valore": 9.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 345872.0,
+                      "segno": 1,
+                      "normalized_valore": 9.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 117342.0,
+                      "segno": 1,
+                      "normalized_valore": 13.09
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 132107.0,
+                      "segno": 1,
+                      "normalized_valore": 12.86
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 132107.0,
+                      "segno": 1,
+                      "normalized_valore": 12.86
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 234.93
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 102.59
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 47.52
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 26426.978515625,
+                      "segno": 1,
+                      "normalized_valore": 14.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 26329.45703125,
+                      "segno": 1,
+                      "normalized_valore": 14.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 27170.185546875,
+                      "segno": 1,
+                      "normalized_valore": 14.5
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 27048.689453125,
+                      "segno": 1,
+                      "normalized_valore": 14.5
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 26737.169921875,
+                      "segno": 1,
+                      "normalized_valore": 14.51
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 26737.169921875,
+                      "segno": 1,
+                      "normalized_valore": 14.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 26737.169921875,
+                      "segno": 1,
+                      "normalized_valore": 14.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.712138831615448,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": -0.3690243065357208,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 3.193108320236206,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": -0.4471621215343475,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": -0.01151701062917709,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": -0.01151701062917709,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": -0.01151701062917709,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 23308.099609375,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 23093.099609375,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 23021.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 23282.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 23282.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 23282.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 23282.400390625,
+                      "segno": 1,
+                      "normalized_valore": 14.56
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.66
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": -0.009210984222590923,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 12.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 11.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 11.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 11.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 11.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 1.399999976158142,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1.100000023841858,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.8999999761581421,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 9.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 7.199999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 7.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.899999618530273,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 5.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 5.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 65.12739562988281,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 66.07794189453125,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 66.09739685058594,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 66.16448974609375,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 64.7450942993164,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 63.71664428710938,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 63.71664428710938,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 8.267988204956055,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 8.23747730255127,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 8.76679801940918,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.177420616149902,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 7.819922924041748,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 8.7672700881958,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 8.7672700881958,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 27.76678466796875,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 26.11695861816406,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 18.44203758239746,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 17.62213134765625,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 18.53705406188965,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 20.38710403442383,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 20.38710403442383,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 10.19392967224121,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 10.06595134735107,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 10.18338584899902,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.942242622375488,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 8.61791706085205,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 9.677797317504883,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 9.677797317504883,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.92
+            }
+          ],
+          "sign": 1,
+          "value": 14.83
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.8962745070457458,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 0.8872765302658081,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.849163293838501,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.804244339466095,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.6572873592376709,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 0.6197786331176758,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 0.6197786331176758,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 26.65935134887695,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 27.25543785095215,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 28.24673461914062,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 29.1526927947998,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 28.26828765869141,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 29.17194938659668,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 29.17194938659668,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 2.116901397705078,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2.133884191513062,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 2.094284772872925,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2.05302906036377,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1.563535451889038,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1.64107358455658,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1.64107358455658,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.92
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 5.314751625061035,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 5.477238178253174,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 5.557546615600586,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 5.194177627563477,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 0.3235152959823608,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 4.27525520324707,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 4.27525520324707,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 0.006352065596729517,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 0.006435070652514696,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 0.006678949110209942,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.006903327535837889,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 2.217631816864014,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 2.217631816864014,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 2.217631816864014,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 47989.359375,
+                      "segno": 1,
+                      "normalized_valore": 14.17
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 52558.98828125,
+                      "segno": 1,
+                      "normalized_valore": 14.1
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 44453.67578125,
+                      "segno": 1,
+                      "normalized_valore": 14.23
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 50274.50390625,
+                      "segno": 1,
+                      "normalized_valore": 14.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 51820.1640625,
+                      "segno": 1,
+                      "normalized_valore": 14.11
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 53734.63671875,
+                      "segno": 1,
+                      "normalized_valore": 14.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 53734.63671875,
+                      "segno": 1,
+                      "normalized_valore": 14.08
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.66
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 4.514426708221436,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 3.209746122360229,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 4.02927827835083,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 6.264125347137451,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 25.7878589630127,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 18.93534088134766,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 18.93534088134766,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": -4.503232479095459,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": -4.503232479095459,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 1.87817370891571,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 4.63004732131958,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 4.942176818847656,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 9.911870956420898,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 9.911870956420898,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 23935.0,
+                      "segno": 1,
+                      "normalized_valore": 14.55
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 17893.0,
+                      "segno": 1,
+                      "normalized_valore": 14.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 25832.0,
+                      "segno": 1,
+                      "normalized_valore": 14.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 18390.0,
+                      "segno": 1,
+                      "normalized_valore": 14.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 18636.0,
+                      "segno": 1,
+                      "normalized_valore": 14.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 15037.0,
+                      "segno": 1,
+                      "normalized_valore": 14.69
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 15037.0,
+                      "segno": 1,
+                      "normalized_valore": 14.69
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.82
+            }
+          ],
+          "sign": 1,
+          "value": 14.8
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 251582.0,
+                      "segno": 1,
+                      "normalized_valore": 10.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 255051.0,
+                      "segno": 1,
+                      "normalized_valore": 10.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 259345.0,
+                      "segno": 1,
+                      "normalized_valore": 10.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 262282.0,
+                      "segno": 1,
+                      "normalized_valore": 10.82
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 266228.0,
+                      "segno": 1,
+                      "normalized_valore": 10.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 246821.0,
+                      "segno": 1,
+                      "normalized_valore": 11.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 246821.0,
+                      "segno": 1,
+                      "normalized_valore": 11.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 9.667623519897461,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 9.28245735168457,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 8.81721305847168,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.34216594696045,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 8.019441604614258,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 8.423108100891113,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 8.423108100891113,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 20.74750900268555,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 20.86170959472656,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 20.92270851135254,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 20.99877166748047,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 21.04286575317383,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 21.47021484375,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 21.47021484375,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 1381.0,
+                      "segno": 1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1279.0,
+                      "segno": 1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 1173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 1116.0,
+                      "segno": 1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1085.0,
+                      "segno": 1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 986.0,
+                      "segno": 1,
+                      "normalized_valore": 14.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 986.0,
+                      "segno": 1,
+                      "normalized_valore": 14.91
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 3.426485776901245,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 2.901768684387207,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 2.318714380264282,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 2.318714380264282,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 2.318714380264282,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 2.318714380264282,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 2.318714380264282,
+                      "segno": -1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.12
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 33.95000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 34.20999908447266,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 33.02999877929688,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 31.42000007629395,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 32.09683609008789,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 32.09683609008789,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 32.09683609008789,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 17737.0,
+                      "segno": 1,
+                      "normalized_valore": 14.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 19440.0,
+                      "segno": 1,
+                      "normalized_valore": 14.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 17781.0,
+                      "segno": 1,
+                      "normalized_valore": 14.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 16525.0,
+                      "segno": 1,
+                      "normalized_valore": 14.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 8308.0,
+                      "segno": 1,
+                      "normalized_valore": 14.79
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 4876.0,
+                      "segno": 1,
+                      "normalized_valore": 14.85
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 4876.0,
+                      "segno": 1,
+                      "normalized_valore": 14.85
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 6.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 7.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 7.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 1.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 1.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 1.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 1.724412083625793,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 1.219782710075378,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 1.414074420928955,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 0.9567379355430603,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": -1.010195732116699,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": -1.010195732116699,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": -1.010195732116699,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.87
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 40.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 41.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 48.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 42.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 42.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 42.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 42.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 51.73010635375977,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 53.044189453125,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 3819.48193359375,
+                      "segno": 1,
+                      "normalized_valore": 14.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 5322.04443359375,
+                      "segno": 1,
+                      "normalized_valore": 14.84
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 5322.04443359375,
+                      "segno": 1,
+                      "normalized_valore": 14.84
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 5322.04443359375,
+                      "segno": 1,
+                      "normalized_valore": 14.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 5322.04443359375,
+                      "segno": 1,
+                      "normalized_valore": 14.84
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Roma",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.92
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.9
+            }
+          ],
+          "sign": 1,
+          "value": 14.63
+        }
+      ],
+      "sign": 1,
+      "value": 14.75
+    }
+  ],
+  "value": 30.99
+}

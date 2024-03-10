@@ -1,0 +1,577 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Cittadini",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Formazione e Istruzion",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Livello di Alfabetizzazione",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Tasso di abbandono scolastico prematuro",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Neet, giovani che non studiano/lavorano",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Competenza alfabetica non adeguata",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        },
+                        {
+                            "name": "Livello di Istruzione",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Diplomati",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Laureati",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Partecipazione alla formazione continua",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        }
+                    ],
+                    "color": "red"
+                },
+                {
+                    "name": "Salute",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Condizioni di Salute",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Speranza di vita alla nascita",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Mortalita evitabile",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Mortalita per tumore",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        },
+                        {
+                            "name": "Sanità",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Abitanti per farmacie e parafarmacie",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Posti letto in ospedale",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Posti letto ad elevata assistenza",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Emigrazione ospedaliera",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        }
+                    ],
+                    "color": "red"
+                },
+                {
+                    "name": "Qualità della Vita",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Abitare",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Numero di case sovraffollate",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Sfratti eseguiti",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Case di proprieta",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        },
+                        {
+                            "name": "Work-life Balancea",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Soddisfazione per il tempo libero",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Servizi per l'infanzia, nido",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                },
+                                {
+                                    "name": "Strutture per assistenza agli anziani",
+                                    "type": "Indicatore",
+                                    "color": "red"
+                                }
+                            ],
+                            "color": "red"
+                        }
+                    ],
+                    "color": "red"
+                }
+            ],
+            "color": "red"
+        },
+        {
+            "name": "Società",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Demografia",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Popolazione",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Saldo demografico naturale",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Residenti in eta lavorativa",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Incidenza degli abitanti immigrati",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        },
+                        {
+                            "name": "Densità",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Densita di popolazione",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Numero di famiglie mono composte",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Numero di famiglie numerose",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        },
+                        {
+                            "name": "Sostenibilità",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Tasso di natalita",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Incidenza degli abitanti over 65",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Saldo demografico migratorio",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        }
+                    ],
+                    "color": "Green"
+                },
+                {
+                    "name": "Cultura",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Offerta culturalee",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Dotazione di musei per abitante",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Dotazione di biblioteche per abitante",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Dotazione di teatri per abitante",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Dotazione di sale cinematografiche per abitante",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Verde storico",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        },
+                        {
+                            "name": "Domanda culturale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Utenti delle biblioteche pubbliche e private",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Persone che sono andate a teatro",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Persone che sono andate al cinema",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Visitatori dei musei",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Persone che hanno letto almeno un libro",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        }
+                    ],
+                    "color": "Green"
+                },
+                {
+                    "name": " Attività sociali",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Volontariato",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Associazioni di volontariato",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Popolazione attiva in associazioni di volontariato",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Istituzioni non profit orientate al disagio",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        },
+                        {
+                            "name": "Attività Civiche",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Istituzioni no profit",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Riunioni in associazioni",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Societa sportive",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                },
+                                {
+                                    "name": "Persone che svolgono attivita sportiva",
+                                    "type": "Indicatore",
+                                    "color": "Green"
+                                }
+                            ],
+                            "color": "Green"
+                        }
+                    ],
+                    "color": "Green"
+                }
+            ],
+            "color": "Green"
+        },
+        {
+            "name": "Governance",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Amministrazione Civica",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Finanza Pubblica",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Capacita di spesa",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Capacita di riscossione",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Grado di autonomia finanziaria",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Grado di autonomia impositiva",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Rigidita della spesa",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        },
+                        {
+                            "name": "Spesa pubblica",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Spesa per Diritti, politiche sociali e famiglia",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Spesa per Ordine pubblico e sicurezza",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Spesa per Istruzione e diritto allo studio",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Spesa per le politiche giovanili",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        }
+                    ],
+                    "color": "Blue"
+                },
+                {
+                    "name": "Engagement",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Engagement Politico",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Amministratori comunali under 40",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Amministratori comunali donne",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Affluenza alle urne",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Partecipazione alle elezioni regionali",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        },
+                        {
+                            "name": "Fiducia dei cittadini",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Grado di soddisfazione per la vita nel complesso",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        }
+                    ],
+                    "color": "Blue"
+                },
+                {
+                    "name": "Giustizia e Sicurezza",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Giustizia",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Lentezza giudiziaria",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Clearance rate",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Numero di magistrati effettivi",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Numero magistrati donna",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        },
+                        {
+                            "name": "Sicurezza",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Delitti denunciati alle forze di polizia",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Infortuni sul lavoro",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                },
+                                {
+                                    "name": "Incidenti stradali",
+                                    "type": "Indicatore",
+                                    "color": "Blue"
+                                }
+                            ],
+                            "color": "Blue"
+                        }
+                    ],
+                    "color": "Blue"
+                }
+            ],
+            "color": "Blue"
+        }
+    ]
+}

@@ -1,0 +1,4261 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Cittadini",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Formazione e Istruzion",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Livello di Alfabetizzazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di abbandono scolastico prematuro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 10.19999980926514,
+                      "segno": -1,
+                      "normalized_valore": 25.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 11.30000019073486,
+                      "segno": -1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 13.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.6
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 10.80000019073486,
+                      "segno": -1,
+                      "normalized_valore": 25.8
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 25.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 25.71
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 25.71
+                    }
+                  ]
+                },
+                {
+                  "name": "Neet, giovani che non studiano/lavorano",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 18.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 18.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.26
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 18.29999923706055,
+                      "segno": -1,
+                      "normalized_valore": 25.26
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 25.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 19.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.2
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 21.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 21.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Competenza alfabetica non adeguata",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 28.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 28.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 28.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 27.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 27.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 27.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.57
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 27.89999961853027,
+                      "segno": -1,
+                      "normalized_valore": 24.57
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 25.16
+            },
+            {
+              "name": "Livello di Istruzione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Diplomati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 63.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 22.03
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 63.59999847412109,
+                      "segno": 1,
+                      "normalized_valore": 21.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 66.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.77
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 67.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 66.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.77
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 67.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 21.72
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 67.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 21.72
+                    }
+                  ]
+                },
+                {
+                  "name": "Laureati",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 26.0,
+                      "segno": 1,
+                      "normalized_valore": 24.7
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 29.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.47
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 31.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.34
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 30.0,
+                      "segno": 1,
+                      "normalized_valore": 24.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 34.0,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 33.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 33.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alla formazione continua",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 9.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 25.91
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 8.399999618530273,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 9.600000381469727,
+                      "segno": 1,
+                      "normalized_valore": 25.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 9.899999618530273,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 25.99
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 11.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.77
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 11.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.77
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.01
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.59
+        },
+        {
+          "name": "Salute",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Condizioni di Salute",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Speranza di vita alla nascita",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 83.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 82.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.61
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 83.0,
+                      "segno": 1,
+                      "normalized_valore": 20.59
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 83.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 81.80000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 82.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.61
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 82.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.61
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita evitabile",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 17.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 17.60000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.31
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 17.10000038146973,
+                      "segno": -1,
+                      "normalized_valore": 25.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 16.5,
+                      "segno": -1,
+                      "normalized_valore": 25.39
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 16.5,
+                      "segno": -1,
+                      "normalized_valore": 25.39
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 16.5,
+                      "segno": -1,
+                      "normalized_valore": 25.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 16.5,
+                      "segno": -1,
+                      "normalized_valore": 25.39
+                    }
+                  ]
+                },
+                {
+                  "name": "Mortalita per tumore",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 8.5,
+                      "segno": -1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 9.100000381469727,
+                      "segno": -1,
+                      "normalized_valore": 25.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 8.5,
+                      "segno": -1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 8.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 8.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 8.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 8.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 25.98
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 23.98
+            },
+            {
+              "name": "Sanit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Abitanti per farmacie e parafarmacie",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 38.03380966186523,
+                      "segno": -1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 38.54500961303711,
+                      "segno": -1,
+                      "normalized_valore": 23.8
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 38.33420181274414,
+                      "segno": -1,
+                      "normalized_valore": 23.81
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 39.68108367919922,
+                      "segno": -1,
+                      "normalized_valore": 23.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 40.09055328369141,
+                      "segno": -1,
+                      "normalized_valore": 23.69
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 39.9542350769043,
+                      "segno": -1,
+                      "normalized_valore": 23.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 39.9542350769043,
+                      "segno": -1,
+                      "normalized_valore": 23.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto in ospedale",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.92
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 35.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 35.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 36.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.97
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 37.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 37.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 37.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Posti letto ad elevata assistenza",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 3.5,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 3.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Emigrazione ospedaliera",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 4.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 4.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 26.27
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 4.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 4.0,
+                      "segno": -1,
+                      "normalized_valore": 26.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 3.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 3.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 3.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 25.08
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.53
+        },
+        {
+          "name": "Qualit\u00c3\u00a0 della Vita",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Abitare",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero di case sovraffollate",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 2.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 26.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 2.5,
+                      "segno": -1,
+                      "normalized_valore": 26.4
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.41
+                    }
+                  ]
+                },
+                {
+                  "name": "Sfratti eseguiti",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.1010186746716499,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.1010186746716499,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.1010186746716499,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.06944678723812103,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.01757243275642395,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.03744712844491005,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.03744712844491005,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    }
+                  ]
+                },
+                {
+                  "name": "Case di proprieta",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 77.0999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 77.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 77.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 21.0
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 76.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 21.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 78.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 20.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 77.0,
+                      "segno": 1,
+                      "normalized_valore": 21.03
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 77.0,
+                      "segno": 1,
+                      "normalized_valore": 21.03
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 24.66
+            },
+            {
+              "name": "Work-life Balancea",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tempo di percorrenza del tragitto tra casa e la sede del lavoro",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 41.0,
+                      "segno": -1,
+                      "normalized_valore": 23.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 41.0,
+                      "segno": -1,
+                      "normalized_valore": 23.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 41.0,
+                      "segno": -1,
+                      "normalized_valore": 23.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 41.0,
+                      "segno": -1,
+                      "normalized_valore": 23.62
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 38.0,
+                      "segno": -1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 38.0,
+                      "segno": -1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 40.0,
+                      "segno": -1,
+                      "normalized_valore": 23.69
+                    }
+                  ]
+                },
+                {
+                  "name": "Soddisfazione per il tempo libero",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 14.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 15.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.47
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 16.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 17.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.32
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 15.0,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 10.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 10.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi per l'infanzia, nido",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 24.0,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 25.0,
+                      "segno": 1,
+                      "normalized_valore": 24.78
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 26.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Strutture per assistenza agli anziani",
+                  "type": "Indicatore",
+                  "color": "red",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.03967370465397835,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.03907984122633934,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.03899931162595749,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.03899931162595749,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.03899931162595749,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.03899931162595749,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.03899931162595749,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    }
+                  ]
+                }
+              ],
+              "color": "red",
+              "sign": 1,
+              "value": 25.14
+            }
+          ],
+          "color": "red",
+          "sign": 1,
+          "value": 24.9
+        }
+      ],
+      "color": "red",
+      "sign": 1,
+      "value": 24.67
+    },
+    {
+      "name": "Societ\u00c3\u00a0",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Demografia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Popolazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Saldo demografico naturale",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": -0.3768498003482819,
+                      "segno": 1,
+                      "normalized_valore": 26.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": -0.4198128283023834,
+                      "segno": 1,
+                      "normalized_valore": 26.61
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": -0.493453323841095,
+                      "segno": 1,
+                      "normalized_valore": 26.61
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": -0.4966535866260529,
+                      "segno": 1,
+                      "normalized_valore": 26.61
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": -0.7898072004318237,
+                      "segno": 1,
+                      "normalized_valore": 26.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": -0.641376793384552,
+                      "segno": 1,
+                      "normalized_valore": 26.62
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": -0.641376793384552,
+                      "segno": 1,
+                      "normalized_valore": 26.62
+                    }
+                  ]
+                },
+                {
+                  "name": "Residenti in eta lavorativa",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 62.21413803100586,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 62.21424102783203,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 62.1701774597168,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 62.23626708984375,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 62.30282974243164,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 62.26959991455078,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 62.26959991455078,
+                      "segno": 1,
+                      "normalized_valore": 22.09
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti immigrati",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 15.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 15.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.49
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 15.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 15.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.48
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 14.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.52
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 24.73
+            },
+            {
+              "name": "Densit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita di popolazione",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 6832.6328125,
+                      "segno": 1,
+                      "normalized_valore": 466.2
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 6801.85595703125,
+                      "segno": 1,
+                      "normalized_valore": 463.98
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 6759.03515625,
+                      "segno": 1,
+                      "normalized_valore": 460.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 6607.1181640625,
+                      "segno": 1,
+                      "normalized_valore": 449.94
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 6597.1689453125,
+                      "segno": 1,
+                      "normalized_valore": 449.22
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 6561.9482421875,
+                      "segno": 1,
+                      "normalized_valore": 446.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 6561.9482421875,
+                      "segno": 1,
+                      "normalized_valore": 446.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie mono composte",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 45.64883804321289,
+                      "segno": -1,
+                      "normalized_valore": 23.29
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 45.64883804321289,
+                      "segno": -1,
+                      "normalized_valore": 23.29
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 45.64883804321289,
+                      "segno": -1,
+                      "normalized_valore": 23.29
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 46.16899108886719,
+                      "segno": -1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 46.16899108886719,
+                      "segno": -1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 46.16899108886719,
+                      "segno": -1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 46.16899108886719,
+                      "segno": -1,
+                      "normalized_valore": 23.25
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di famiglie numerose",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 3.030571222305298,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 3.030571222305298,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 3.030571222305298,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 3.011556386947632,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 3.011556386947632,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 3.011556386947632,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 3.011556386947632,
+                      "segno": 1,
+                      "normalized_valore": 26.36
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 168.22
+            },
+            {
+              "name": "Sostenibilit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di natalita",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 7.316444873809814,
+                      "segno": 1,
+                      "normalized_valore": 26.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 7.592576026916504,
+                      "segno": 1,
+                      "normalized_valore": 26.03
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 6.926319122314453,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 7.062302112579346,
+                      "segno": 1,
+                      "normalized_valore": 26.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 6.771108150482178,
+                      "segno": 1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 6.6481032371521,
+                      "segno": 1,
+                      "normalized_valore": 26.1
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 6.6481032371521,
+                      "segno": 1,
+                      "normalized_valore": 26.1
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenza degli abitanti over 65",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 25.50502586364746,
+                      "segno": -1,
+                      "normalized_valore": 24.74
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 25.57145881652832,
+                      "segno": -1,
+                      "normalized_valore": 24.73
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 25.76458930969238,
+                      "segno": -1,
+                      "normalized_valore": 24.72
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 25.83632659912109,
+                      "segno": -1,
+                      "normalized_valore": 24.72
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 25.87971496582031,
+                      "segno": -1,
+                      "normalized_valore": 24.71
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 26.10966110229492,
+                      "segno": -1,
+                      "normalized_valore": 24.7
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 26.10966110229492,
+                      "segno": -1,
+                      "normalized_valore": 24.7
+                    }
+                  ]
+                },
+                {
+                  "name": "Saldo demografico migratorio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": -0.03859644010663033,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": -0.06782113015651703,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": -0.2828995883464813,
+                      "segno": 1,
+                      "normalized_valore": 26.6
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.1012391299009323,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.06759453564882278,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": -0.3425987660884857,
+                      "segno": 1,
+                      "normalized_valore": 26.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": -0.3425987660884857,
+                      "segno": 1,
+                      "normalized_valore": 26.6
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.79
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 72.93
+        },
+        {
+          "name": "Cultura",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Offerta culturalee",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Dotazione di musei per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 10.96441650390625,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 10.96441650390625,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 11.03388023376465,
+                      "segno": 1,
+                      "normalized_valore": 25.78
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 5.236506938934326,
+                      "segno": 1,
+                      "normalized_valore": 26.2
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 4.778234481811523,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 4.778234481811523,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 4.778234481811523,
+                      "segno": 1,
+                      "normalized_valore": 26.23
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di biblioteche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 11.28757953643799,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 11.28757953643799,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 11.28757953643799,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 11.28757953643799,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 9.906096458435059,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 9.906096458435059,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 9.906096458435059,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di teatri per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 30.61256980895996,
+                      "segno": 1,
+                      "normalized_valore": 24.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 30.84770774841309,
+                      "segno": 1,
+                      "normalized_valore": 24.35
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 30.07440567016602,
+                      "segno": 1,
+                      "normalized_valore": 24.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 29.58407974243164,
+                      "segno": 1,
+                      "normalized_valore": 24.44
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 15.62980079650879,
+                      "segno": 1,
+                      "normalized_valore": 25.45
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 8.991211891174316,
+                      "segno": 1,
+                      "normalized_valore": 25.93
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 8.991211891174316,
+                      "segno": 1,
+                      "normalized_valore": 25.93
+                    }
+                  ]
+                },
+                {
+                  "name": "Dotazione di sale cinematografiche per abitante",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 8.407033920288086,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 8.325440406799316,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 8.181159973144531,
+                      "segno": 1,
+                      "normalized_valore": 25.99
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 8.240948677062988,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 8.991211891174316,
+                      "segno": 1,
+                      "normalized_valore": 25.93
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 8.991211891174316,
+                      "segno": 1,
+                      "normalized_valore": 25.93
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 8.991211891174316,
+                      "segno": 1,
+                      "normalized_valore": 25.93
+                    }
+                  ]
+                },
+                {
+                  "name": "Verde storico",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 42.49123382568359,
+                      "segno": 1,
+                      "normalized_valore": 23.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 42.17567825317383,
+                      "segno": 1,
+                      "normalized_valore": 23.54
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 42.1157112121582,
+                      "segno": 1,
+                      "normalized_valore": 23.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 42.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 41.73706436157227,
+                      "segno": 1,
+                      "normalized_valore": 23.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 41.73706436157227,
+                      "segno": 1,
+                      "normalized_valore": 23.57
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 41.73706436157227,
+                      "segno": 1,
+                      "normalized_valore": 23.57
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 25.27
+            },
+            {
+              "name": "Domanda culturale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Incidenza dei biglietti venduti nei circuiti museali",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 1.92937958240509,
+                      "segno": 1,
+                      "normalized_valore": 26.44
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 2.286861419677734,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    }
+                  ]
+                },
+                {
+                  "name": "Utenti delle biblioteche pubbliche e private",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.1730467677116394,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.1730467677116394,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.1730467677116394,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.1730467677116394,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.073446124792099,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.073446124792099,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.073446124792099,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate a teatro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 36.05644226074219,
+                      "segno": 1,
+                      "normalized_valore": 23.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 36.8253288269043,
+                      "segno": 1,
+                      "normalized_valore": 23.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 37.03382873535156,
+                      "segno": 1,
+                      "normalized_valore": 23.91
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 37.99070358276367,
+                      "segno": 1,
+                      "normalized_valore": 23.84
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 9.941834449768066,
+                      "segno": 1,
+                      "normalized_valore": 25.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 10.57345485687256,
+                      "segno": 1,
+                      "normalized_valore": 25.82
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 10.57345485687256,
+                      "segno": 1,
+                      "normalized_valore": 25.82
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che sono andate al cinema",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 238.2315979003906,
+                      "segno": 1,
+                      "normalized_valore": 9.4
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 202.0124206542969,
+                      "segno": 1,
+                      "normalized_valore": 12.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 165.4062957763672,
+                      "segno": 1,
+                      "normalized_valore": 14.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 186.0761566162109,
+                      "segno": 1,
+                      "normalized_valore": 13.16
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 51.53704452514648,
+                      "segno": 1,
+                      "normalized_valore": 22.86
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 44.19625473022461,
+                      "segno": 1,
+                      "normalized_valore": 23.39
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 44.19625473022461,
+                      "segno": 1,
+                      "normalized_valore": 23.39
+                    }
+                  ]
+                },
+                {
+                  "name": "Visitatori dei musei",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 434.4476013183594,
+                      "segno": 1,
+                      "normalized_valore": 4.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 436.4133911132812,
+                      "segno": 1,
+                      "normalized_valore": 4.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 439.17822265625,
+                      "segno": 1,
+                      "normalized_valore": 5.1
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 433.0096740722656,
+                      "segno": 1,
+                      "normalized_valore": 4.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 134.4833679199219,
+                      "segno": 1,
+                      "normalized_valore": 16.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 134.4833679199219,
+                      "segno": 1,
+                      "normalized_valore": 16.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 134.4833679199219,
+                      "segno": 1,
+                      "normalized_valore": 16.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che hanno letto almeno un libro",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 48.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 23.11
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 46.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 46.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 23.23
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 46.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 46.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.24
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 46.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 23.24
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 21.64
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 23.35
+        },
+        {
+          "name": " Attivit\u00c3\u00a0 sociali",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Volontariato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 439.0,
+                      "segno": 1,
+                      "normalized_valore": 5.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione Attiva in Associazioni di volontariato",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 12.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 11.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.72
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 11.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 25.74
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 11.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 10.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 25.79
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 7.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 7.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Istituzioni no profit orientate al disagio",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 6040.009765625,
+                      "segno": 1,
+                      "normalized_valore": 409.04
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 146.65
+            },
+            {
+              "name": "Attivit\u00c3\u00a0 Civiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Istituzioni no profit",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.0001798483717720956,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.0001850612607086077,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.005932220257818699,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.0001832429261412472,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.0001847976964199916,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.0001847976964199916,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.0001847976964199916,
+                      "segno": 1,
+                      "normalized_valore": 26.58
+                    }
+                  ]
+                },
+                {
+                  "name": "Riunioni in associazioni",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 10.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.84
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 11.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.77
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 12.19999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.7
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 11.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 25.76
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 10.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 25.81
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.1
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 6.699999809265137,
+                      "segno": 1,
+                      "normalized_valore": 26.1
+                    }
+                  ]
+                },
+                {
+                  "name": "Societa sportive",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 1866.0,
+                      "segno": 1,
+                      "normalized_valore": 108.0
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 1864.0,
+                      "segno": 1,
+                      "normalized_valore": 107.86
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 1853.0,
+                      "segno": 1,
+                      "normalized_valore": 107.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 1826.0,
+                      "segno": 1,
+                      "normalized_valore": 105.12
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 1806.0,
+                      "segno": 1,
+                      "normalized_valore": 103.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 1806.0,
+                      "segno": 1,
+                      "normalized_valore": 103.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 1806.0,
+                      "segno": 1,
+                      "normalized_valore": 103.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Persone che svolgono attivita sportiva",
+                  "type": "Indicatore",
+                  "color": "Green",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 28.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.52
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 29.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 24.48
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 32.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 33.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.14
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 30.0,
+                      "segno": 1,
+                      "normalized_valore": 24.41
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 31.5,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 31.5,
+                      "segno": 1,
+                      "normalized_valore": 24.31
+                    }
+                  ]
+                }
+              ],
+              "color": "Green",
+              "sign": 1,
+              "value": 45.6
+            }
+          ],
+          "color": "Green",
+          "sign": 1,
+          "value": 96.12
+        }
+      ],
+      "color": "Green",
+      "sign": 1,
+      "value": 64.11
+    },
+    {
+      "name": "Governance",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Amministrazione Civica",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Finanza Pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capacita di spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.7490000128746033,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.8209999799728394,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.7599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.7770000100135803,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.8330000042915344,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.8330000042915344,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.8330000042915344,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di riscossione",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.8119999766349792,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.8169999718666077,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.8450000286102295,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.871999979019165,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.8820000290870667,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 1.051002144813538,
+                      "segno": 1,
+                      "normalized_valore": 26.5
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 1.051002144813538,
+                      "segno": 1,
+                      "normalized_valore": 26.5
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia finanziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 88.92486572265625,
+                      "segno": 1,
+                      "normalized_valore": 20.17
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 88.13164520263672,
+                      "segno": 1,
+                      "normalized_valore": 20.22
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 84.4229965209961,
+                      "segno": 1,
+                      "normalized_valore": 20.49
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 86.05839538574219,
+                      "segno": 1,
+                      "normalized_valore": 20.37
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 79.89867401123047,
+                      "segno": 1,
+                      "normalized_valore": 20.82
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 72.550537109375,
+                      "segno": 1,
+                      "normalized_valore": 21.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 72.550537109375,
+                      "segno": 1,
+                      "normalized_valore": 21.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di autonomia impositiva",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.656000018119812,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.6480000019073486,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.597000002861023,
+                      "segno": 1,
+                      "normalized_valore": 26.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.6510000228881836,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.6200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.6200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.6200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 26.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigidita della spesa",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.4199999868869781,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.3989999890327454,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.367000013589859,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.5120000243186951,
+                      "segno": 1,
+                      "normalized_valore": 26.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.4429999887943268,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.4429999887943268,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.4429999887943268,
+                      "segno": 1,
+                      "normalized_valore": 26.55
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 25.36
+            },
+            {
+              "name": "Spesa pubblica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Spesa per Diritti, politiche sociali e famiglia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 8.341175079345703,
+                      "segno": 1,
+                      "normalized_valore": 25.98
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 8.411100387573242,
+                      "segno": 1,
+                      "normalized_valore": 25.97
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 6.710306644439697,
+                      "segno": 1,
+                      "normalized_valore": 26.09
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 6.975339412689209,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 6.402255535125732,
+                      "segno": 1,
+                      "normalized_valore": 26.12
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 6.96999979019165,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 6.96999979019165,
+                      "segno": 1,
+                      "normalized_valore": 26.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Ordine pubblico e sicurezza",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 4.584699153900146,
+                      "segno": 1,
+                      "normalized_valore": 26.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 4.354191303253174,
+                      "segno": 1,
+                      "normalized_valore": 26.26
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 3.445515394210815,
+                      "segno": 1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 3.14013671875,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 3.182280540466309,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 3.220000028610229,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 3.220000028610229,
+                      "segno": 1,
+                      "normalized_valore": 26.35
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Istruzione e diritto allo studio",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 6.146107196807861,
+                      "segno": 1,
+                      "normalized_valore": 26.14
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 5.996739387512207,
+                      "segno": 1,
+                      "normalized_valore": 26.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 5.078975200653076,
+                      "segno": 1,
+                      "normalized_valore": 26.21
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 4.174224376678467,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 3.862322330474854,
+                      "segno": 1,
+                      "normalized_valore": 26.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 4.159999847412109,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 4.159999847412109,
+                      "segno": 1,
+                      "normalized_valore": 26.28
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per Tutela e valorizzazione dei Beni culturali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 2.322528600692749,
+                      "segno": 1,
+                      "normalized_valore": 26.41
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 1.937719821929932,
+                      "segno": 1,
+                      "normalized_valore": 26.44
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 1.963166832923889,
+                      "segno": 1,
+                      "normalized_valore": 26.44
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 1.647655725479126,
+                      "segno": 1,
+                      "normalized_valore": 26.46
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 1.431109309196472,
+                      "segno": 1,
+                      "normalized_valore": 26.48
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 1.559999942779541,
+                      "segno": 1,
+                      "normalized_valore": 26.47
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 1.559999942779541,
+                      "segno": 1,
+                      "normalized_valore": 26.47
+                    }
+                  ]
+                },
+                {
+                  "name": "Spesa per le politiche giovanili",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.1617636680603027,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.1494788378477097,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.09268862009048462,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.0725121721625328,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.05989237129688263,
+                      "segno": 1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.8500000238418579,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.8500000238418579,
+                      "segno": 1,
+                      "normalized_valore": 26.52
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 26.32
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 25.84
+        },
+        {
+          "name": "Engagement",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Engagement Politico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Amministratori comunali under 40",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 24.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 21.0,
+                      "segno": 1,
+                      "normalized_valore": 25.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 24.0,
+                      "segno": 1,
+                      "normalized_valore": 24.85
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 23.0,
+                      "segno": 1,
+                      "normalized_valore": 24.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Amministratori comunali donne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 32.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.26
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 33.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 24.19
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 33.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.18
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 35.09999847412109,
+                      "segno": 1,
+                      "normalized_valore": 24.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 35.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 24.03
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 33.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 33.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 24.13
+                    }
+                  ]
+                },
+                {
+                  "name": "Affluenza alle urne",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 64.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 21.95
+                    }
+                  ]
+                },
+                {
+                  "name": "Partecipazione alle elezioni regionali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 62.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.04
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 23.26
+            },
+            {
+              "name": "Fiducia dei cittadini",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Fiducia interpersonale (gran parte della gente e degna di fiducia)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 20.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 25.12
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 22.0,
+                      "segno": 1,
+                      "normalized_valore": 24.99
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 21.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 25.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 26.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 24.64
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 23.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 24.87
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 27.5,
+                      "segno": 1,
+                      "normalized_valore": 24.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 27.5,
+                      "segno": 1,
+                      "normalized_valore": 24.6
+                    }
+                  ]
+                },
+                {
+                  "name": "Fiducia verso un appartenente alle forze dell'ordine (molto)",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 46.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 23.25
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 51.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 53.40000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.73
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 52.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 22.77
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 58.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 22.33
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 57.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.45
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 57.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 22.45
+                    }
+                  ]
+                },
+                {
+                  "name": "Grado di soddisfazione per la vita nel complesso",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 83.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.58
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 82.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.61
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 85.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 20.42
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 86.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 85.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 20.43
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 85.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.43
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 85.19999694824219,
+                      "segno": 1,
+                      "normalized_valore": 20.43
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 22.66
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 22.96
+        },
+        {
+          "name": "Giustizia e Sicurezza",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Giustizia",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lentezza giudiziaria",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 0.05407962575554848,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.05756709724664688,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.06086767092347145,
+                      "segno": -1,
+                      "normalized_valore": 26.57
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 0.03110460191965103,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 0.0332908071577549,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.0332908071577549,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.0332908071577549,
+                      "segno": -1,
+                      "normalized_valore": 26.58
+                    }
+                  ]
+                },
+                {
+                  "name": "Clearance rate",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 1.010201692581177,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 0.9777830243110657,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 0.9533314108848572,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 1.023436307907104,
+                      "segno": 1,
+                      "normalized_valore": 26.5
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 1.049428343772888,
+                      "segno": 1,
+                      "normalized_valore": 26.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 0.9528998136520386,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 0.9528998136520386,
+                      "segno": 1,
+                      "normalized_valore": 26.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero di magistrati effettivi",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 301.0,
+                      "segno": 1,
+                      "normalized_valore": 4.87
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 292.0,
+                      "segno": 1,
+                      "normalized_valore": 5.52
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 301.0,
+                      "segno": 1,
+                      "normalized_valore": 4.87
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 309.0,
+                      "segno": 1,
+                      "normalized_valore": 4.29
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 302.0,
+                      "segno": 1,
+                      "normalized_valore": 4.8
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 301.0,
+                      "segno": 1,
+                      "normalized_valore": 4.87
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 301.0,
+                      "segno": 1,
+                      "normalized_valore": 4.87
+                    }
+                  ]
+                },
+                {
+                  "name": "Numero magistrati donna",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 172.0,
+                      "segno": 1,
+                      "normalized_valore": 14.17
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 167.0,
+                      "segno": 1,
+                      "normalized_valore": 14.53
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 178.0,
+                      "segno": 1,
+                      "normalized_valore": 13.74
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 185.0,
+                      "segno": 1,
+                      "normalized_valore": 13.24
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 181.0,
+                      "segno": 1,
+                      "normalized_valore": 13.52
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 181.0,
+                      "segno": 1,
+                      "normalized_valore": 13.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 181.0,
+                      "segno": 1,
+                      "normalized_valore": 13.52
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 17.93
+            },
+            {
+              "name": "Sicurezza",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Delitti denunciati alle forze di polizia",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 9132.599609375,
+                      "segno": -1,
+                      "normalized_valore": 632.08
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 8540.7998046875,
+                      "segno": -1,
+                      "normalized_valore": 589.4
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 7912.0,
+                      "segno": -1,
+                      "normalized_valore": 544.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 7578.5,
+                      "segno": -1,
+                      "normalized_valore": 519.99
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 5955.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 402.97
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 7270.2998046875,
+                      "segno": -1,
+                      "normalized_valore": 497.77
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 7270.2998046875,
+                      "segno": -1,
+                      "normalized_valore": 497.77
+                    }
+                  ]
+                },
+                {
+                  "name": "Infortuni sul lavoro",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 1249.827026367188,
+                      "segno": -1,
+                      "normalized_valore": 63.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 1235.135864257812,
+                      "segno": -1,
+                      "normalized_valore": 62.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 1256.042358398438,
+                      "segno": -1,
+                      "normalized_valore": 64.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 1263.859985351562,
+                      "segno": -1,
+                      "normalized_valore": 64.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 1393.030151367188,
+                      "segno": -1,
+                      "normalized_valore": 73.89
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 1174.373291015625,
+                      "segno": -1,
+                      "normalized_valore": 58.12
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 1174.373291015625,
+                      "segno": -1,
+                      "normalized_valore": 58.12
+                    }
+                  ]
+                },
+                {
+                  "name": "Incidenti stradali",
+                  "type": "Indicatore",
+                  "color": "Blue",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Torino",
+                      "valore": 3.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Torino",
+                      "valore": 3.48035454750061,
+                      "segno": -1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Torino",
+                      "valore": 3.409127712249756,
+                      "segno": -1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Torino",
+                      "valore": 3.4068603515625,
+                      "segno": -1,
+                      "normalized_valore": 26.33
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Torino",
+                      "valore": 2.433403253555298,
+                      "segno": -1,
+                      "normalized_valore": 26.4
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Torino",
+                      "valore": 3.269891977310181,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Torino",
+                      "valore": 3.269891977310181,
+                      "segno": -1,
+                      "normalized_valore": 26.34
+                    }
+                  ]
+                }
+              ],
+              "color": "Blue",
+              "sign": 1,
+              "value": 210.06
+            }
+          ],
+          "color": "Blue",
+          "sign": 1,
+          "value": 113.78
+        }
+      ],
+      "color": "Blue",
+      "sign": 1,
+      "value": 54.46
+    }
+  ],
+  "value": 47.65
+}

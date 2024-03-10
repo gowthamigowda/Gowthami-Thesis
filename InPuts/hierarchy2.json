@@ -1,0 +1,655 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Ambiente",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Suolo",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Ambiente costruito",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Suolo Consumato",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Densita del consumo del suolo",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Aree a rischio idraulico",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Aree verdi",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Copertura del suolo a verde (verde urbano)",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Densita del verde urbano",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Disponibilita di verde urbano",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Eventi estremi",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Giorni di allerta rossa",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Popolazione esposta al rischio alluvioni",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Popolazione esposta al rischio frane",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Ondate di caloree",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        }
+                    ],
+                    "color": "orange"
+                },
+                {
+                    "name": "Energia",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Fonti Energetiche",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Produzione di energia",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Potenza impianti fotovoltaici",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Produzione di energia da fonti rinnovabili",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Consumo energetico",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Consumo di energia elettrica",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Consumo di gas metano",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Consumo di carburante",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Consumo di energia elettrica per uso industriale",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        }
+                    ],
+                    "color": "orange"
+                },
+                {
+                    "name": "Inquinamento",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Aria",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Concentrazione di PM10",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Concentrazione di PM2,5",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Esposizione a No2",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Inquinamento da fonti elettromagnetiche",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Inquinamento acustico",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        },
+                        {
+                            "name": " Acqua",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Acque balneabili",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Consumo medio pro capite di acqua",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Perdite idriche totali",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        },
+                        {
+                            "name": " Rifiuti",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Produzione di rifiuti pro capite",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Riciclo da raccolta differenziata",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Consumo di materiale interno",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                },
+                                {
+                                    "name": "Costo individuale dei rifiuti",
+                                    "type": "Indicatore",
+                                    "color": "orange"
+                                }
+                            ],
+                            "color": "orange"
+                        }
+                    ],
+                    "color": "orange"
+                }
+            ],
+            "color": "orange"
+        },
+        {
+            "name": "Infrastrutture",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Edifici",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Edilizia Residenziale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Alloggi in nuovi edifici residenziali",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Rigenerazione patrimonio residenziale",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Compravendite di unita immobiliari",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Edilizia non residenziale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Nuovi edifici non residenziali",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Rigenerazione dell'edilizia non residenziale",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        }
+                    ],
+                    "color": "purple"
+                },
+                {
+                    "name": "Reti",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Rete di trasmissione elettrica",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Rete di distribuzione gas",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Acqua immessa nelle reti di distribuzione dell’acqua potabile",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Telefonia e rete internet",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Penetrazione della Banda Ultralarga",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Broadband, Famiglie servite da tecnologia FWA",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Stazioni Radio Base, impianti attivi",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Stazioni Radio Base, servizi attivi",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        }
+                    ],
+                    "color": "purple"
+                },
+                {
+                    "name": "Mobilità",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": " Mobilità green",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Densita delle piste ciclabili",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Disponibilita dei percorsi pedonali",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Punti di ricarica auto elettriche",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Car Sharing",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Autobus a basse emissionio",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Trasporti pubblici",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Domanda di trasporto pubblico locale",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Densita delle reti di tram, metropolitane e filobus",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Licenze di Taxi attive",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": " Trasporto privato",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Lunghezza rete stradale principale",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Tasso di motorizzazione",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        },
+                        {
+                            "name": " Porti e Aeroporti",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Trasporto marittimo. Movimento passeggeri",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Trasporto marittimo. Movimentazione merci",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Trasporto aereo. Movimento passeggeri",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                },
+                                {
+                                    "name": "Trasporto aereo. Movimentazione merci",
+                                    "type": "Indicatore",
+                                    "color": "purple"
+                                }
+                            ],
+                            "color": "purple"
+                        }
+                    ],
+                    "color": "purple"
+                }
+            ],
+            "color": "purple"
+        },
+        {
+            "name": "Economia",
+            "type": "Asse",
+            "children": [
+                {
+                    "name": "Persone",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Reddito",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Reddito medio pro capite",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Variazione reddito pro-capite",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Retribuzione media",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Disagio Economico",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Numero pensionati con basso reddito",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Sofferenza prestiti alle famiglie",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Famiglie per capacita di arrivare a fine mese",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lavoro",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Tasso di occupazione",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Disoccupazione",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Disoccupazione giovanile",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Disoccupazione femminile",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Imprese ",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Solidità",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Solidità patrimoniale",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Solidità finanziaria",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Solidità commerciale",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Competitività",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Redditività",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Dimensione aziendale",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Produttività",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Innovatività",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Capitale intellettuale aziendale",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Propensione agli investimenti",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Addetti del settore ICT",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Territorio",
+                    "type": "Categoria",
+                    "children": [
+                        {
+                            "name": "Tessuto imprenditoriale",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Imprenditorialità attiva",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Imprenditorialità giovanile",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Imprenditorialità femminile",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Servizi bancari",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Rischiosità finanziaria",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dinamicità economica",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Imprese che hanno svolto attività di R&S",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Addetti nelle nuove imprese",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Turisticità",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Tasso di iscrizione netto sul registro delle imprese",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Innovazione",
+                            "type": "Tema",
+                            "children": [
+                                {
+                                    "name": "Intensità brevettuale",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Capacità di esportare in settori a domanda mondiale dinamica",
+                                    "type": "Indicatore"
+                                },
+                                {
+                                    "name": "Innovazione d'impresa",
+                                    "type": "Indicatore"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

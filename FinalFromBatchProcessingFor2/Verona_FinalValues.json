@@ -1,0 +1,4933 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 27.82629013061523,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 28.08575248718262,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 28.31435203552246,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 28.31435203552246,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 28.36024284362793,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 28.3267993927002,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 28.3267993927002,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.2261866927146912,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 25.94612693786621,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 16.12459754943848,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 6.735336780548096,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 4.589076519012451,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 7.071986675262451,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 7.071986675262451,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 4.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 4.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 4.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 4.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 4.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 7.545000076293945,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 7.545000076293945,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.68
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 7897221.0,
+                      "segno": 1,
+                      "normalized_valore": 727.76
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 7964221.0,
+                      "segno": 1,
+                      "normalized_valore": 734.08
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 8088221.0,
+                      "segno": 1,
+                      "normalized_valore": 745.79
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 8139790.0,
+                      "segno": 1,
+                      "normalized_valore": 750.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 8195169.0,
+                      "segno": 1,
+                      "normalized_valore": 755.88
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 8195169.0,
+                      "segno": 1,
+                      "normalized_valore": 755.88
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 8195169.0,
+                      "segno": 1,
+                      "normalized_valore": 755.88
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 3.970180511474609,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 4.003863334655762,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 4.066202163696289,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 4.092127323150635,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 4.119968414306641,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 4.119968414306641,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 4.119968414306641,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 30.63229942321777,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 30.89619827270508,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 31.32365226745605,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 31.44773483276367,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 31.69554710388184,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 31.69554710388184,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 31.69554710388184,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 260.73
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 4.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 4.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 4.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 4.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 7.183000087738037,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 7.183000087738037,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 7.183000087738037,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 23.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 12.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 39.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.68
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 98.72
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 2091.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 2049.89990234375,
+                      "segno": 1,
+                      "normalized_valore": 17.48
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 2155.60009765625,
+                      "segno": 1,
+                      "normalized_valore": 17.47
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2239.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.47
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 2247.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.46
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 2247.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.46
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 2247.199951171875,
+                      "segno": 1,
+                      "normalized_valore": 17.46
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 25.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 23.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 21.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 20.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 19.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 19.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 19.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 22.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 21.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 22.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 23.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 26.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 26.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 26.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.6
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1574.599975585938,
+                      "segno": -1,
+                      "normalized_valore": 17.53
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1699.702758789062,
+                      "segno": -1,
+                      "normalized_valore": 17.52
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 1724.330078125,
+                      "segno": -1,
+                      "normalized_valore": 17.51
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 1741.515014648438,
+                      "segno": -1,
+                      "normalized_valore": 17.51
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1614.784545898438,
+                      "segno": -1,
+                      "normalized_valore": 17.52
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1580.84375,
+                      "segno": -1,
+                      "normalized_valore": 17.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1580.84375,
+                      "segno": -1,
+                      "normalized_valore": 17.53
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 260.7999877929688,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 253.6000061035156,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 261.6508483886719,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 247.7080078125,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 233.2163848876953,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 233.2163848876953,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 233.2163848876953,
+                      "segno": -1,
+                      "normalized_valore": 17.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.3065166175365448,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 4.175352096557617,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": -12.90463638305664,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": -13.225341796875,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": -13.225341796875,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 2950.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 17.4
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 2986.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 17.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 3007.199951171875,
+                      "segno": -1,
+                      "normalized_valore": 17.39
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2983.89990234375,
+                      "segno": -1,
+                      "normalized_valore": 17.39
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 3062.10009765625,
+                      "segno": -1,
+                      "normalized_valore": 17.39
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 3370.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 17.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 3370.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 17.36
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.56
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 17.58
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 50.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 73.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 44.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 59.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 73.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 73.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 73.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 23.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 21.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 19.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 25.88640975952148,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 28.75252914428711,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 26.00558280944824,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 25.0,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 52.75193786621094,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.67
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": []
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 142.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 142.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 169.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 169.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 164.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 164.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 164.0,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 32.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 32.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 32.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 33.75,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 34.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 34.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 34.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 11.78
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 537.8103637695312,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 522.3175048828125,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 528.1263427734375,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 527.2184448242188,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 504.4303283691406,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 504.4303283691406,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 504.4303283691406,
+                      "segno": -1,
+                      "normalized_valore": 17.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 55.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 52.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 52.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 52.93000030517578,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 54.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 54.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 54.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 35.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 37.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 36.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 170.7700042724609,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 167.6199951171875,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 174.0299987792969,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 172.4900054931641,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 172.4900054931641,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 172.4900054931641,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 172.4900054931641,
+                      "segno": -1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 17.66
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 15.7
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 44.01
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1223.0,
+                      "segno": 1,
+                      "normalized_valore": 17.56
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1309.0,
+                      "segno": 1,
+                      "normalized_valore": 17.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 1499.0,
+                      "segno": 1,
+                      "normalized_valore": 17.54
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2017.0,
+                      "segno": 1,
+                      "normalized_valore": 17.49
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1794.0,
+                      "segno": 1,
+                      "normalized_valore": 17.51
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1794.0,
+                      "segno": 1,
+                      "normalized_valore": 17.51
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1794.0,
+                      "segno": 1,
+                      "normalized_valore": 17.51
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 50290.0,
+                      "segno": 1,
+                      "normalized_valore": 12.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 56023.0,
+                      "segno": 1,
+                      "normalized_valore": 12.39
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 55295.0,
+                      "segno": 1,
+                      "normalized_valore": 12.46
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 81899.0,
+                      "segno": 1,
+                      "normalized_valore": 9.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 49199.0,
+                      "segno": 1,
+                      "normalized_valore": 13.03
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 35328.0,
+                      "segno": 1,
+                      "normalized_valore": 14.34
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 35328.0,
+                      "segno": 1,
+                      "normalized_valore": 14.34
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 23.95876312255859,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 6.187624931335449,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 5.231829643249512,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": -0.7442691326141357,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": -11.72765445709229,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 22.05292701721191,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 22.05292701721191,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 16.02
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 140.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 163.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 159.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 176.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 176.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 157.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 157.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 3955679.0,
+                      "segno": 1,
+                      "normalized_valore": 355.71
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 4868360.0,
+                      "segno": 1,
+                      "normalized_valore": 441.86
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 5648826.0,
+                      "segno": 1,
+                      "normalized_valore": 515.53
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 5664766.0,
+                      "segno": 1,
+                      "normalized_valore": 517.03
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 5664766.0,
+                      "segno": 1,
+                      "normalized_valore": 517.03
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 3607656.0,
+                      "segno": 1,
+                      "normalized_valore": 322.86
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 3607656.0,
+                      "segno": 1,
+                      "normalized_valore": 322.86
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 14.33780670166016,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 14.37931823730469,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 14.36145877838135,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 14.29479312896729,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 13.53656196594238,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 13.53656196594238,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 13.53656196594238,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 164.8
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 89.75
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 5.409066677093506,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.68
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 5.305185794830322,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 8.978618621826172,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 14.75448131561279,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 18.48467826843262,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 22.33570861816406,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 22.33570861816406,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 22.33570861816406,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 42.3122673034668,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 88.2044906616211,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 306.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 339.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 317.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 317.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 317.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 317.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 317.0,
+                      "segno": 1,
+                      "normalized_valore": 17.65
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 891.0,
+                      "segno": 1,
+                      "normalized_valore": 17.59
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 855.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 841.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 841.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 841.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 841.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 841.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 17.67
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 44.7461051940918,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 44.70000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 48.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 50.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 50.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 50.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 17.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 17.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 17.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 17.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 17.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 17.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 17.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 15.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 22.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1.399999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1.399999976158142,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 106.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 109.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 149.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 149.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 154.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 154.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 154.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.67
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 183.5045471191406,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 188.6760864257812,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 195.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 199.5,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 118.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 118.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 118.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.0,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 6.858896732330322,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 6.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 6.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 6.800000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.67
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.6299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 635.2152099609375,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 638.6593627929688,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 650.93115234375,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 633.2477416992188,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 633.9000244140625,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 634.2999877929688,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 634.2999877929688,
+                      "segno": 1,
+                      "normalized_valore": 17.62
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 17.65
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 2775195.0,
+                      "segno": 1,
+                      "normalized_valore": 244.28
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 3076358.0,
+                      "segno": 1,
+                      "normalized_valore": 272.71
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 3442050.0,
+                      "segno": 1,
+                      "normalized_valore": 307.23
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 3615347.0,
+                      "segno": 1,
+                      "normalized_valore": 323.58
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1031956.0,
+                      "segno": 1,
+                      "normalized_valore": 79.73
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1449460.0,
+                      "segno": 1,
+                      "normalized_valore": 119.14
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1449460.0,
+                      "segno": 1,
+                      "normalized_valore": 119.14
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 25053.0,
+                      "segno": 1,
+                      "normalized_valore": 15.31
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 26937.0,
+                      "segno": 1,
+                      "normalized_valore": 15.13
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 29416.0,
+                      "segno": 1,
+                      "normalized_valore": 14.9
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 29508.0,
+                      "segno": 1,
+                      "normalized_valore": 14.89
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 9790.0,
+                      "segno": 1,
+                      "normalized_valore": 16.75
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 12139.0,
+                      "segno": 1,
+                      "normalized_valore": 16.53
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 12139.0,
+                      "segno": 1,
+                      "normalized_valore": 16.53
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 85.12
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 38.46
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 45.18
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 24970.64453125,
+                      "segno": 1,
+                      "normalized_valore": 15.32
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 24854.125,
+                      "segno": 1,
+                      "normalized_valore": 15.33
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 25539.306640625,
+                      "segno": 1,
+                      "normalized_valore": 15.27
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 25639.3203125,
+                      "segno": 1,
+                      "normalized_valore": 15.26
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 25247.21484375,
+                      "segno": 1,
+                      "normalized_valore": 15.29
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 25247.21484375,
+                      "segno": 1,
+                      "normalized_valore": 15.29
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 25247.21484375,
+                      "segno": 1,
+                      "normalized_valore": 15.29
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1.365426421165466,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": -0.4666218161582947,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 2.756809234619141,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.3916079998016357,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": -0.01529312040656805,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": -0.01529312040656805,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": -0.01529312040656805,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 22355.099609375,
+                      "segno": 1,
+                      "normalized_valore": 15.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 22041.099609375,
+                      "segno": 1,
+                      "normalized_valore": 15.6
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 22249.900390625,
+                      "segno": 1,
+                      "normalized_valore": 15.58
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 22591.099609375,
+                      "segno": 1,
+                      "normalized_valore": 15.54
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 21458.30078125,
+                      "segno": 1,
+                      "normalized_valore": 15.65
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 21458.30078125,
+                      "segno": 1,
+                      "normalized_valore": 15.65
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 21458.30078125,
+                      "segno": 1,
+                      "normalized_valore": 15.65
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 16.19
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 8.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 7.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 7.699999809265137,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 7.599999904632568,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 7.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 7.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 7.0,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 1.899999976158142,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.4000000059604645,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 3.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 3.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 3.200000047683716,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 4.300000190734863,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.68
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 64.47740173339844,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 63.82809448242188,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 65.8123779296875,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 71.23348999023438,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 68.1438217163086,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 68.03060150146484,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 68.03060150146484,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 6.741145133972168,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 6.967267990112305,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 8.39043140411377,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 5.880335807800293,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 7.511332988739014,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 5.411573886871338,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 5.411573886871338,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 13.75739860534668,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 18.42367172241211,
+                      "segno": -1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 14.46912670135498,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 8.613165855407715,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 8.861695289611816,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 8.076556205749512,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 8.076556205749512,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 5.943816184997559,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 7.039420127868652,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 7.670740127563477,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 5.985089778900146,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 5.914157867431641,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 4.814762115478516,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 4.814762115478516,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.68
+            }
+          ],
+          "sign": 1,
+          "value": 17.18
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.9754825234413147,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.9450708627700806,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.8987794518470764,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.854458212852478,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.7143262624740601,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.658429741859436,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.658429741859436,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 27.53787231445312,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 28.68463134765625,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 29.86825561523438,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 31.09242057800293,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 32.11858749389648,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 32.82746887207031,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 32.82746887207031,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 2.232644319534302,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 2.262402772903442,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 2.264340400695801,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2.264982461929321,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1.827842593193054,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1.86881697177887,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1.86881697177887,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.68
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 6.174395084381104,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 6.333265781402588,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 6.259779930114746,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 5.524296283721924,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1.468048691749573,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 5.792281627655029,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 5.792281627655029,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.007179172243922949,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.007412353996187449,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.0077520408667624,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 0.00829305686056614,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1.820050001144409,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1.820050001144409,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1.820050001144409,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 55446.80859375,
+                      "segno": 1,
+                      "normalized_valore": 12.44
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 58514.66796875,
+                      "segno": 1,
+                      "normalized_valore": 12.15
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 52036.984375,
+                      "segno": 1,
+                      "normalized_valore": 12.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 55925.64453125,
+                      "segno": 1,
+                      "normalized_valore": 12.4
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 56704.2890625,
+                      "segno": 1,
+                      "normalized_valore": 12.32
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 61117.2578125,
+                      "segno": 1,
+                      "normalized_valore": 11.91
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 61117.2578125,
+                      "segno": 1,
+                      "normalized_valore": 11.91
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 15.88
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 20.2750415802002,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 18.95177459716797,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 18.36146354675293,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 18.34438514709473,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 18.2540225982666,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 17.11702156066895,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 17.11702156066895,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.4564964473247528,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.4564964473247528,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 4.073868274688721,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 2.144984245300293,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 17.94415473937988,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 2.996963262557983,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 2.996963262557983,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 3242.0,
+                      "segno": 1,
+                      "normalized_valore": 17.37
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 3340.0,
+                      "segno": 1,
+                      "normalized_valore": 17.36
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 3484.0,
+                      "segno": 1,
+                      "normalized_valore": 17.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 3448.0,
+                      "segno": 1,
+                      "normalized_valore": 17.35
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 3565.0,
+                      "segno": 1,
+                      "normalized_valore": 17.34
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 2874.0,
+                      "segno": 1,
+                      "normalized_valore": 17.41
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 2874.0,
+                      "segno": 1,
+                      "normalized_valore": 17.41
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.57
+            }
+          ],
+          "sign": 1,
+          "value": 17.04
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 22366.0,
+                      "segno": 1,
+                      "normalized_valore": 15.57
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 22568.0,
+                      "segno": 1,
+                      "normalized_valore": 15.55
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 22822.0,
+                      "segno": 1,
+                      "normalized_valore": 15.52
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 22819.0,
+                      "segno": 1,
+                      "normalized_valore": 15.52
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 23012.0,
+                      "segno": 1,
+                      "normalized_valore": 15.5
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 23225.0,
+                      "segno": 1,
+                      "normalized_valore": 15.48
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 23225.0,
+                      "segno": 1,
+                      "normalized_valore": 15.48
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 9.675399780273438,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 9.300780296325684,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 9.09648609161377,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 8.887331008911133,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 8.52164077758789,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 8.409042358398438,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 8.409042358398438,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 21.57292366027832,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 21.74760818481445,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 21.8648681640625,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 22.05618095397949,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 22.10151290893555,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 21.93756675720215,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 21.93756675720215,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 187.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 177.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 158.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 154.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 151.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 137.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 137.0,
+                      "segno": 1,
+                      "normalized_valore": 17.66
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 3.902962207794189,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1.634374141693115,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 1.508399367332458,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 1.508399367332458,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 1.508399367332458,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 1.508399367332458,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 1.508399367332458,
+                      "segno": -1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.24
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 25.63999938964844,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 28.1200008392334,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 27.31999969482422,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 27.6200008392334,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 29.08611679077148,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 677.0,
+                      "segno": 1,
+                      "normalized_valore": 17.61
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 1131.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 838.0,
+                      "segno": 1,
+                      "normalized_valore": 17.6
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 1129.0,
+                      "segno": 1,
+                      "normalized_valore": 17.57
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 405.0,
+                      "segno": 1,
+                      "normalized_valore": 17.64
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 519.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 519.0,
+                      "segno": 1,
+                      "normalized_valore": 17.63
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 18.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 18.79999923706055,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 19.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 19.5,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 8.100000381469727,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 0.2107336968183517,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 0.403215765953064,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 0.3322547376155853,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": -0.0667441263794899,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 0.09649882465600967,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 0.09649882465600967,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 0.09649882465600967,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.66
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 97.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 81.9000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 109.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 95.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 95.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 95.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 95.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 15.17483043670654,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 15.90041065216064,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 15.5607795715332,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 15.55189990997314,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 15.55189990997314,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 15.55189990997314,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 15.55189990997314,
+                      "segno": 1,
+                      "normalized_valore": 17.68
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Verona",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 17.67
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 17.67
+            }
+          ],
+          "sign": 1,
+          "value": 17.52
+        }
+      ],
+      "sign": 1,
+      "value": 17.25
+    }
+  ],
+  "value": 35.31
+}

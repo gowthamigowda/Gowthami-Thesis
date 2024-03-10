@@ -1,0 +1,4961 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Ambiente",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Suolo",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Ambiente costruito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Suolo Consumato",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 41.65097808837891,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 41.69379043579102,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 41.70659255981445,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 41.70718002319336,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 41.86805725097656,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 41.95212936401367,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 41.95212936401367,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del consumo del suolo",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1.466077923774719,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 4.280947208404541,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1.280374646186829,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.05864311754703522,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 16.08776092529297,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 3.176495790481567,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 3.176495790481567,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Aree a rischio idraulico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 6.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 6.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 6.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 6.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 6.800000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 6.833000183105469,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 6.833000183105469,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.07
+            },
+            {
+              "name": "Aree verdi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Copertura del suolo a verde (verde urbano)",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 8951063.0,
+                      "segno": 1,
+                      "normalized_valore": 878.96
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita del verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 8.748482704162598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita di verde urbano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 23.72173118591309,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 23.82921409606934,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 24.06600761413574,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 24.2967357635498,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 24.34517288208008,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 24.34517288208008,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 24.34517288208008,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 302.37
+            },
+            {
+              "name": "Eventi estremi",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Giorni di allerta rossa",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio alluvioni",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 2.400000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Popolazione esposta al rischio frane",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.4000000059604645,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.4000000059604645,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.4000000059604645,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.4000000059604645,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.4420000016689301,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.4420000016689301,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.4420000016689301,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Ondate di calore",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 33.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 33.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 26.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 31.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 17.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 30.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 56.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.07
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 110.17
+        },
+        {
+          "name": "Energia",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Fonti Energetiche",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di energia",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 297.7000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 361.6000061035156,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 325.7999877929688,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 341.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 369.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 369.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 369.2000122070312,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    }
+                  ]
+                },
+                {
+                  "name": "Potenza impianti fotovoltaici",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 13.72888851165771,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 14.31781005859375,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 14.39035320281982,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 13.78576278686523,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 13.9154224395752,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 13.9154224395752,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 13.9154224395752,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Produzione di energia da fonti rinnovabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 3.700000047683716,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 4.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 4.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 4.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 4.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.06
+            },
+            {
+              "name": "Consumo energetico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Consumo di energia elettrica",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1462.44970703125,
+                      "segno": -1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1482.438110351562,
+                      "segno": -1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1468.0,
+                      "segno": -1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 1568.745361328125,
+                      "segno": -1,
+                      "normalized_valore": 13.92
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 1321.142333984375,
+                      "segno": -1,
+                      "normalized_valore": 13.94
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 1512.5419921875,
+                      "segno": -1,
+                      "normalized_valore": 13.92
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 1512.5419921875,
+                      "segno": -1,
+                      "normalized_valore": 13.92
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di gas metano",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 248.0,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 263.2000122070312,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 274.1503295898438,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 266.9308471679688,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 243.5814666748047,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 243.5814666748047,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 243.5814666748047,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di carburante",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 2.990570545196533,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 2.990570545196533,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 2.990570545196533,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 1.898213028907776,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": -20.57390975952148,
+                      "segno": -1,
+                      "normalized_valore": 14.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": -11.61463260650635,
+                      "segno": -1,
+                      "normalized_valore": 14.08
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": -11.61463260650635,
+                      "segno": -1,
+                      "normalized_valore": 14.08
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di energia elettrica per uso industriale",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1134.099975585938,
+                      "segno": -1,
+                      "normalized_valore": 13.96
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1195.0,
+                      "segno": -1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1204.599975585938,
+                      "segno": -1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 1271.900024414062,
+                      "segno": -1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 1295.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 13.94
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 1379.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 13.94
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 1379.300048828125,
+                      "segno": -1,
+                      "normalized_valore": 13.94
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.0
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 14.03
+        },
+        {
+          "name": "Inquinamento",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Aria",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Concentrazione di PM10",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 24.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 22.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 20.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 13.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Concentrazione di PM2,5",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 17.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 16.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 15.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 14.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Esposizione a NO2",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 34.77518463134766,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 35.07245254516602,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 31.95827293395996,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 30.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 30.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 30.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 30.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento da fonti elettromagnetiche",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Inquinamento acustico",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 27.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.07
+            },
+            {
+              "name": " Acqua",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Acque balneabili",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": []
+                },
+                {
+                  "name": "Consumo medio pro capite di acqua",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 149.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 149.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 135.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 135.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 138.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 138.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 138.0,
+                      "segno": -1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Perdite idriche totali",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 44.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 44.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 44.70000076293945,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 44.75,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 44.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 44.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 44.79999923706055,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 9.38
+            },
+            {
+              "name": " Rifiuti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Produzione di rifiuti pro capite",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 628.894775390625,
+                      "segno": -1,
+                      "normalized_valore": 14.01
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 621.4083862304688,
+                      "segno": -1,
+                      "normalized_valore": 14.01
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 645.754150390625,
+                      "segno": -1,
+                      "normalized_valore": 14.01
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 672.2454223632812,
+                      "segno": -1,
+                      "normalized_valore": 14.01
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 591.0252075195312,
+                      "segno": -1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 591.0252075195312,
+                      "segno": -1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 591.0252075195312,
+                      "segno": -1,
+                      "normalized_valore": 14.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Riciclo da raccolta differenziata",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 50.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 50.90000152587891,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 53.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 53.95000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 53.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 53.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 53.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Consumo di materiale interno",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 29.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 29.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 30.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 30.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 30.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 30.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 30.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Costo individuale dei rifiuti",
+                  "type": "Indicatore",
+                  "color": "orange",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 197.1000061035156,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 193.8600006103516,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 209.6199951171875,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 206.8999938964844,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 206.8999938964844,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 206.8999938964844,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 206.8999938964844,
+                      "segno": -1,
+                      "normalized_valore": 14.05
+                    }
+                  ]
+                }
+              ],
+              "color": "orange",
+              "sign": 1,
+              "value": 14.05
+            }
+          ],
+          "color": "orange",
+          "sign": 1,
+          "value": 12.5
+        }
+      ],
+      "color": "orange",
+      "sign": 1,
+      "value": 45.57
+    },
+    {
+      "name": "Infrastrutture",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Edifici",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Edilizia Residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Alloggi in nuovi edifici residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 212.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 387.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 435.0,
+                      "segno": 1,
+                      "normalized_valore": 14.03
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 545.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 543.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 543.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 543.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione patrimonio residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 6402.0,
+                      "segno": 1,
+                      "normalized_valore": 13.44
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 4521.0,
+                      "segno": 1,
+                      "normalized_valore": 13.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 7297.0,
+                      "segno": 1,
+                      "normalized_valore": 13.35
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 3922.0,
+                      "segno": 1,
+                      "normalized_valore": 13.68
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 2409.0,
+                      "segno": 1,
+                      "normalized_valore": 13.83
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 4347.0,
+                      "segno": 1,
+                      "normalized_valore": 13.64
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 4347.0,
+                      "segno": 1,
+                      "normalized_valore": 13.64
+                    }
+                  ]
+                },
+                {
+                  "name": "Compravendite di unita immobiliari",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 16.01647758483887,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 7.832080364227295,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 3.931822538375854,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": -7.454342365264893,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": -15.14297199249268,
+                      "segno": 1,
+                      "normalized_valore": 14.08
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 28.9273853302002,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 28.9273853302002,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 13.9
+            },
+            {
+              "name": "Edilizia non residenziale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Nuovi edifici non residenziali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 54.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 77.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 66.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 73.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 73.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 49.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 49.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Rigenerazione dell'edilizia non residenziale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 566839.0,
+                      "segno": 1,
+                      "normalized_valore": 42.48
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 711954.0,
+                      "segno": 1,
+                      "normalized_valore": 56.96
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 550567.0,
+                      "segno": 1,
+                      "normalized_valore": 40.86
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 655969.0,
+                      "segno": 1,
+                      "normalized_valore": 51.37
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 655969.0,
+                      "segno": 1,
+                      "normalized_valore": 51.37
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 941241.0,
+                      "segno": 1,
+                      "normalized_valore": 79.83
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 941241.0,
+                      "segno": 1,
+                      "normalized_valore": 79.83
+                    }
+                  ]
+                },
+                {
+                  "name": "Edifici per la cultura (musei, archivi, biblioteche e teatri) pro capite",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 42.08787155151367,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 42.19044494628906,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 42.38029861450195,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 43.70178604125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 39.43721771240234,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 39.43721771240234,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 39.43721771240234,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 30.31
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 21.81
+        },
+        {
+          "name": "Reti",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Rete di trasmissione elettrica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Rete di distribuzione gas",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 8.485499382019043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.07
+            },
+            {
+              "name": "Telefonia e rete internet",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Penetrazione della Banda Ultralarga",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 3.508692741394043,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 7.832939624786377,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 14.22572612762451,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 19.0126895904541,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 23.93125534057617,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 23.93125534057617,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 23.93125534057617,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FTTP",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 48.14709854125977,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Broadband, Famiglie servite da tecnologia FWA",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 86.3542251586914,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, impianti attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 337.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 344.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 352.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 352.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 352.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 352.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 352.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    }
+                  ]
+                },
+                {
+                  "name": "Stazioni Radio Base, servizi attivi",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1037.0,
+                      "segno": 1,
+                      "normalized_valore": 13.97
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1214.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1268.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 1268.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 1268.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 1268.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 1268.0,
+                      "segno": 1,
+                      "normalized_valore": 13.95
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.04
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 14.06
+        },
+        {
+          "name": "Mobilit\u00c3\u00a0",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": " Mobilit\u00c3\u00a0 green",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Densita piste ciclabili",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 89.93157196044922,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 87.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 88.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 99.69999694824219,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 91.5,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 91.5,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 91.5,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Disponibilita dei percorsi pedonali",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 103.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 107.4000015258789,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 107.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 110.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 110.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 110.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 110.8000030517578,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Punti di ricarica auto elettriche",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 173.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Car Sharing",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 16.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 13.60000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 13.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 14.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 17.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 17.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 17.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Autobus a basse emissioni",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 119.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 125.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 93.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 83.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 82.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.06
+            },
+            {
+              "name": "Trasporti pubblici",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Domanda di trasporto pubblico locale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 235.7286834716797,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 246.3292999267578,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 301.7999877929688,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 305.0,
+                      "segno": 1,
+                      "normalized_valore": 14.04
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 238.5,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 238.5,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 238.5,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    }
+                  ]
+                },
+                {
+                  "name": "Densita delle reti di tram, metropolitane e filobus",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 9.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 15.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 23.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 24.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 24.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 24.20000076293945,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Licenze di Taxi attive",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 17.64553642272949,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 20.39999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 20.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 21.10000038146973,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 20.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 20.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 20.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.06
+            },
+            {
+              "name": " Trasporto privato",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Lunghezza rete stradale principale",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.4699999988079071,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di motorizzazione",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 514.65625,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 517.115966796875,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 522.4201049804688,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 537.4912719726562,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 538.5999755859375,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 535.9000244140625,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 535.9000244140625,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 14.04
+            },
+            {
+              "name": " Porti e Aeroporti",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Trasporto marittimo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto marittimo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": []
+                },
+                {
+                  "name": "Trasporto Aereo. Movimento passeggeri",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 2503311.0,
+                      "segno": 1,
+                      "normalized_valore": 235.68
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 2648278.0,
+                      "segno": 1,
+                      "normalized_valore": 250.14
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 2706409.0,
+                      "segno": 1,
+                      "normalized_valore": 255.94
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 2861655.0,
+                      "segno": 1,
+                      "normalized_valore": 271.43
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 664654.0,
+                      "segno": 1,
+                      "normalized_valore": 52.24
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 828445.0,
+                      "segno": 1,
+                      "normalized_valore": 68.58
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 828445.0,
+                      "segno": 1,
+                      "normalized_valore": 68.58
+                    }
+                  ]
+                },
+                {
+                  "name": "Trasporto Aereo. Movimentazione merci",
+                  "type": "Indicatore",
+                  "color": "purple",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 28684.0,
+                      "segno": 1,
+                      "normalized_valore": 11.21
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 28970.0,
+                      "segno": 1,
+                      "normalized_valore": 11.18
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 27479.0,
+                      "segno": 1,
+                      "normalized_valore": 11.33
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 29064.0,
+                      "segno": 1,
+                      "normalized_valore": 11.17
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 9836.0,
+                      "segno": 1,
+                      "normalized_valore": 13.09
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 10341.0,
+                      "segno": 1,
+                      "normalized_valore": 13.04
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 10341.0,
+                      "segno": 1,
+                      "normalized_valore": 13.04
+                    }
+                  ]
+                }
+              ],
+              "color": "purple",
+              "sign": 1,
+              "value": 82.34
+            }
+          ],
+          "color": "purple",
+          "sign": 1,
+          "value": 36.26
+        }
+      ],
+      "color": "purple",
+      "sign": 1,
+      "value": 22.17
+    },
+    {
+      "name": "Economia",
+      "type": "Asse",
+      "children": [
+        {
+          "name": "Persone",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Reddito",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Reddito medio  pro capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 25885.619140625,
+                      "segno": 1,
+                      "normalized_valore": 11.49
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 25782.466796875,
+                      "segno": 1,
+                      "normalized_valore": 11.5
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 26662.04296875,
+                      "segno": 1,
+                      "normalized_valore": 11.41
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 26570.310546875,
+                      "segno": 1,
+                      "normalized_valore": 11.42
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 25647.384765625,
+                      "segno": 1,
+                      "normalized_valore": 11.52
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 25647.384765625,
+                      "segno": 1,
+                      "normalized_valore": 11.52
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 25647.384765625,
+                      "segno": 1,
+                      "normalized_valore": 11.52
+                    }
+                  ]
+                },
+                {
+                  "name": "Variazione reddito pro-capite",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1.070118188858032,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": -0.398493230342865,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 3.411527872085571,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": -0.3440576791763306,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": -0.03473522514104843,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": -0.03473522514104843,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": -0.03473522514104843,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Retribuzione media",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 22510.900390625,
+                      "segno": 1,
+                      "normalized_valore": 11.83
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 22245.599609375,
+                      "segno": 1,
+                      "normalized_valore": 11.85
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 22543.19921875,
+                      "segno": 1,
+                      "normalized_valore": 11.82
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 22787.19921875,
+                      "segno": 1,
+                      "normalized_valore": 11.8
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 21085.099609375,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 21085.099609375,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 21085.099609375,
+                      "segno": 1,
+                      "normalized_valore": 11.97
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.48
+            },
+            {
+              "name": "Disagio Economico",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Numero pensionati con basso reddito",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 7.300000190734863,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 7.199999809265137,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 7.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 6.900000095367432,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 6.5,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 6.5,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 6.5,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofferenza prestiti alle famiglie",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1.299999952316284,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1.0,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.800000011920929,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.6000000238418579,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.5,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.300000011920929,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Famiglie per capacita di arrivare a fine mese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 6.900000095367432,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 4.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 3.799999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 3.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 3.099999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 2.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 2.599999904632568,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.07
+            },
+            {
+              "name": "Lavoro",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Tasso di occupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 69.0521011352539,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 69.50199890136719,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 71.94503021240234,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 72.23802947998047,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 67.77291107177734,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 67.36443328857422,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 67.36443328857422,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 9.4633150100708,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 9.447285652160645,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 5.693160057067871,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 6.798755168914795,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 7.929821968078613,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 8.11363697052002,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 8.11363697052002,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 21.94320678710938,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 14.82990169525146,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 11.36096954345703,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 11.1964807510376,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 13.73798179626465,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 13.38727760314941,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 13.38727760314941,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Disoccupazione femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 9.777546882629395,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 6.673770904541016,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 6.67199182510376,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 7.878052234649658,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 6.434356212615967,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 7.111351013183594,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 7.111351013183594,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.07
+            }
+          ],
+          "sign": 1,
+          "value": 13.54
+        },
+        {
+          "name": "Imprese ",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Solidit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Solidita patrimoniale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.8824161291122437,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.912061870098114,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.8879774808883667,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.8609448075294495,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 0.674809992313385,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 0.6265503168106079,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 0.6265503168106079,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 28.95911407470703,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 29.72566032409668,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 30.78967094421387,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 31.59297180175781,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 30.71482467651367,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 31.1546516418457,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 31.1546516418457,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Solidita commerciale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 2.290410280227661,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 2.35739803314209,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 2.352768898010254,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 2.34705662727356,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 1.62464714050293,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 1.689843535423279,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 1.689843535423279,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.07
+            },
+            {
+              "name": "Competitivit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Redditivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 6.537168025970459,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 6.431949138641357,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 7.100437164306641,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 6.455705165863037,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": -0.989072322845459,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 5.576501846313477,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 5.576501846313477,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimensione aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.005892720073461533,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.006194489542394876,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.006516626104712486,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 0.006663316860795021,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 1.276115655899048,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 1.276115655899048,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 1.276115655899048,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Produttivita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 50263.5625,
+                      "segno": 1,
+                      "normalized_valore": 9.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 54648.90625,
+                      "segno": 1,
+                      "normalized_valore": 8.62
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 43207.95703125,
+                      "segno": 1,
+                      "normalized_valore": 9.76
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 53604.69140625,
+                      "segno": 1,
+                      "normalized_valore": 8.73
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 54954.1484375,
+                      "segno": 1,
+                      "normalized_valore": 8.59
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 54075.71484375,
+                      "segno": 1,
+                      "normalized_valore": 8.68
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 54075.71484375,
+                      "segno": 1,
+                      "normalized_valore": 8.68
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 12.34
+            },
+            {
+              "name": "Innovativit\u00c3\u00a0",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Capitale intellettuale aziendale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 25.14235305786133,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 23.65035438537598,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 22.86735343933105,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 22.8172550201416,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 23.72340774536133,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 23.12092971801758,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 23.12092971801758,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Propensione agli investimenti",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1.973498463630676,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1.973498463630676,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1.483916521072388,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 3.690342426300049,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 109.0180358886719,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": -1.37989604473114,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": -1.37989604473114,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti del settore ICT",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 3286.0,
+                      "segno": 1,
+                      "normalized_valore": 13.75
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 3808.0,
+                      "segno": 1,
+                      "normalized_valore": 13.69
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 3653.0,
+                      "segno": 1,
+                      "normalized_valore": 13.71
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 3738.0,
+                      "segno": 1,
+                      "normalized_valore": 13.7
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 3550.0,
+                      "segno": 1,
+                      "normalized_valore": 13.72
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 3364.0,
+                      "segno": 1,
+                      "normalized_valore": 13.74
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 3364.0,
+                      "segno": 1,
+                      "normalized_valore": 13.74
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 13.95
+            }
+          ],
+          "sign": 1,
+          "value": 13.45
+        },
+        {
+          "name": "Territorio",
+          "type": "Categoria",
+          "children": [
+            {
+              "name": "Tessuto imprenditoriale",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprenditorialita attiva",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 37575.0,
+                      "segno": 1,
+                      "normalized_valore": 10.33
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 37804.0,
+                      "segno": 1,
+                      "normalized_valore": 10.3
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 38011.0,
+                      "segno": 1,
+                      "normalized_valore": 10.28
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 37839.0,
+                      "segno": 1,
+                      "normalized_valore": 10.3
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 37815.0,
+                      "segno": 1,
+                      "normalized_valore": 10.3
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 37261.0,
+                      "segno": 1,
+                      "normalized_valore": 10.36
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 37261.0,
+                      "segno": 1,
+                      "normalized_valore": 10.36
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita giovanile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 9.003326416015625,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 8.612845420837402,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 8.387045860290527,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 8.134464263916016,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 7.774692535400391,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 7.629961490631104,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 7.629961490631104,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Imprenditorialita femminile",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 21.3173656463623,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 21.44482040405273,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 21.39643859863281,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 21.38269996643066,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 21.40949440002441,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 21.70097351074219,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 21.70097351074219,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Servizi bancari",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 257.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 245.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 233.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 216.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 206.0,
+                      "segno": 1,
+                      "normalized_valore": 14.05
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 187.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 187.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                },
+                {
+                  "name": "Rischiosita finanziaria",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 2.378243207931519,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1.898774385452271,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 2.252002239227295,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 2.252002239227295,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 2.252002239227295,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 2.252002239227295,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 2.252002239227295,
+                      "segno": -1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 13.32
+            },
+            {
+              "name": "Dinamicit\u00c3\u00a0 economica",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Imprese che hanno svolto attivita di R&S",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 29.29999923706055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 32.70999908447266,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 32.0099983215332,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 31.51000022888184,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 29.82685470581055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 29.82685470581055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 29.82685470581055,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Addetti nelle nuove imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 1897.0,
+                      "segno": 1,
+                      "normalized_valore": 13.88
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 1760.0,
+                      "segno": 1,
+                      "normalized_valore": 13.9
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 1849.0,
+                      "segno": 1,
+                      "normalized_valore": 13.89
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 1395.0,
+                      "segno": 1,
+                      "normalized_valore": 13.93
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 589.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 571.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 571.0,
+                      "segno": 1,
+                      "normalized_valore": 14.02
+                    }
+                  ]
+                },
+                {
+                  "name": "Turisticita",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 13.89999961853027,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 14.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 15.30000019073486,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 15.69999980926514,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 3.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 3.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 3.299999952316284,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Tasso di iscrizione netto sul registro delle imprese",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 0.3700761497020721,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 0.3078645467758179,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 0.1856626123189926,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": -0.1056361719965935,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": -1.553726673126221,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": -1.553726673126221,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": -1.553726673126221,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.04
+            },
+            {
+              "name": "Innovazione",
+              "type": "Tema",
+              "children": [
+                {
+                  "name": "Intensita brevettuale",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 124.5999984741211,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 95.30000305175781,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 74.5,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 79.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 79.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 79.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 79.0,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Capacita di esportare in settori a domanda mondiale dinamica",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 16.54169273376465,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 21.27057075500488,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 54.30867004394531,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 53.09934616088867,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 53.09934616088867,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 53.09934616088867,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 53.09934616088867,
+                      "segno": 1,
+                      "normalized_valore": 14.07
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovazione d'impresa",
+                  "type": "Indicatore",
+                  "data": [
+                    {
+                      "year": "2016",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2017",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2018",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2019",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2020",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2021",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    },
+                    {
+                      "year": "2022",
+                      "comune": "Firenze",
+                      "valore": 100.0,
+                      "segno": 1,
+                      "normalized_valore": 14.06
+                    }
+                  ]
+                }
+              ],
+              "sign": 1,
+              "value": 14.07
+            }
+          ],
+          "sign": 1,
+          "value": 13.81
+        }
+      ],
+      "sign": 1,
+      "value": 13.6
+    }
+  ],
+  "value": 26.59
+}
