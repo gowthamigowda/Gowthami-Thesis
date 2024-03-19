@@ -40,7 +40,8 @@ function loadSunburst(containerId, data) {
     root.sum(d => 1);
 
 // Define an array of colors for each "Asse" segment
-const asseColors = ['rgb(34, 139, 34)', 'Purple', 'blue', 'yellow', 'orange', 'purple']; // Add more colors as needed
+const asseColors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'];
+// Add more colors as needed
 
 const paths = g.selectAll('path')
     .data(partition(root).descendants())
@@ -111,6 +112,8 @@ const paths = g.selectAll('path')
             const indicatorData = d.data.data 
             return `${d.ancestors().map(d => d.data.name).reverse().join('/')}\n${format(d.value)}\nValue: ${d.data.value || 'N/A'}`;
         });
+       
+        
        
         
         
