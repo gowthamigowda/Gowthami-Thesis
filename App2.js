@@ -40,7 +40,8 @@ function loadSunburst(containerId, data) {
     root.sum(d => 1);
 
 // Define an array of colors for each "Asse" segment
-const asseColors = ['rgb(34, 139, 34)', 'Purple', 'blue', 'yellow', 'orange', 'purple']; // Add more colors as needed
+const asseColors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'];
+// Add more colors as needed
 
 const paths = g.selectAll('path')
     .data(partition(root).descendants())
@@ -227,8 +228,8 @@ function parseCityName(jsonPath) {
 let globalData;
 
 // Load initial sunburst diagrams
-const path1 = "Data1.json";
-const path2 = "Data2.json";
+const path1 = "hierarchy1.json";
+const path2 = "hierarchy2.json";
 
 const hierarchyData1 = fetch(path1).then(response => response.json());
 const hierarchyData2 = fetch(path2).then(response => response.json());
@@ -607,4 +608,6 @@ nextButton.addEventListener("click", function() {
 });
 
 });
+
+
 
