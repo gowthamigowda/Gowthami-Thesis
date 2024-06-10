@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu Bar</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif; 
+    }
+
+    .explanation {
+      font-size: 24px; 
+    }
+
+    .explanation p:first-child {
+      font-weight: bold; 
+    }
+
+    .explanation ul {
+      list-style-type: disc;
+      padding-left: 20px; 
+    }
+
+    .explanation ul li {
+      margin-bottom: 20px; 
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="App1.html">Generate data for urban data management</a></li>
+        <li><a href="Page2.html">Batch Processing</a></li>
+        <li><a href="Page3.html">Visualization data for urban data management</a></li>
+      </ul>
+    </nav>
+    <div class="explanation">
+      <p>
+        <strong>Welcome to the urban data management application!</strong>
+      </p>
+      <p>
+        This project's purpose is to provide an interactive tool for visualising urban data indicators. The tool will allow users to compare numerous indicators across cities, assisting decision-makers in developing successful management strategies.
+      </p>
+      <ul>
+        <li>
+          <strong>Generate data for urban data management:</strong> The functionality includes the ability to generate data for urban management, either by creating a hierarchical dataset from scratch or loading existing indicator data. Additionally, the application supports data-saving features to preserve generated insights.
+        </li>
+        <li>
+          <strong>Batch Processing:</strong> When you click on "Batch Processing," the application performs a series of operations to process the data. First, it loads hierarchies from the input setting, followed by fetching indicator values for all cities and years from the provided Excel file. Then, for each city/year combination, it generates a hierarchy.
+        </li>
+        <li>
+          Next, the application propagates the values through the hierarchy to assign values to internal nodes. This procedure results in a collection of hierarchies filled with values for each city, year, and indicator.
+        </li>
+        <li>
+          <strong>Visualization data for urban data management:</strong> When you click on "Visualization data for urban data management," the application allows you to compare the data of different cities by selecting them from a dropdown menu. The data is visualized using a sunburst chart, which displays two hierarchies. By clicking on outer layers of the sunburst, you can view the comparison of attached indicator data for selected cities based on normalized values. Additionally, you can view this indicator data in the form of a histogram. Furthermore, whenever you change the year from the dropdown menu, the histogram dynamically updates to display data corresponding to the selected year. From this page, you can also explore one city versus another city, one city versus all other cities' average, and all cities together comparisons.
+        </li>
+      </ul>
+    </div>
+  </header>
+</body>
+</html>

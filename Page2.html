@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Batch Processing Steps</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    #step1Explanation, #step2Explanation, #step3Explanation {
+      display: block;
+      margin-top: 20px; 
+      font-size: 20px; 
+      line-height: 1.5; 
+    }
+  </style>
+</head>
+<body>
+
+<!-- Include xlsx library -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.3/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+
+<h1>Batch Processing Steps</h1>
+
+<button class="load-button" id="step1Btn">Step 1</button>
+
+<input type="file" id="jsonFilesInput" accept=".json" multiple style="display: none;">
+<button class="load-button" id="step2Btn">Step 2</button>
+<button class="load-button" id="step3Btn">Step 3</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.5.0/math.min.js"></script>
+
+
+<script src="Step1.js"></script>
+<script src="Step2.js"></script>
+<script src="Step3.js"></script>
+
+<button class="load-button" id="nextButton">Home Page</button>
+
+<!-- Explanation for Step 1 -->
+<p id="step1Explanation">Step 1:In this step it Read the values from Excel to JSON for each city. Begin by uploading a JSON file with initial data. Then, select Excel files containing additional information for cities. After processing, download a ZIP file containing JSON files, each json for a specific city.</p>
+
+<!-- Explanation for Step 2 -->
+<p id="step2Explanation">Step 2: Normalize Data. In this step, we ensure all data is on the same scale to ensure fair comparisons. To begin normalization, click on the "Step 2" button, and then load the folder of JSON files that you just downloaded from Step 1. Once the normalization process is complete, you will find the normalized data for each city.</p>
+
+<!-- Explanation for Step 3 -->
+<p id="step3Explanation">Step 3: Assign Values to Internal Nodes. In this step, we assign values to internal nodes based on the normalized values of their children. Click the "Step 3" button to start the process. Ensure you have the normalized JSON data from Step 2 ready to load. After processing, you will obtain the assigned values for each internal node and also this is final step where you will have final values for each types of node.</p>
+
+
+<script>
+  document.getElementById('step1Btn').addEventListener('click', function() {
+    // Execute Step 1 script
+    step1Function();
+  });
+
+  document.getElementById('step2Btn').addEventListener('click', function() {
+    // Execute Step 2 script
+    step2Function();
+  });
+
+  document.getElementById('step3Btn').addEventListener('click', function() {
+    // Execute Step 3 script
+    step3Function();
+  });
+
+  // Get the button element by its id
+  var nextButton = document.getElementById("nextButton");
+
+  // Add a click event listener to the button
+  nextButton.addEventListener("click", function() {
+    // Redirect to Page2.html when the button is clicked
+    window.location.href = "index.html";
+  });
+</script>
+
+</body>
+</html>

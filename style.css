@@ -1,0 +1,228 @@
+
+.menu-icon {
+  font-size: 24px;
+  cursor: pointer;
+  margin: 10px;
+}
+#menu {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.menu-option {
+  cursor: pointer;
+  padding: 10px; 
+  font-weight: bold; 
+  color: #333; 
+  transition: background-color 0.2s; 
+}
+.menu-option:hover {
+  background-color: #f0f0f0; 
+}
+.load-button {
+  background-color: blue; 
+  color: white; 
+  font-weight: bold; 
+  border: none; 
+  padding: 10px 20px; 
+  cursor: pointer; 
+  display: inline-block; 
+  margin-right: 30px; 
+}
+.load-button:hover {
+  background-color: #0073e6; 
+}
+
+.button {
+  fill: #968080; 
+  stroke: #352e2e; 
+  stroke-width: 2; 
+
+  
+  text-anchor: middle;
+
+  fill: #d9e7df; 
+  font-family: sans-serif; 
+  
+}
+#sunburstContainer1,
+#sunburstContainer2 {
+  display: inline-block;
+  margin-top: 40px;
+  margin-left: 500px; 
+ 
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropbtn {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+
+.dropdown-content input {
+  margin-left: 10px;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.select2-container {
+  width: 100%;
+}
+
+#sliderContainer {
+  margin-top: 20px;}
+
+  .selected {
+    fill: yellow;  
+    stroke: black; 
+    stroke-width: 2;
+    opacity: 1;    }
+
+    .line-chart-container {
+      margin-bottom: 20px;
+  }
+  
+  h3 {
+      font-size: 16px;
+      margin-bottom: 10px;
+  }
+
+
+.chart-container {
+  margin-top: 40px; 
+  padding: 20px; 
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  height: 600px; 
+}
+
+
+
+#sunburstContainer1 path.hovered,
+#sunburstContainer2 path.hovered {
+    fill-opacity: 0.7;
+    cursor: pointer; 
+}
+
+
+#sunburstContainer1 path,
+#sunburstContainer2 path {
+    transition: fill-opacity 0.2s ease-in-out; 
+}
+
+#svgContainer rect.bar {
+  fill: steelblue; 
+  stroke: #0f0303; 
+}
+
+
+#svgContainer {
+  width: 100%; 
+  height: 400px; 
+  overflow: visible; 
+  margin: 0 auto; 
+  border: 1px solid #a72121; 
+}
+.bar {
+  fill: steelblue;
+} 
+.bar-group {
+  fill: steelblue;
+}
+
+.tooltip {
+  position: absolute;
+  border: 1px solid #0a0808;
+  padding: 5px;
+  opacity: 0;
+  background-color: rgba(14, 9, 9, 0.8); /* Semi-transparent white background */
+}
+#yearSlider {
+  width: 80%;
+  margin: 20px auto;
+}
+
+
+#yearLabel {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#histogram {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#sidebar {
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+.dropdown-and-button-container {
+  display: flex;
+  align-items: center;
+  
+}
+
+
+.next-button {
+  background-color: blue; 
+  color: white; 
+  font-weight: bold; 
+  border: none; 
+  padding: 10px 20px; 
+  cursor: pointer; 
+  display: inline-block; 
+  margin-right: 30px; 
+}
+#sidebar {
+  width: 800px !important;
+}
+
+.legend-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.city-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px; /* Adjust spacing */
+}
+
+.sunburst-container {
+  width: 45%; /* Adjust as needed */
+}
+
+.sunburst {
+  width: 100%;
+  /* Add any additional styling as needed */
+}

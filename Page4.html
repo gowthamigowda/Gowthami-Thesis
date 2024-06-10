@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="Page4.js"></script>
+    <title>Dynamic Control Project - Part 2</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://d3js.org/d3-scale-chromatic.v2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.1.1/d3.min.js" defer></script>
+</head>
+<body>
+   
+    <h1>To Compare One city vs average of all other cities</h1>
+    <h2>Please select only one city from Drop dowm</h2>
+
+     
+  <div id="sidebar" style="width: 500px;">
+    <h2>Select Cities</h2>
+    <div class="dropdown-and-button-container">
+      <select id="cityDropdown" multiple style="width: 20%; height: 100px;"> 
+        <option value="Bari">Bari</option>
+        <option value="Bologna">Bologna</option>
+        <option value="Catania">Catania</option>
+        <option value="Firenze">Firenze</option>
+        <option value="Genova">Genova</option>
+        <option value="Milano">Milano</option>
+        <option value="Napoli">Napoli</option>
+        <option value="Palermo">Palermo</option>
+        <option value="Roma">Roma</option>
+        <option value="Torino">Torino</option>
+        <option value="Venezia">Venezia</option>
+        <option value="Verona">Verona</option>
+      </select>
+      <button class="load-button next-button" id="nextButton">Next Page</button>
+      <button class="load-button" id="Button">Home Page</button>
+      <button class="load-button" id="Button1">Back</button>
+
+
+    
+    
+    </div>
+  </div>
+  
+  
+
+  <div id="sunburstContainer1"></div>
+  <div id="sunburstContainer2"></div>
+  
+<select id="yearDropdown" style="width: 100px;">
+  <option value="2016">2016</option>
+  <option value="2017">2017</option>
+  <option value="2018">2018</option>
+  <option value="2019">2019</option>
+  <option value="2020">2020</option>
+  <option value="2021">2021</option>
+  <option value="2022" selected>2022</option>
+</select>
+<div id="histogram"></div>
+<div class="tooltip"></div>
+</svg>
+</div>
+
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        $('#cityDropdown').select2();
+    });
+
+
+ var nextButton = document.getElementById("Button");
+
+
+nextButton.addEventListener("click", function() {
+    
+    window.location.href = "index.html";
+});
+
+var nextButton = document.getElementById("Button1");
+
+
+nextButton.addEventListener("click", function() {
+  
+    window.location.href = "Page3.html";
+});
+        
+</script>
+
+</body>
+</html>
